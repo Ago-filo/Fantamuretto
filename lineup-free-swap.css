@@ -1,0 +1,4 @@
+.pitch-player[draggable="true"]{cursor:grab}
+.pitch-player[draggable="true"]:active{cursor:grabbing}
+.pitch-player.lineup-dragging{opacity:.28!important;transform:scale(.92)}
+.depth-card .panel-title:after{content:"Trascina riserve o titolari su qualsiasi posizione"!important;max-width:170px}

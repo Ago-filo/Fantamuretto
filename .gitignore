@@ -1,0 +1,14 @@
+# Dipendenze e file temporanei locali
+node_modules/
+.artifact_work/
+.codex-xlsx-read/
+outputs/
+
+# Dati personali esportati dall'app
+fantamuretto-fasce-*.json
+
+# Log e file di sistema
+*.log
+.DS_Store
+Thumbs.db
+Desktop.ini

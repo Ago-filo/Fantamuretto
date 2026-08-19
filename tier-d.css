@@ -1,0 +1,1 @@
+.tier-board{grid-template-columns:repeat(5,minmax(210px,1fr))}.tier-D>header{border-color:#72808b}.tier-D>header strong{background:#e4e8eb;color:#4e5e69}body[data-theme="dark"] .tier-D>header strong{background:#303a40;color:#b8c6ce}@media(max-width:1050px){.tier-board{grid-template-columns:1fr 1fr}}@media(max-width:600px){.tier-board{grid-template-columns:1fr}}

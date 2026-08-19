@@ -1,0 +1,42 @@
+.role-budget-plan{grid-template-columns:1fr 1fr auto!important;gap:0 10px;padding:13px 16px!important}
+.role-budget-plan>i{grid-column:1/-1!important;height:6px!important}
+.role-budget-plan .live-plan-base{grid-column:1/3;align-self:center;margin-top:10px;font:700 8px "Space Mono",monospace;color:var(--muted);text-transform:uppercase}
+.role-budget-plan .rebalance-role{grid-column:3;align-self:end;margin-top:8px;padding:7px 9px;border:1px solid #78974d;background:#edf7db;color:#345128;font:700 8px "Space Mono",monospace;cursor:pointer}
+.role-plan-warning{display:grid;grid-template-columns:1fr auto;gap:2px 12px;padding:12px 16px;background:#fff2df;border-bottom:1px solid #e4b36d;color:#6d451c}
+.role-plan-warning strong{font-size:11px}
+.role-plan-warning span{grid-column:1;font-size:9px;line-height:1.4}
+.role-plan-warning button{grid-column:2;grid-row:1/3;padding:0 12px;border:0;background:#d98735;color:#fff;font:700 8px "Space Mono",monospace;cursor:pointer}
+.live-plan-alert{position:fixed;z-index:75;left:50%;bottom:18px;transform:translateX(-50%);display:grid;grid-template-columns:auto auto auto;align-items:center;gap:12px;min-width:480px;padding:11px 14px;border:1px solid #e6a450;background:#3a2818;color:#fff;box-shadow:0 15px 45px #0006;text-align:left;cursor:pointer}
+.live-plan-alert[hidden]{display:none}
+.live-plan-alert span{font:700 7px "Space Mono",monospace;letter-spacing:.1em;color:#f1b768}
+.live-plan-alert strong{font-size:12px}
+.live-plan-alert em{justify-self:end;font:700 9px "Space Mono",monospace;font-style:normal;color:#ffd090}
+.rebalance-dialog{width:min(590px,calc(100% - 30px))}
+.rebalance-dialog form{padding:26px}
+.rebalance-dialog .dialog-head{margin-bottom:18px}
+.rebalance-dialog .dialog-head p{margin:6px 0 0;max-width:440px;font-size:10px;line-height:1.45;color:var(--muted)}
+.rebalance-main{display:block;padding:16px;border:2px solid #78974d;background:#f4f9e9;font-size:11px!important}
+.rebalance-main>div{position:relative;margin-top:9px}
+.rebalance-main input{width:100%;height:58px!important;margin:0!important;padding:0 50px 0 14px!important;border:1px solid #8aa064!important;background:#fff;font-size:24px;font-weight:700}
+.rebalance-main b{position:absolute;right:16px;top:16px;font:700 15px "Space Mono",monospace;color:#53713f}
+.rebalance-main small{display:block;margin-top:8px;font:700 10px "Space Mono",monospace;color:#52723f}
+.rebalance-preview{margin-top:18px}
+.rebalance-preview>span{font:700 8px "Space Mono",monospace;letter-spacing:.1em;color:var(--muted)}
+#rebalancePreview{margin-top:8px;border:1px solid var(--line)}
+#rebalancePreview>div{display:flex;align-items:center;justify-content:space-between;gap:15px;padding:10px 12px;border-bottom:1px solid var(--line)}
+#rebalancePreview>div:last-child{border-bottom:0}
+#rebalancePreview>div.selected{background:#eff7df}
+#rebalancePreview>div.changed strong{color:#4e762f}
+#rebalancePreview>div>span{display:flex;align-items:center;gap:8px;font-size:11px;font-weight:700}
+#rebalancePreview>div>strong{text-align:right;font:700 11px "Space Mono",monospace}
+#rebalancePreview>div>strong small{display:block;margin-top:2px;font-size:8px;color:var(--muted)}
+.rebalance-note{margin:12px 0 0;font-size:9px;line-height:1.45;color:var(--muted)}
+.rebalance-error{min-height:17px;margin:8px 0 0;color:#b14a43;font-size:10px;font-weight:700}
+.rebalance-save{width:100%;height:46px;margin-top:7px;border:0;background:#173d2a;color:#fff;font:700 10px "Space Mono",monospace;cursor:pointer}
+.rebalance-save:disabled{opacity:.4;cursor:not-allowed}
+body[data-theme="dark"] .role-budget-plan .rebalance-role{background:#2e4026;color:#c8f36a;border-color:#607c49}
+body[data-theme="dark"] .role-plan-warning{background:#3c2c1d;color:#f1c28e;border-color:#75522d}
+body[data-theme="dark"] .rebalance-main{background:#202a1d}
+body[data-theme="dark"] .rebalance-main input{background:#171d18;color:#fff}
+body[data-theme="dark"] #rebalancePreview>div.selected{background:#26351f}
+@media(max-width:700px){.live-plan-alert{right:10px;bottom:10px;left:10px;transform:none;min-width:0;grid-template-columns:1fr auto}.live-plan-alert span{grid-column:1/-1}.role-budget-plan{grid-template-columns:1fr 1fr!important}.role-budget-plan .live-plan-base{grid-column:1}.role-budget-plan .rebalance-role{grid-column:2}.role-plan-warning{grid-template-columns:1fr}.role-plan-warning button{grid-column:1;grid-row:auto;height:34px;margin-top:5px}}

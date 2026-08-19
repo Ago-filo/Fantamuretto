@@ -1,0 +1,19 @@
+#settingsDialog{width:min(570px,calc(100% - 30px))}
+.role-budget-settings{margin-top:26px!important;padding:22px!important;border:2px solid #78974d!important;background:#f6faec}
+.role-budget-settings>div:first-child{gap:18px}
+.role-budget-settings>div:first-child span{font-size:12px!important;letter-spacing:.09em;color:#36542c!important}
+.role-budget-settings>div:first-child b{padding:8px 11px!important;font-size:12px!important;white-space:nowrap}
+.role-budget-settings>p{max-width:430px;margin:8px 0 18px!important;font-size:11px!important;line-height:1.45!important;color:#5d6b5f!important}
+.role-budget-inputs{gap:10px!important}
+.role-budget-inputs label{display:grid;grid-template-columns:1fr auto;align-items:center;padding:11px 10px 9px;border:1px solid #cbd8b5;background:#fff;font-size:10px!important}
+.role-budget-inputs label>span{grid-column:1/-1;overflow:hidden;text-overflow:ellipsis;font-size:10px;letter-spacing:-.02em;color:#354538}
+.role-budget-inputs input{grid-column:1/-1;height:54px!important;margin-top:7px!important;padding:0 29px 0 8px!important;border-color:#9daf82!important;background:#fbfdf6;font-size:22px;font-weight:700}
+.role-budget-inputs em{right:20px!important;bottom:39px!important;font-size:12px!important;color:#4c6542!important}
+.role-budget-inputs small{grid-column:1/-1;margin-top:7px;text-align:center;font:700 10px "Space Mono",monospace;color:#52723f}
+body[data-theme="dark"] .role-budget-settings{background:#20281e;border-color:#78974d!important}
+body[data-theme="dark"] .role-budget-settings>div:first-child span{color:#c8f36a!important}
+body[data-theme="dark"] .role-budget-settings>p{color:#aeb9ad!important}
+body[data-theme="dark"] .role-budget-inputs label{background:#171d18;border-color:#43513d}
+body[data-theme="dark"] .role-budget-inputs input{background:#222a22;color:#f1f5ef;border-color:#617653!important}
+body[data-theme="dark"] .role-budget-inputs em,body[data-theme="dark"] .role-budget-inputs small{color:#b6d783!important}
+@media(max-width:560px){.role-budget-settings{padding:16px!important}.role-budget-inputs{grid-template-columns:1fr 1fr!important}.role-budget-settings>div:first-child{align-items:flex-start;flex-direction:column}.role-budget-settings>div:first-child b{font-size:11px!important}}

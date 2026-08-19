@@ -1,0 +1,8786 @@
+[
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Carnesecchi",
+    "club": "Atalanta",
+    "fvm": 52,
+    "fvm_prev": 52,
+    "quotation": 16,
+    "quotation_prev": 16,
+    "page": 1,
+    "team_number": 1,
+    "ocr_confidence": 0.971,
+    "source_text": {
+      "fvm": "52(52)",
+      "quotation": "16(16)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Rossi F.",
+    "club": "Atalanta",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 1,
+    "team_number": 2,
+    "ocr_confidence": 0.885,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Sportiello",
+    "club": "Atalanta",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 1,
+    "team_number": 3,
+    "ocr_confidence": 0.863,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Vismara",
+    "club": "Atalanta",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 1,
+    "team_number": 4,
+    "ocr_confidence": 0.959,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Scalvini",
+    "club": "Atalanta",
+    "fvm": 28,
+    "fvm_prev": 28,
+    "quotation": 10,
+    "quotation_prev": 10,
+    "page": 1,
+    "team_number": 5,
+    "ocr_confidence": 0.911,
+    "source_text": {
+      "fvm": "28(28)",
+      "quotation": "10(10)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Hien",
+    "club": "Atalanta",
+    "fvm": 16,
+    "fvm_prev": 16,
+    "quotation": 8,
+    "quotation_prev": 8,
+    "page": 1,
+    "team_number": 6,
+    "ocr_confidence": 0.95,
+    "source_text": {
+      "fvm": "16(16)",
+      "quotation": "8(8)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dd,E)",
+    "name": "Zappacosta",
+    "club": "Atalanta",
+    "fvm": 24,
+    "fvm_prev": 24,
+    "quotation": 8,
+    "quotation_prev": 8,
+    "page": 1,
+    "team_number": 7,
+    "ocr_confidence": 0.918,
+    "source_text": {
+      "fvm": "24(24)",
+      "quotation": "8(8)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Djimsiti",
+    "club": "Atalanta",
+    "fvm": 16,
+    "fvm_prev": 16,
+    "quotation": 7,
+    "quotation_prev": 7,
+    "page": 1,
+    "team_number": 8,
+    "ocr_confidence": 0.96,
+    "source_text": {
+      "fvm": "16(16)",
+      "quotation": "7(7)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(B,Ds,E)",
+    "name": "Ahanor",
+    "club": "Atalanta",
+    "fvm": 16,
+    "fvm_prev": 18,
+    "quotation": 6,
+    "quotation_prev": 7,
+    "page": 1,
+    "team_number": 9,
+    "ocr_confidence": 0.89,
+    "source_text": {
+      "fvm": "16(18)",
+      "quotation": "6(7)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dd,E)",
+    "name": "Bellanova",
+    "club": "Atalanta",
+    "fvm": 15,
+    "fvm_prev": 15,
+    "quotation": 6,
+    "quotation_prev": 6,
+    "page": 1,
+    "team_number": 10,
+    "ocr_confidence": 0.962,
+    "source_text": {
+      "fvm": "15(15)",
+      "quotation": "6(6)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Ds,E)",
+    "name": "Bernasconi",
+    "club": "Atalanta",
+    "fvm": 17,
+    "fvm_prev": 17,
+    "quotation": 6,
+    "quotation_prev": 6,
+    "page": 1,
+    "team_number": 11,
+    "ocr_confidence": 0.929,
+    "source_text": {
+      "fvm": "17(17)",
+      "quotation": "6(6)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Ds,Dc)",
+    "name": "Kolasinac",
+    "club": "Atalanta",
+    "fvm": 12,
+    "fvm_prev": 14,
+    "quotation": 5,
+    "quotation_prev": 6,
+    "page": 1,
+    "team_number": 12,
+    "ocr_confidence": 0.944,
+    "source_text": {
+      "fvm": "12(14)",
+      "quotation": "5(6)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dd,Dc)",
+    "name": "Kossounou",
+    "club": "Atalanta",
+    "fvm": 7,
+    "fvm_prev": 8,
+    "quotation": 3,
+    "quotation_prev": 3,
+    "page": 1,
+    "team_number": 13,
+    "ocr_confidence": 0.887,
+    "source_text": {
+      "fvm": "7(8)",
+      "quotation": "3(3)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Ederson D.S.",
+    "club": "Atalanta",
+    "fvm": 45,
+    "fvm_prev": 48,
+    "quotation": 12,
+    "quotation_prev": 13,
+    "page": 1,
+    "team_number": 14,
+    "ocr_confidence": 0.93,
+    "source_text": {
+      "fvm": "45(48)",
+      "quotation": "12(13)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C,T)",
+    "name": "Samardzic",
+    "club": "Atalanta",
+    "fvm": 42,
+    "fvm_prev": 42,
+    "quotation": 12,
+    "quotation_prev": 12,
+    "page": 1,
+    "team_number": 15,
+    "ocr_confidence": 0.96,
+    "source_text": {
+      "fvm": "42(42)",
+      "quotation": "12(12)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C,T)",
+    "name": "Pasalic",
+    "club": "Atalanta",
+    "fvm": 32,
+    "fvm_prev": 32,
+    "quotation": 9,
+    "quotation_prev": 9,
+    "page": 1,
+    "team_number": 16,
+    "ocr_confidence": 0.895,
+    "source_text": {
+      "fvm": "32(32)",
+      "quotation": "(6)6"
+    },
+    "manually_verified": true
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Gaetano",
+    "club": "Atalanta",
+    "fvm": 24,
+    "fvm_prev": 27,
+    "quotation": 7,
+    "quotation_prev": 8,
+    "page": 1,
+    "team_number": 17,
+    "ocr_confidence": 0.976,
+    "source_text": {
+      "fvm": "24(27)",
+      "quotation": "7(8)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(W)",
+    "name": "Zalewski",
+    "club": "Atalanta",
+    "fvm": 21,
+    "fvm_prev": 19,
+    "quotation": 6,
+    "quotation_prev": 5,
+    "page": 1,
+    "team_number": 18,
+    "ocr_confidence": 0.957,
+    "source_text": {
+      "fvm": "21(19)",
+      "quotation": "6(5)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "De Roon",
+    "club": "Atalanta",
+    "fvm": 12,
+    "fvm_prev": 14,
+    "quotation": 4,
+    "quotation_prev": 5,
+    "page": 1,
+    "team_number": 19,
+    "ocr_confidence": 0.877,
+    "source_text": {
+      "fvm": "12(14)",
+      "quotation": "4(5)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Sulemana I.",
+    "club": "Atalanta",
+    "fvm": 7,
+    "fvm_prev": 8,
+    "quotation": 3,
+    "quotation_prev": 3,
+    "page": 1,
+    "team_number": 20,
+    "ocr_confidence": 0.89,
+    "source_text": {
+      "fvm": "7(8)",
+      "quotation": "3(3)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(Pc)",
+    "name": "Scamacca",
+    "club": "Atalanta",
+    "fvm": 128,
+    "fvm_prev": 125,
+    "quotation": 19,
+    "quotation_prev": 18,
+    "page": 1,
+    "team_number": 21,
+    "ocr_confidence": 0.843,
+    "source_text": {
+      "fvm": "128(125)",
+      "quotation": "19(18)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(PC)",
+    "name": "Krstovic",
+    "club": "Atalanta",
+    "fvm": 100,
+    "fvm_prev": 97,
+    "quotation": 18,
+    "quotation_prev": 17,
+    "page": 1,
+    "team_number": 22,
+    "ocr_confidence": 0.896,
+    "source_text": {
+      "fvm": "100(97)",
+      "quotation": "18(17)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(A)",
+    "name": "De Ketelaere",
+    "club": "Atalanta",
+    "fvm": 106,
+    "fvm_prev": 108,
+    "quotation": 17,
+    "quotation_prev": 18,
+    "page": 1,
+    "team_number": 23,
+    "ocr_confidence": 0.956,
+    "source_text": {
+      "fvm": "106(108)",
+      "quotation": "17(18)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(A)",
+    "name": "Raspadori",
+    "club": "Atalanta",
+    "fvm": 62,
+    "fvm_prev": 64,
+    "quotation": 13,
+    "quotation_prev": 14,
+    "page": 1,
+    "team_number": 24,
+    "ocr_confidence": 0.953,
+    "source_text": {
+      "fvm": "62(64)",
+      "quotation": "13(14)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(A)",
+    "name": "Sulemana K.",
+    "club": "Atalanta",
+    "fvm": 16,
+    "fvm_prev": 17,
+    "quotation": 6,
+    "quotation_prev": 6,
+    "page": 1,
+    "team_number": 25,
+    "ocr_confidence": 0.962,
+    "source_text": {
+      "fvm": "16(17)",
+      "quotation": "6(6)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(T,A)",
+    "name": "Maldini",
+    "club": "Atalanta",
+    "fvm": 14,
+    "fvm_prev": 15,
+    "quotation": 5,
+    "quotation_prev": 6,
+    "page": 1,
+    "team_number": 26,
+    "ocr_confidence": 0.879,
+    "source_text": {
+      "fvm": "14(15)",
+      "quotation": "5(6)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Skorupski",
+    "club": "Bologna",
+    "fvm": 37,
+    "fvm_prev": 37,
+    "quotation": 10,
+    "quotation_prev": 10,
+    "page": 1,
+    "team_number": 1,
+    "ocr_confidence": 0.98,
+    "source_text": {
+      "fvm": "37(37)",
+      "quotation": "10(10)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Happonen",
+    "club": "Bologna",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 1,
+    "team_number": 2,
+    "ocr_confidence": 0.874,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Pessina Mas.",
+    "club": "Bologna",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 1,
+    "team_number": 3,
+    "ocr_confidence": 0.925,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Lucumi",
+    "club": "Bologna",
+    "fvm": 18,
+    "fvm_prev": 18,
+    "quotation": 8,
+    "quotation_prev": 8,
+    "page": 1,
+    "team_number": 4,
+    "ocr_confidence": 0.926,
+    "source_text": {
+      "fvm": "18(18)",
+      "quotation": "8(8)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Ds,E)",
+    "name": "Miranda J.",
+    "club": "Bologna",
+    "fvm": 24,
+    "fvm_prev": 24,
+    "quotation": 8,
+    "quotation_prev": 8,
+    "page": 1,
+    "team_number": 5,
+    "ocr_confidence": 0.972,
+    "source_text": {
+      "fvm": "24(24)",
+      "quotation": "8(8)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Ds,Dc)",
+    "name": "Heggem",
+    "club": "Bologna",
+    "fvm": 15,
+    "fvm_prev": 17,
+    "quotation": 6,
+    "quotation_prev": 7,
+    "page": 1,
+    "team_number": 6,
+    "ocr_confidence": 0.93,
+    "source_text": {
+      "fvm": "15(17)",
+      "quotation": "6(7)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dd,E)",
+    "name": "Zortea",
+    "club": "Bologna",
+    "fvm": 19,
+    "fvm_prev": 19,
+    "quotation": 6,
+    "quotation_prev": 6,
+    "page": 1,
+    "team_number": 7,
+    "ocr_confidence": 0.95,
+    "source_text": {
+      "fvm": "19(19)",
+      "quotation": "6(6)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dd,E)",
+    "name": "Holm",
+    "club": "Bologna",
+    "fvm": 13,
+    "fvm_prev": 13,
+    "quotation": 5,
+    "quotation_prev": 5,
+    "page": 1,
+    "team_number": 8,
+    "ocr_confidence": 0.911,
+    "source_text": {
+      "fvm": "13(13)",
+      "quotation": "5(5)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Vitik",
+    "club": "Bologna",
+    "fvm": 11,
+    "fvm_prev": 11,
+    "quotation": 5,
+    "quotation_prev": 5,
+    "page": 1,
+    "team_number": 9,
+    "ocr_confidence": 0.866,
+    "source_text": {
+      "fvm": "11(11)",
+      "quotation": "5(5)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Casale",
+    "club": "Bologna",
+    "fvm": 6,
+    "fvm_prev": 6,
+    "quotation": 3,
+    "quotation_prev": 3,
+    "page": 1,
+    "team_number": 10,
+    "ocr_confidence": 0.881,
+    "source_text": {
+      "fvm": "6(6)",
+      "quotation": "3(3)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Ds,E)",
+    "name": "Alhassane",
+    "club": "Bologna",
+    "fvm": 6,
+    "fvm_prev": 6,
+    "quotation": 2,
+    "quotation_prev": 2,
+    "page": 1,
+    "team_number": 11,
+    "ocr_confidence": 0.898,
+    "source_text": {
+      "fvm": "6(6)",
+      "quotation": "2(2)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dd,Dc)",
+    "name": "Helland",
+    "club": "Bologna",
+    "fvm": 5,
+    "fvm_prev": 5,
+    "quotation": 2,
+    "quotation_prev": 2,
+    "page": 1,
+    "team_number": 12,
+    "ocr_confidence": 0.791,
+    "source_text": {
+      "fvm": "5(5)",
+      "quotation": "2(2)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dd,E)",
+    "name": "De Silvestri",
+    "club": "Bologna",
+    "fvm": 4,
+    "fvm_prev": 4,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 1,
+    "team_number": 13,
+    "ocr_confidence": 0.834,
+    "source_text": {
+      "fvm": "4(4)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(W,A)",
+    "name": "Orsolini",
+    "club": "Bologna",
+    "fvm": 200,
+    "fvm_prev": 200,
+    "quotation": 26,
+    "quotation_prev": 25,
+    "page": 1,
+    "team_number": 14,
+    "ocr_confidence": 0.957,
+    "source_text": {
+      "fvm": "200(200)",
+      "quotation": "26(25)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(W,T)",
+    "name": "Rowe",
+    "club": "Bologna",
+    "fvm": 37,
+    "fvm_prev": 40,
+    "quotation": 11,
+    "quotation_prev": 11,
+    "page": 1,
+    "team_number": 15,
+    "ocr_confidence": 0.954,
+    "source_text": {
+      "fvm": "37(40)",
+      "quotation": "11(11)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(W,T)",
+    "name": "Bernardeschi",
+    "club": "Bologna",
+    "fvm": 21,
+    "fvm_prev": 21,
+    "quotation": 9,
+    "quotation_prev": 9,
+    "page": 1,
+    "team_number": 16,
+    "ocr_confidence": 0.931,
+    "source_text": {
+      "fvm": "21(21)",
+      "quotation": "9(9)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(W,A)",
+    "name": "Cambiaghi",
+    "club": "Bologna",
+    "fvm": 25,
+    "fvm_prev": 25,
+    "quotation": 8,
+    "quotation_prev": 7,
+    "page": 1,
+    "team_number": 17,
+    "ocr_confidence": 0.943,
+    "source_text": {
+      "fvm": "25(25)",
+      "quotation": "8(7)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(T)",
+    "name": "Odgaard",
+    "club": "Bologna",
+    "fvm": 22,
+    "fvm_prev": 20,
+    "quotation": 8,
+    "quotation_prev": 7,
+    "page": 1,
+    "team_number": 18,
+    "ocr_confidence": 0.912,
+    "source_text": {
+      "fvm": "22(20)",
+      "quotation": "8(7)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Ferguson",
+    "club": "Bologna",
+    "fvm": 18,
+    "fvm_prev": 21,
+    "quotation": 7,
+    "quotation_prev": 8,
+    "page": 1,
+    "team_number": 19,
+    "ocr_confidence": 0.92,
+    "source_text": {
+      "fvm": "18(21)",
+      "quotation": "7(8)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Pobega",
+    "club": "Bologna",
+    "fvm": 14,
+    "fvm_prev": 17,
+    "quotation": 6,
+    "quotation_prev": 7,
+    "page": 1,
+    "team_number": 20,
+    "ocr_confidence": 0.93,
+    "source_text": {
+      "fvm": "14(17)",
+      "quotation": "6(7)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Amondarain",
+    "club": "Bologna",
+    "fvm": 12,
+    "fvm_prev": 14,
+    "quotation": 5,
+    "quotation_prev": 6,
+    "page": 1,
+    "team_number": 21,
+    "ocr_confidence": 0.918,
+    "source_text": {
+      "fvm": "12(14)",
+      "quotation": "5(6)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Moro N.",
+    "club": "Bologna",
+    "fvm": 10,
+    "fvm_prev": 12,
+    "quotation": 4,
+    "quotation_prev": 4,
+    "page": 1,
+    "team_number": 22,
+    "ocr_confidence": 0.913,
+    "source_text": {
+      "fvm": "10(12)",
+      "quotation": "4(4)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(W,A)",
+    "name": "Dominguez B.",
+    "club": "Bologna",
+    "fvm": 8,
+    "fvm_prev": 7,
+    "quotation": 3,
+    "quotation_prev": 2,
+    "page": 1,
+    "team_number": 23,
+    "ocr_confidence": 0.953,
+    "source_text": {
+      "fvm": "8(7)",
+      "quotation": "3(2)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "El Azzouzi O.",
+    "club": "Bologna",
+    "fvm": 4,
+    "fvm_prev": 4,
+    "quotation": 2,
+    "quotation_prev": 2,
+    "page": 1,
+    "team_number": 24,
+    "ocr_confidence": 0.899,
+    "source_text": {
+      "fvm": "4(4)",
+      "quotation": "2(2)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(Pc)",
+    "name": "Dovbyk",
+    "club": "Bologna",
+    "fvm": 84,
+    "fvm_prev": 81,
+    "quotation": 16,
+    "quotation_prev": 16,
+    "page": 1,
+    "team_number": 25,
+    "ocr_confidence": 0.912,
+    "source_text": {
+      "fvm": "84(81)",
+      "quotation": "16(16)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(PC)",
+    "name": "Dallinga",
+    "club": "Bologna",
+    "fvm": 23,
+    "fvm_prev": 20,
+    "quotation": 8,
+    "quotation_prev": 7,
+    "page": 1,
+    "team_number": 26,
+    "ocr_confidence": 0.89,
+    "source_text": {
+      "fvm": "23(20)",
+      "quotation": "8(7)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Caprile",
+    "club": "Cagliari",
+    "fvm": 27,
+    "fvm_prev": 27,
+    "quotation": 9,
+    "quotation_prev": 9,
+    "page": 1,
+    "team_number": 1,
+    "ocr_confidence": 0.944,
+    "source_text": {
+      "fvm": "27(27)",
+      "quotation": "9(9)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Ciocci",
+    "club": "Cagliari",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 1,
+    "team_number": 2,
+    "ocr_confidence": 0.884,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Sherri",
+    "club": "Cagliari",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 1,
+    "team_number": 3,
+    "ocr_confidence": 0.91,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Mina",
+    "club": "Cagliari",
+    "fvm": 20,
+    "fvm_prev": 20,
+    "quotation": 8,
+    "quotation_prev": 8,
+    "page": 1,
+    "team_number": 4,
+    "ocr_confidence": 0.967,
+    "source_text": {
+      "fvm": "20(20)",
+      "quotation": "8(8)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(B,Ds,E)",
+    "name": "Obert",
+    "club": "Cagliari",
+    "fvm": 14,
+    "fvm_prev": 16,
+    "quotation": 7,
+    "quotation_prev": 7,
+    "page": 1,
+    "team_number": 5,
+    "ocr_confidence": 0.954,
+    "source_text": {
+      "fvm": "14(16)",
+      "quotation": "7(7)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Kofler",
+    "club": "Cagliari",
+    "fvm": 11,
+    "fvm_prev": 11,
+    "quotation": 5,
+    "quotation_prev": 5,
+    "page": 1,
+    "team_number": 6,
+    "ocr_confidence": 0.935,
+    "source_text": {
+      "fvm": "11(11)",
+      "quotation": "5(5)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dd,Dc)",
+    "name": "Ze Pedro",
+    "club": "Cagliari",
+    "fvm": 11,
+    "fvm_prev": 13,
+    "quotation": 5,
+    "quotation_prev": 6,
+    "page": 1,
+    "team_number": 7,
+    "ocr_confidence": 0.938,
+    "source_text": {
+      "fvm": "11(13)",
+      "quotation": "5(6)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(B,Dd,E)",
+    "name": "Zappa",
+    "club": "Cagliari",
+    "fvm": 9,
+    "fvm_prev": 11,
+    "quotation": 4,
+    "quotation_prev": 4,
+    "page": 1,
+    "team_number": 8,
+    "ocr_confidence": 0.88,
+    "source_text": {
+      "fvm": "9(11)",
+      "quotation": "4(4)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Ds,E)",
+    "name": "Idrissi R.",
+    "club": "Cagliari",
+    "fvm": 7,
+    "fvm_prev": 7,
+    "quotation": 3,
+    "quotation_prev": 3,
+    "page": 1,
+    "team_number": 9,
+    "ocr_confidence": 0.907,
+    "source_text": {
+      "fvm": "7(7)",
+      "quotation": "3(3)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Ds,Dc)",
+    "name": "Rodriguez Ju.",
+    "club": "Cagliari",
+    "fvm": 10,
+    "fvm_prev": 12,
+    "quotation": 3,
+    "quotation_prev": 4,
+    "page": 1,
+    "team_number": 10,
+    "ocr_confidence": 0.933,
+    "source_text": {
+      "fvm": "10(12)",
+      "quotation": "3(4)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dd,E)",
+    "name": "Raterink",
+    "club": "Cagliari",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 1,
+    "team_number": 11,
+    "ocr_confidence": 0.877,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C,T)",
+    "name": "Fazzini",
+    "club": "Cagliari",
+    "fvm": 19,
+    "fvm_prev": 21,
+    "quotation": 7,
+    "quotation_prev": 8,
+    "page": 1,
+    "team_number": 12,
+    "ocr_confidence": 0.951,
+    "source_text": {
+      "fvm": "19(21)",
+      "quotation": "7(8)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Adopo",
+    "club": "Cagliari",
+    "fvm": 13,
+    "fvm_prev": 16,
+    "quotation": 6,
+    "quotation_prev": 7,
+    "page": 1,
+    "team_number": 13,
+    "ocr_confidence": 0.938,
+    "source_text": {
+      "fvm": "13(16)",
+      "quotation": "6(7)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Winks",
+    "club": "Cagliari",
+    "fvm": 14,
+    "fvm_prev": 17,
+    "quotation": 6,
+    "quotation_prev": 7,
+    "page": 1,
+    "team_number": 14,
+    "ocr_confidence": 0.93,
+    "source_text": {
+      "fvm": "14(17)",
+      "quotation": "6(7)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(W)",
+    "name": "Felici",
+    "club": "Cagliari",
+    "fvm": 10,
+    "fvm_prev": 8,
+    "quotation": 5,
+    "quotation_prev": 4,
+    "page": 1,
+    "team_number": 15,
+    "ocr_confidence": 0.882,
+    "source_text": {
+      "fvm": "10(8)",
+      "quotation": "5(4)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Romano",
+    "club": "Cagliari",
+    "fvm": 12,
+    "fvm_prev": 15,
+    "quotation": 5,
+    "quotation_prev": 6,
+    "page": 1,
+    "team_number": 16,
+    "ocr_confidence": 0.914,
+    "source_text": {
+      "fvm": "12(15)",
+      "quotation": "5(6)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Prati",
+    "club": "Cagliari",
+    "fvm": 7,
+    "fvm_prev": 7,
+    "quotation": 4,
+    "quotation_prev": 4,
+    "page": 1,
+    "team_number": 17,
+    "ocr_confidence": 0.892,
+    "source_text": {
+      "fvm": "7(7)",
+      "quotation": "4(4)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Deiola",
+    "club": "Cagliari",
+    "fvm": 8,
+    "fvm_prev": 8,
+    "quotation": 3,
+    "quotation_prev": 3,
+    "page": 1,
+    "team_number": 18,
+    "ocr_confidence": 0.894,
+    "source_text": {
+      "fvm": "8(8)",
+      "quotation": "3(3)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Liteta",
+    "club": "Cagliari",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 1,
+    "team_number": 19,
+    "ocr_confidence": 0.79,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(A)",
+    "name": "Esposito Se.",
+    "club": "Cagliari",
+    "fvm": 50,
+    "fvm_prev": 50,
+    "quotation": 13,
+    "quotation_prev": 14,
+    "page": 1,
+    "team_number": 20,
+    "ocr_confidence": 0.929,
+    "source_text": {
+      "fvm": "50(50)",
+      "quotation": "13(14)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(PC)",
+    "name": "Mutandwa",
+    "club": "Cagliari",
+    "fvm": 19,
+    "fvm_prev": 18,
+    "quotation": 6,
+    "quotation_prev": 6,
+    "page": 1,
+    "team_number": 21,
+    "ocr_confidence": 0.863,
+    "source_text": {
+      "fvm": "19(18)",
+      "quotation": "6(6)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(PC)",
+    "name": "Borrelli",
+    "club": "Cagliari",
+    "fvm": 9,
+    "fvm_prev": 7,
+    "quotation": 4,
+    "quotation_prev": 3,
+    "page": 1,
+    "team_number": 22,
+    "ocr_confidence": 0.91,
+    "source_text": {
+      "fvm": "9(7)",
+      "quotation": "4(3)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(PC)",
+    "name": "Mendy P.",
+    "club": "Cagliari",
+    "fvm": 9,
+    "fvm_prev": 7,
+    "quotation": 4,
+    "quotation_prev": 3,
+    "page": 1,
+    "team_number": 23,
+    "ocr_confidence": 0.877,
+    "source_text": {
+      "fvm": "9(7)",
+      "quotation": "4(3)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(A)",
+    "name": "Albarracin",
+    "club": "Cagliari",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 1,
+    "team_number": 24,
+    "ocr_confidence": 0.826,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(PC)",
+    "name": "Trepy",
+    "club": "Cagliari",
+    "fvm": 2,
+    "fvm_prev": 2,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 1,
+    "team_number": 25,
+    "ocr_confidence": 0.867,
+    "source_text": {
+      "fvm": "2(2)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Butez",
+    "club": "Como",
+    "fvm": 56,
+    "fvm_prev": 56,
+    "quotation": 16,
+    "quotation_prev": 16,
+    "page": 1,
+    "team_number": 1,
+    "ocr_confidence": 0.981,
+    "source_text": {
+      "fvm": "56(56)",
+      "quotation": "16(16)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Tornqvist",
+    "club": "Como",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 1,
+    "team_number": 2,
+    "ocr_confidence": 0.982,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Vigorito",
+    "club": "Como",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 1,
+    "team_number": 3,
+    "ocr_confidence": 0.875,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Ramon",
+    "club": "Como",
+    "fvm": 32,
+    "fvm_prev": 32,
+    "quotation": 10,
+    "quotation_prev": 10,
+    "page": 1,
+    "team_number": 4,
+    "ocr_confidence": 0.893,
+    "source_text": {
+      "fvm": "32(32)",
+      "quotation": "10(10)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dd,E)",
+    "name": "Couto",
+    "club": "Como",
+    "fvm": 27,
+    "fvm_prev": 27,
+    "quotation": 8,
+    "quotation_prev": 8,
+    "page": 1,
+    "team_number": 5,
+    "ocr_confidence": 0.956,
+    "source_text": {
+      "fvm": "27(27)",
+      "quotation": "8(8)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Ds,E)",
+    "name": "Kaiki",
+    "club": "Como",
+    "fvm": 23,
+    "fvm_prev": 23,
+    "quotation": 7,
+    "quotation_prev": 7,
+    "page": 1,
+    "team_number": 6,
+    "ocr_confidence": 0.839,
+    "source_text": {
+      "fvm": "23(23)",
+      "quotation": "7(7)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Ds,E)",
+    "name": "Valle",
+    "club": "Como",
+    "fvm": 18,
+    "fvm_prev": 18,
+    "quotation": 6,
+    "quotation_prev": 6,
+    "page": 1,
+    "team_number": 7,
+    "ocr_confidence": 0.939,
+    "source_text": {
+      "fvm": "18(18)",
+      "quotation": "6(6)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Kempf",
+    "club": "Como",
+    "fvm": 13,
+    "fvm_prev": 13,
+    "quotation": 5,
+    "quotation_prev": 5,
+    "page": 1,
+    "team_number": 8,
+    "ocr_confidence": 0.838,
+    "source_text": {
+      "fvm": "13(13)",
+      "quotation": "5(5)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dd,E)",
+    "name": "Smolcic I.",
+    "club": "Como",
+    "fvm": 10,
+    "fvm_prev": 10,
+    "quotation": 4,
+    "quotation_prev": 4,
+    "page": 2,
+    "team_number": 9,
+    "ocr_confidence": 0.921,
+    "source_text": {
+      "fvm": "10(10)",
+      "quotation": "4(4)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dd,E)",
+    "name": "Van Der Brempt",
+    "club": "Como",
+    "fvm": 5,
+    "fvm_prev": 5,
+    "quotation": 2,
+    "quotation_prev": 2,
+    "page": 2,
+    "team_number": 10,
+    "ocr_confidence": 0.963,
+    "source_text": {
+      "fvm": "5(5)",
+      "quotation": "2(2)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Ds,Dc)",
+    "name": "Cuenca A.",
+    "club": "Como",
+    "fvm": 8,
+    "fvm_prev": 8,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 2,
+    "team_number": 11,
+    "ocr_confidence": 0.868,
+    "source_text": {
+      "fvm": "8(8)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Goldaniga",
+    "club": "Como",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 2,
+    "team_number": 12,
+    "ocr_confidence": 0.953,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(T,A)",
+    "name": "Paz N.",
+    "club": "Como",
+    "fvm": 250,
+    "fvm_prev": 250,
+    "quotation": 30,
+    "quotation_prev": 28,
+    "page": 2,
+    "team_number": 13,
+    "ocr_confidence": 0.926,
+    "source_text": {
+      "fvm": "250(250)",
+      "quotation": "30(28)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(T)",
+    "name": "Baturina",
+    "club": "Como",
+    "fvm": 102,
+    "fvm_prev": 100,
+    "quotation": 19,
+    "quotation_prev": 18,
+    "page": 2,
+    "team_number": 14,
+    "ocr_confidence": 0.952,
+    "source_text": {
+      "fvm": "102(100)",
+      "quotation": "19(18)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C,T)",
+    "name": "Da Cunha",
+    "club": "Como",
+    "fvm": 90,
+    "fvm_prev": 90,
+    "quotation": 18,
+    "quotation_prev": 18,
+    "page": 2,
+    "team_number": 15,
+    "ocr_confidence": 0.947,
+    "source_text": {
+      "fvm": "90(90)",
+      "quotation": "18(18)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(W,A)",
+    "name": "Rodriguez Je.",
+    "club": "Como",
+    "fvm": 32,
+    "fvm_prev": 31,
+    "quotation": 12,
+    "quotation_prev": 11,
+    "page": 2,
+    "team_number": 16,
+    "ocr_confidence": 0.922,
+    "source_text": {
+      "fvm": "32(31)",
+      "quotation": "12(11)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Perrone",
+    "club": "Como",
+    "fvm": 38,
+    "fvm_prev": 41,
+    "quotation": 10,
+    "quotation_prev": 11,
+    "page": 2,
+    "team_number": 17,
+    "ocr_confidence": 0.933,
+    "source_text": {
+      "fvm": "38(41)",
+      "quotation": "10(11)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C,T)",
+    "name": "Caqueret",
+    "club": "Como",
+    "fvm": 20,
+    "fvm_prev": 20,
+    "quotation": 6,
+    "quotation_prev": 6,
+    "page": 2,
+    "team_number": 18,
+    "ocr_confidence": 0.967,
+    "source_text": {
+      "fvm": "20(20)",
+      "quotation": "6(6)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(T)",
+    "name": "Liberali",
+    "club": "Como",
+    "fvm": 22,
+    "fvm_prev": 20,
+    "quotation": 6,
+    "quotation_prev": 5,
+    "page": 2,
+    "team_number": 19,
+    "ocr_confidence": 0.653,
+    "source_text": {
+      "fvm": "22(20)",
+      "quotation": "6(5)"
+    },
+    "manually_verified": true
+  },
+  {
+    "role": "C",
+    "role_detail": "C(W,A)",
+    "name": "Addai",
+    "club": "Como",
+    "fvm": 10,
+    "fvm_prev": 8,
+    "quotation": 5,
+    "quotation_prev": 4,
+    "page": 2,
+    "team_number": 20,
+    "ocr_confidence": 0.935,
+    "source_text": {
+      "fvm": "10(8)",
+      "quotation": "5(4)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Milla",
+    "club": "Como",
+    "fvm": 14,
+    "fvm_prev": 16,
+    "quotation": 5,
+    "quotation_prev": 5,
+    "page": 2,
+    "team_number": 21,
+    "ocr_confidence": 0.899,
+    "source_text": {
+      "fvm": "14(16)",
+      "quotation": "5(5)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(W)",
+    "name": "Fadera",
+    "club": "Como",
+    "fvm": 3,
+    "fvm_prev": 3,
+    "quotation": 2,
+    "quotation_prev": 2,
+    "page": 2,
+    "team_number": 22,
+    "ocr_confidence": 0.924,
+    "source_text": {
+      "fvm": "3(3)",
+      "quotation": "2(2)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C,T)",
+    "name": "Lahdo",
+    "club": "Como",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 2,
+    "team_number": 23,
+    "ocr_confidence": 0.924,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(PC)",
+    "name": "Douvikas",
+    "club": "Como",
+    "fvm": 157,
+    "fvm_prev": 154,
+    "quotation": 20,
+    "quotation_prev": 20,
+    "page": 2,
+    "team_number": 24,
+    "ocr_confidence": 0.849,
+    "source_text": {
+      "fvm": "157(154)",
+      "quotation": "20(20)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(W,A)",
+    "name": "Diao",
+    "club": "Como",
+    "fvm": 50,
+    "fvm_prev": 52,
+    "quotation": 11,
+    "quotation_prev": 12,
+    "page": 2,
+    "team_number": 25,
+    "ocr_confidence": 0.885,
+    "source_text": {
+      "fvm": "50(52)",
+      "quotation": "11(12)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(PC)",
+    "name": "Morata",
+    "club": "Como",
+    "fvm": 10,
+    "fvm_prev": 8,
+    "quotation": 4,
+    "quotation_prev": 3,
+    "page": 2,
+    "team_number": 26,
+    "ocr_confidence": 0.889,
+    "source_text": {
+      "fvm": "10(8)",
+      "quotation": "4(3)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(W,A)",
+    "name": "Kuhn",
+    "club": "Como",
+    "fvm": 5,
+    "fvm_prev": 7,
+    "quotation": 3,
+    "quotation_prev": 4,
+    "page": 2,
+    "team_number": 27,
+    "ocr_confidence": 0.902,
+    "source_text": {
+      "fvm": "5(7)",
+      "quotation": "3(4)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(PC)",
+    "name": "Azon",
+    "club": "Como",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 2,
+    "team_number": 28,
+    "ocr_confidence": 0.895,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "De Gea",
+    "club": "Fiorentina",
+    "fvm": 45,
+    "fvm_prev": 45,
+    "quotation": 13,
+    "quotation_prev": 13,
+    "page": 2,
+    "team_number": 1,
+    "ocr_confidence": 0.914,
+    "source_text": {
+      "fvm": "45(45)",
+      "quotation": "13(13)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Christensen O.",
+    "club": "Fiorentina",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 2,
+    "team_number": 2,
+    "ocr_confidence": 0.875,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Lezzerini",
+    "club": "Fiorentina",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 2,
+    "team_number": 3,
+    "ocr_confidence": 0.806,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dd,E)",
+    "name": "Dodo",
+    "club": "Fiorentina",
+    "fvm": 30,
+    "fvm_prev": 30,
+    "quotation": 10,
+    "quotation_prev": 10,
+    "page": 2,
+    "team_number": 4,
+    "ocr_confidence": 0.922,
+    "source_text": {
+      "fvm": "30(30)",
+      "quotation": "10(10)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Dragusin",
+    "club": "Fiorentina",
+    "fvm": 27,
+    "fvm_prev": 27,
+    "quotation": 8,
+    "quotation_prev": 8,
+    "page": 2,
+    "team_number": 5,
+    "ocr_confidence": 0.904,
+    "source_text": {
+      "fvm": "27(27)",
+      "quotation": "8(8)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dd,Ds,E)",
+    "name": "Jimenez A.",
+    "club": "Fiorentina",
+    "fvm": 23,
+    "fvm_prev": 25,
+    "quotation": 8,
+    "quotation_prev": 9,
+    "page": 2,
+    "team_number": 6,
+    "ocr_confidence": 0.903,
+    "source_text": {
+      "fvm": "23(25)",
+      "quotation": "8(9)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Ds,Dc)",
+    "name": "Valdepenas",
+    "club": "Fiorentina",
+    "fvm": 18,
+    "fvm_prev": 20,
+    "quotation": 6,
+    "quotation_prev": 7,
+    "page": 2,
+    "team_number": 7,
+    "ocr_confidence": 0.933,
+    "source_text": {
+      "fvm": "18(20)",
+      "quotation": "6(7)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Ds,Dc)",
+    "name": "Viery",
+    "club": "Fiorentina",
+    "fvm": 19,
+    "fvm_prev": 21,
+    "quotation": 6,
+    "quotation_prev": 7,
+    "page": 2,
+    "team_number": 8,
+    "ocr_confidence": 0.922,
+    "source_text": {
+      "fvm": "19(21)",
+      "quotation": "6(7)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Ds,E)",
+    "name": "Parisi",
+    "club": "Fiorentina",
+    "fvm": 12,
+    "fvm_prev": 12,
+    "quotation": 5,
+    "quotation_prev": 5,
+    "page": 2,
+    "team_number": 9,
+    "ocr_confidence": 0.887,
+    "source_text": {
+      "fvm": "12(12)",
+      "quotation": "5(5)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Pongracic",
+    "club": "Fiorentina",
+    "fvm": 8,
+    "fvm_prev": 8,
+    "quotation": 4,
+    "quotation_prev": 4,
+    "page": 2,
+    "team_number": 10,
+    "ocr_confidence": 0.841,
+    "source_text": {
+      "fvm": "8(8)",
+      "quotation": "4(4)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dd,E)",
+    "name": "Joao Mario",
+    "club": "Fiorentina",
+    "fvm": 7,
+    "fvm_prev": 7,
+    "quotation": 3,
+    "quotation_prev": 3,
+    "page": 2,
+    "team_number": 11,
+    "ocr_confidence": 0.957,
+    "source_text": {
+      "fvm": "7(7)",
+      "quotation": "3(3)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Ds,Dc)",
+    "name": "Ranieri L.",
+    "club": "Fiorentina",
+    "fvm": 7,
+    "fvm_prev": 7,
+    "quotation": 3,
+    "quotation_prev": 3,
+    "page": 2,
+    "team_number": 12,
+    "ocr_confidence": 0.897,
+    "source_text": {
+      "fvm": "7(7)",
+      "quotation": "3(3)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C,T)",
+    "name": "Atta",
+    "club": "Fiorentina",
+    "fvm": 87,
+    "fvm_prev": 87,
+    "quotation": 17,
+    "quotation_prev": 17,
+    "page": 2,
+    "team_number": 13,
+    "ocr_confidence": 0.922,
+    "source_text": {
+      "fvm": "87(87)",
+      "quotation": "17(17)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(T,A)",
+    "name": "Gudmundsson A.",
+    "club": "Fiorentina",
+    "fvm": 61,
+    "fvm_prev": 58,
+    "quotation": 13,
+    "quotation_prev": 12,
+    "page": 2,
+    "team_number": 14,
+    "ocr_confidence": 0.91,
+    "source_text": {
+      "fvm": "61(58)",
+      "quotation": "13(12)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C)",
+    "name": "Mandragora",
+    "club": "Fiorentina",
+    "fvm": 28,
+    "fvm_prev": 28,
+    "quotation": 9,
+    "quotation_prev": 9,
+    "page": 2,
+    "team_number": 15,
+    "ocr_confidence": 0.949,
+    "source_text": {
+      "fvm": "28(28)",
+      "quotation": "9(9)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Fagioli",
+    "club": "Fiorentina",
+    "fvm": 23,
+    "fvm_prev": 25,
+    "quotation": 8,
+    "quotation_prev": 9,
+    "page": 2,
+    "team_number": 16,
+    "ocr_confidence": 0.912,
+    "source_text": {
+      "fvm": "23(25)",
+      "quotation": "8(9)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C)",
+    "name": "Ndour",
+    "club": "Fiorentina",
+    "fvm": 25,
+    "fvm_prev": 25,
+    "quotation": 8,
+    "quotation_prev": 8,
+    "page": 2,
+    "team_number": 17,
+    "ocr_confidence": 0.951,
+    "source_text": {
+      "fvm": "25(25)",
+      "quotation": "8(8)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Oulai",
+    "club": "Fiorentina",
+    "fvm": 20,
+    "fvm_prev": 22,
+    "quotation": 6,
+    "quotation_prev": 7,
+    "page": 2,
+    "team_number": 18,
+    "ocr_confidence": 0.934,
+    "source_text": {
+      "fvm": "20(22)",
+      "quotation": "6(7)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C,T)",
+    "name": "Fabbian",
+    "club": "Fiorentina",
+    "fvm": 8,
+    "fvm_prev": 8,
+    "quotation": 4,
+    "quotation_prev": 4,
+    "page": 2,
+    "team_number": 19,
+    "ocr_confidence": 0.892,
+    "source_text": {
+      "fvm": "8(8)",
+      "quotation": "4(4)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C,T)",
+    "name": "Brescianini",
+    "club": "Fiorentina",
+    "fvm": 7,
+    "fvm_prev": 7,
+    "quotation": 3,
+    "quotation_prev": 3,
+    "page": 2,
+    "team_number": 20,
+    "ocr_confidence": 0.916,
+    "source_text": {
+      "fvm": "7(7)",
+      "quotation": "3(3)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(Pc)",
+    "name": "Kean",
+    "club": "Fiorentina",
+    "fvm": 212,
+    "fvm_prev": 212,
+    "quotation": 25,
+    "quotation_prev": 25,
+    "page": 2,
+    "team_number": 21,
+    "ocr_confidence": 0.901,
+    "source_text": {
+      "fvm": "212(212)",
+      "quotation": "25(25)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(Pc)",
+    "name": "Piccoli",
+    "club": "Fiorentina",
+    "fvm": 24,
+    "fvm_prev": 21,
+    "quotation": 8,
+    "quotation_prev": 7,
+    "page": 2,
+    "team_number": 22,
+    "ocr_confidence": 0.869,
+    "source_text": {
+      "fvm": "24(21)",
+      "quotation": "8(7)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Palmisani",
+    "club": "Frosinone",
+    "fvm": 8,
+    "fvm_prev": 8,
+    "quotation": 4,
+    "quotation_prev": 4,
+    "page": 2,
+    "team_number": 1,
+    "ocr_confidence": 0.93,
+    "source_text": {
+      "fvm": "8(8)",
+      "quotation": "4(4)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Desplanches",
+    "club": "Frosinone",
+    "fvm": 8,
+    "fvm_prev": 8,
+    "quotation": 2,
+    "quotation_prev": 2,
+    "page": 2,
+    "team_number": 2,
+    "ocr_confidence": 0.941,
+    "source_text": {
+      "fvm": "8(8)",
+      "quotation": "2(2)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Lolic",
+    "club": "Frosinone",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 2,
+    "team_number": 3,
+    "ocr_confidence": 0.888,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Monterisi",
+    "club": "Frosinone",
+    "fvm": 14,
+    "fvm_prev": 14,
+    "quotation": 6,
+    "quotation_prev": 6,
+    "page": 2,
+    "team_number": 4,
+    "ocr_confidence": 0.952,
+    "source_text": {
+      "fvm": "14(14)",
+      "quotation": "6(6)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Ds,Dc)",
+    "name": "Bracaglia",
+    "club": "Frosinone",
+    "fvm": 11,
+    "fvm_prev": 13,
+    "quotation": 5,
+    "quotation_prev": 5,
+    "page": 2,
+    "team_number": 5,
+    "ocr_confidence": 0.937,
+    "source_text": {
+      "fvm": "11(13)",
+      "quotation": "5(5)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dd,E)",
+    "name": "Oyono A.",
+    "club": "Frosinone",
+    "fvm": 12,
+    "fvm_prev": 12,
+    "quotation": 5,
+    "quotation_prev": 5,
+    "page": 2,
+    "team_number": 6,
+    "ocr_confidence": 0.888,
+    "source_text": {
+      "fvm": "12(12)",
+      "quotation": "5(5)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Calvani",
+    "club": "Frosinone",
+    "fvm": 10,
+    "fvm_prev": 10,
+    "quotation": 4,
+    "quotation_prev": 4,
+    "page": 2,
+    "team_number": 7,
+    "ocr_confidence": 0.871,
+    "source_text": {
+      "fvm": "10(10)",
+      "quotation": "4(4)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Akpoguma",
+    "club": "Frosinone",
+    "fvm": 7,
+    "fvm_prev": 7,
+    "quotation": 3,
+    "quotation_prev": 3,
+    "page": 2,
+    "team_number": 8,
+    "ocr_confidence": 0.907,
+    "source_text": {
+      "fvm": "7(7)",
+      "quotation": "3(3)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Cittadini",
+    "club": "Frosinone",
+    "fvm": 8,
+    "fvm_prev": 8,
+    "quotation": 3,
+    "quotation_prev": 3,
+    "page": 2,
+    "team_number": 9,
+    "ocr_confidence": 0.921,
+    "source_text": {
+      "fvm": "8(8)",
+      "quotation": "3(3)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Amey",
+    "club": "Frosinone",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 2,
+    "team_number": 10,
+    "ocr_confidence": 0.909,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Ds,E)",
+    "name": "Corrado",
+    "club": "Frosinone",
+    "fvm": 3,
+    "fvm_prev": 3,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 2,
+    "team_number": 11,
+    "ocr_confidence": 0.877,
+    "source_text": {
+      "fvm": "3(3)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Gelli J.",
+    "club": "Frosinone",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 2,
+    "team_number": 12,
+    "ocr_confidence": 0.919,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dd,E)",
+    "name": "Oyono J.",
+    "club": "Frosinone",
+    "fvm": 3,
+    "fvm_prev": 3,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 2,
+    "team_number": 13,
+    "ocr_confidence": 0.869,
+    "source_text": {
+      "fvm": "3(3)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Calo",
+    "club": "Frosinone",
+    "fvm": 25,
+    "fvm_prev": 28,
+    "quotation": 7,
+    "quotation_prev": 8,
+    "page": 2,
+    "team_number": 14,
+    "ocr_confidence": 0.955,
+    "source_text": {
+      "fvm": "25(28)",
+      "quotation": "7(8)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(W)",
+    "name": "Zerbin",
+    "club": "Frosinone",
+    "fvm": 13,
+    "fvm_prev": 11,
+    "quotation": 5,
+    "quotation_prev": 4,
+    "page": 2,
+    "team_number": 15,
+    "ocr_confidence": 0.867,
+    "source_text": {
+      "fvm": "13(11)",
+      "quotation": "5(4)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Cichella",
+    "club": "Frosinone",
+    "fvm": 11,
+    "fvm_prev": 13,
+    "quotation": 4,
+    "quotation_prev": 4,
+    "page": 2,
+    "team_number": 16,
+    "ocr_confidence": 0.931,
+    "source_text": {
+      "fvm": "11(13)",
+      "quotation": "4(4)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C)",
+    "name": "Koutsoupias",
+    "club": "Frosinone",
+    "fvm": 12,
+    "fvm_prev": 12,
+    "quotation": 4,
+    "quotation_prev": 4,
+    "page": 2,
+    "team_number": 17,
+    "ocr_confidence": 0.853,
+    "source_text": {
+      "fvm": "12(12)",
+      "quotation": "4(4)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(W)",
+    "name": "Fini",
+    "club": "Frosinone",
+    "fvm": 9,
+    "fvm_prev": 8,
+    "quotation": 3,
+    "quotation_prev": 2,
+    "page": 2,
+    "team_number": 18,
+    "ocr_confidence": 0.943,
+    "source_text": {
+      "fvm": "(8)6",
+      "quotation": "3(2)"
+    },
+    "manually_verified": true
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C,T)",
+    "name": "Gelli F.",
+    "club": "Frosinone",
+    "fvm": 8,
+    "fvm_prev": 8,
+    "quotation": 3,
+    "quotation_prev": 3,
+    "page": 2,
+    "team_number": 19,
+    "ocr_confidence": 0.951,
+    "source_text": {
+      "fvm": "8(8)",
+      "quotation": "3(3)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C,T)",
+    "name": "Hasa",
+    "club": "Frosinone",
+    "fvm": 5,
+    "fvm_prev": 5,
+    "quotation": 2,
+    "quotation_prev": 2,
+    "page": 2,
+    "team_number": 20,
+    "ocr_confidence": 0.941,
+    "source_text": {
+      "fvm": "5(5)",
+      "quotation": "2(2)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "El Azzouzi A.",
+    "club": "Frosinone",
+    "fvm": 3,
+    "fvm_prev": 3,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 2,
+    "team_number": 21,
+    "ocr_confidence": 0.909,
+    "source_text": {
+      "fvm": "3(3)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C)",
+    "name": "Kone B.",
+    "club": "Frosinone",
+    "fvm": 3,
+    "fvm_prev": 3,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 2,
+    "team_number": 22,
+    "ocr_confidence": 0.932,
+    "source_text": {
+      "fvm": "3(3)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(W,A)",
+    "name": "Ghedjemis",
+    "club": "Frosinone",
+    "fvm": 30,
+    "fvm_prev": 32,
+    "quotation": 9,
+    "quotation_prev": 10,
+    "page": 2,
+    "team_number": 23,
+    "ocr_confidence": 0.957,
+    "source_text": {
+      "fvm": "30(32)",
+      "quotation": "9(10)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(Pc)",
+    "name": "Raimondo",
+    "club": "Frosinone",
+    "fvm": 24,
+    "fvm_prev": 21,
+    "quotation": 7,
+    "quotation_prev": 6,
+    "page": 2,
+    "team_number": 24,
+    "ocr_confidence": 0.923,
+    "source_text": {
+      "fvm": "24(21)",
+      "quotation": "7(6)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(W,A)",
+    "name": "Kvernadze",
+    "club": "Frosinone",
+    "fvm": 15,
+    "fvm_prev": 16,
+    "quotation": 4,
+    "quotation_prev": 5,
+    "page": 2,
+    "team_number": 25,
+    "ocr_confidence": 0.922,
+    "source_text": {
+      "fvm": "15(16)",
+      "quotation": "4(5)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Bijlow",
+    "club": "Genoa",
+    "fvm": 18,
+    "fvm_prev": 18,
+    "quotation": 8,
+    "quotation_prev": 8,
+    "page": 2,
+    "team_number": 1,
+    "ocr_confidence": 0.958,
+    "source_text": {
+      "fvm": "18(18)",
+      "quotation": "8(8)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Sommariva",
+    "club": "Genoa",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 2,
+    "team_number": 2,
+    "ocr_confidence": 0.876,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Stolz",
+    "club": "Genoa",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 2,
+    "team_number": 3,
+    "ocr_confidence": 0.905,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Ostigard",
+    "club": "Genoa",
+    "fvm": 40,
+    "fvm_prev": 40,
+    "quotation": 11,
+    "quotation_prev": 11,
+    "page": 2,
+    "team_number": 4,
+    "ocr_confidence": 0.961,
+    "source_text": {
+      "fvm": "40(40)",
+      "quotation": "11(11)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Ds,Dc)",
+    "name": "Vasquez",
+    "club": "Genoa",
+    "fvm": 33,
+    "fvm_prev": 35,
+    "quotation": 9,
+    "quotation_prev": 10,
+    "page": 2,
+    "team_number": 5,
+    "ocr_confidence": 0.914,
+    "source_text": {
+      "fvm": "33(35)",
+      "quotation": "9(10)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dd,E)",
+    "name": "Norton-Cuffy",
+    "club": "Genoa",
+    "fvm": 22,
+    "fvm_prev": 22,
+    "quotation": 8,
+    "quotation_prev": 8,
+    "page": 2,
+    "team_number": 6,
+    "ocr_confidence": 0.955,
+    "source_text": {
+      "fvm": "22(22)",
+      "quotation": "8(8)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Marcandalli",
+    "club": "Genoa",
+    "fvm": 13,
+    "fvm_prev": 13,
+    "quotation": 6,
+    "quotation_prev": 6,
+    "page": 2,
+    "team_number": 7,
+    "ocr_confidence": 0.918,
+    "source_text": {
+      "fvm": "13(13)",
+      "quotation": "6(6)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Ds,E)",
+    "name": "Martin",
+    "club": "Genoa",
+    "fvm": 15,
+    "fvm_prev": 15,
+    "quotation": 5,
+    "quotation_prev": 5,
+    "page": 2,
+    "team_number": 8,
+    "ocr_confidence": 0.911,
+    "source_text": {
+      "fvm": "15(15)",
+      "quotation": "5(5)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Ds,E)",
+    "name": "Mitaj",
+    "club": "Genoa",
+    "fvm": 9,
+    "fvm_prev": 9,
+    "quotation": 4,
+    "quotation_prev": 4,
+    "page": 2,
+    "team_number": 9,
+    "ocr_confidence": 0.891,
+    "source_text": {
+      "fvm": "(6)6",
+      "quotation": "4(4)"
+    },
+    "manually_verified": true
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Otoa",
+    "club": "Genoa",
+    "fvm": 5,
+    "fvm_prev": 5,
+    "quotation": 2,
+    "quotation_prev": 2,
+    "page": 2,
+    "team_number": 10,
+    "ocr_confidence": 0.906,
+    "source_text": {
+      "fvm": "5(5)",
+      "quotation": "2(2)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Ds,E)",
+    "name": "Puczka",
+    "club": "Genoa",
+    "fvm": 7,
+    "fvm_prev": 7,
+    "quotation": 2,
+    "quotation_prev": 2,
+    "page": 2,
+    "team_number": 11,
+    "ocr_confidence": 0.955,
+    "source_text": {
+      "fvm": "7(7)",
+      "quotation": "2(2)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dd,Ds,E)",
+    "name": "Sabelli",
+    "club": "Genoa",
+    "fvm": 5,
+    "fvm_prev": 5,
+    "quotation": 2,
+    "quotation_prev": 2,
+    "page": 2,
+    "team_number": 12,
+    "ocr_confidence": 0.925,
+    "source_text": {
+      "fvm": "5(5)",
+      "quotation": "2(2)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Ds,Dc)",
+    "name": "Matturro",
+    "club": "Genoa",
+    "fvm": 2,
+    "fvm_prev": 2,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 2,
+    "team_number": 13,
+    "ocr_confidence": 0.791,
+    "source_text": {
+      "fvm": "2(2)",
+      "quotation": "1（1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(T)",
+    "name": "Baldanzi",
+    "club": "Genoa",
+    "fvm": 30,
+    "fvm_prev": 27,
+    "quotation": 11,
+    "quotation_prev": 10,
+    "page": 2,
+    "team_number": 14,
+    "ocr_confidence": 0.614,
+    "source_text": {
+      "fvm": "30(27)",
+      "quotation": "11(10)"
+    },
+    "manually_verified": true
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Frendrup",
+    "club": "Genoa",
+    "fvm": 19,
+    "fvm_prev": 21,
+    "quotation": 7,
+    "quotation_prev": 8,
+    "page": 2,
+    "team_number": 15,
+    "ocr_confidence": 0.891,
+    "source_text": {
+      "fvm": "19(21)",
+      "quotation": "7(8)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Sow",
+    "club": "Genoa",
+    "fvm": 14,
+    "fvm_prev": 17,
+    "quotation": 7,
+    "quotation_prev": 8,
+    "page": 2,
+    "team_number": 16,
+    "ocr_confidence": 0.953,
+    "source_text": {
+      "fvm": "14(17)",
+      "quotation": "7(8)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(E,C)",
+    "name": "Ellertsson",
+    "club": "Genoa",
+    "fvm": 18,
+    "fvm_prev": 21,
+    "quotation": 6,
+    "quotation_prev": 7,
+    "page": 2,
+    "team_number": 17,
+    "ocr_confidence": 0.886,
+    "source_text": {
+      "fvm": "18(21)",
+      "quotation": "6(7)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(W,T)",
+    "name": "Meichtry",
+    "club": "Genoa",
+    "fvm": 14,
+    "fvm_prev": 14,
+    "quotation": 5,
+    "quotation_prev": 5,
+    "page": 2,
+    "team_number": 18,
+    "ocr_confidence": 0.93,
+    "source_text": {
+      "fvm": "14(14)",
+      "quotation": "5(5)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(W,T)",
+    "name": "Traore Hj.",
+    "club": "Genoa",
+    "fvm": 11,
+    "fvm_prev": 11,
+    "quotation": 5,
+    "quotation_prev": 5,
+    "page": 2,
+    "team_number": 19,
+    "ocr_confidence": 0.939,
+    "source_text": {
+      "fvm": "11(11)",
+      "quotation": "5(5)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Amorim",
+    "club": "Genoa",
+    "fvm": 11,
+    "fvm_prev": 13,
+    "quotation": 4,
+    "quotation_prev": 5,
+    "page": 2,
+    "team_number": 20,
+    "ocr_confidence": 0.917,
+    "source_text": {
+      "fvm": "11(13)",
+      "quotation": "4(5)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(W,T)",
+    "name": "Messias",
+    "club": "Genoa",
+    "fvm": 8,
+    "fvm_prev": 8,
+    "quotation": 3,
+    "quotation_prev": 3,
+    "page": 2,
+    "team_number": 21,
+    "ocr_confidence": 0.909,
+    "source_text": {
+      "fvm": "8(8)",
+      "quotation": "3(3)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Masini",
+    "club": "Genoa",
+    "fvm": 4,
+    "fvm_prev": 4,
+    "quotation": 2,
+    "quotation_prev": 2,
+    "page": 2,
+    "team_number": 22,
+    "ocr_confidence": 0.871,
+    "source_text": {
+      "fvm": "4(4)",
+      "quotation": "2(2)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(W)",
+    "name": "Venturino",
+    "club": "Genoa",
+    "fvm": 6,
+    "fvm_prev": 5,
+    "quotation": 2,
+    "quotation_prev": 2,
+    "page": 2,
+    "team_number": 23,
+    "ocr_confidence": 0.946,
+    "source_text": {
+      "fvm": "6(5)",
+      "quotation": "2(2)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(Pc)",
+    "name": "Colombo",
+    "club": "Genoa",
+    "fvm": 63,
+    "fvm_prev": 60,
+    "quotation": 11,
+    "quotation_prev": 10,
+    "page": 2,
+    "team_number": 24,
+    "ocr_confidence": 0.879,
+    "source_text": {
+      "fvm": "63(60)",
+      "quotation": "11(10)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(A)",
+    "name": "Vitinha O.",
+    "club": "Genoa",
+    "fvm": 20,
+    "fvm_prev": 21,
+    "quotation": 8,
+    "quotation_prev": 8,
+    "page": 2,
+    "team_number": 25,
+    "ocr_confidence": 0.932,
+    "source_text": {
+      "fvm": "20(21)",
+      "quotation": "8(8)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(Pc)",
+    "name": "Havel",
+    "club": "Genoa",
+    "fvm": 9,
+    "fvm_prev": 7,
+    "quotation": 4,
+    "quotation_prev": 3,
+    "page": 3,
+    "team_number": 26,
+    "ocr_confidence": 0.954,
+    "source_text": {
+      "fvm": "9(7)",
+      "quotation": "4(3)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Martinez Jo.",
+    "club": "Inter",
+    "fvm": 63,
+    "fvm_prev": 63,
+    "quotation": 17,
+    "quotation_prev": 17,
+    "page": 3,
+    "team_number": 1,
+    "ocr_confidence": 0.978,
+    "source_text": {
+      "fvm": "63(63)",
+      "quotation": "17(17)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Provedel",
+    "club": "Inter",
+    "fvm": 5,
+    "fvm_prev": 5,
+    "quotation": 2,
+    "quotation_prev": 2,
+    "page": 3,
+    "team_number": 2,
+    "ocr_confidence": 0.913,
+    "source_text": {
+      "fvm": "5(5)",
+      "quotation": "2(2)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Di Gennaro",
+    "club": "Inter",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 3,
+    "team_number": 3,
+    "ocr_confidence": 0.958,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(E,W)",
+    "name": "Dimarco",
+    "club": "Inter",
+    "fvm": 265,
+    "fvm_prev": 255,
+    "quotation": 32,
+    "quotation_prev": 30,
+    "page": 3,
+    "team_number": 4,
+    "ocr_confidence": 0.882,
+    "source_text": {
+      "fvm": "265(255)",
+      "quotation": "32(30)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Akanji",
+    "club": "Inter",
+    "fvm": 55,
+    "fvm_prev": 55,
+    "quotation": 16,
+    "quotation_prev": 16,
+    "page": 3,
+    "team_number": 5,
+    "ocr_confidence": 0.927,
+    "source_text": {
+      "fvm": "55(55)",
+      "quotation": "16(16)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Bastoni",
+    "club": "Inter",
+    "fvm": 44,
+    "fvm_prev": 44,
+    "quotation": 14,
+    "quotation_prev": 14,
+    "page": 3,
+    "team_number": 6,
+    "ocr_confidence": 0.927,
+    "source_text": {
+      "fvm": "44(44)",
+      "quotation": "14(14)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Stones",
+    "club": "Inter",
+    "fvm": 38,
+    "fvm_prev": 38,
+    "quotation": 12,
+    "quotation_prev": 12,
+    "page": 3,
+    "team_number": 7,
+    "ocr_confidence": 0.952,
+    "source_text": {
+      "fvm": "38(38)",
+      "quotation": "12(12)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Bisseck",
+    "club": "Inter",
+    "fvm": 33,
+    "fvm_prev": 33,
+    "quotation": 11,
+    "quotation_prev": 11,
+    "page": 3,
+    "team_number": 8,
+    "ocr_confidence": 0.933,
+    "source_text": {
+      "fvm": "33(33)",
+      "quotation": "11(11)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(B,Ds,E)",
+    "name": "Carlos Augusto",
+    "club": "Inter",
+    "fvm": 27,
+    "fvm_prev": 30,
+    "quotation": 7,
+    "quotation_prev": 8,
+    "page": 3,
+    "team_number": 9,
+    "ocr_confidence": 0.935,
+    "source_text": {
+      "fvm": "27(30)",
+      "quotation": "7(8)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dd,Dc)",
+    "name": "Pavard",
+    "club": "Inter",
+    "fvm": 18,
+    "fvm_prev": 20,
+    "quotation": 6,
+    "quotation_prev": 7,
+    "page": 3,
+    "team_number": 10,
+    "ocr_confidence": 0.903,
+    "source_text": {
+      "fvm": "18(20)",
+      "quotation": "6(7)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Calhanoglu",
+    "club": "Inter",
+    "fvm": 230,
+    "fvm_prev": 260,
+    "quotation": 27,
+    "quotation_prev": 28,
+    "page": 3,
+    "team_number": 11,
+    "ocr_confidence": 0.954,
+    "source_text": {
+      "fvm": "230(260)",
+      "quotation": "27(28)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C)",
+    "name": "Barella",
+    "club": "Inter",
+    "fvm": 82,
+    "fvm_prev": 82,
+    "quotation": 17,
+    "quotation_prev": 17,
+    "page": 3,
+    "team_number": 12,
+    "ocr_confidence": 0.964,
+    "source_text": {
+      "fvm": "82(82)",
+      "quotation": "17(17)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C)",
+    "name": "Zielinski",
+    "club": "Inter",
+    "fvm": 41,
+    "fvm_prev": 41,
+    "quotation": 10,
+    "quotation_prev": 10,
+    "page": 3,
+    "team_number": 13,
+    "ocr_confidence": 0.932,
+    "source_text": {
+      "fvm": "41(41)",
+      "quotation": "10(10)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(E,C)",
+    "name": "Diouf",
+    "club": "Inter",
+    "fvm": 37,
+    "fvm_prev": 40,
+    "quotation": 8,
+    "quotation_prev": 9,
+    "page": 3,
+    "team_number": 14,
+    "ocr_confidence": 0.948,
+    "source_text": {
+      "fvm": "37(40)",
+      "quotation": "8(9)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C)",
+    "name": "Sucic P.",
+    "club": "Inter",
+    "fvm": 26,
+    "fvm_prev": 26,
+    "quotation": 8,
+    "quotation_prev": 8,
+    "page": 3,
+    "team_number": 15,
+    "ocr_confidence": 0.932,
+    "source_text": {
+      "fvm": "26(26)",
+      "quotation": "8(8)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C,T)",
+    "name": "Frattesi",
+    "club": "Inter",
+    "fvm": 13,
+    "fvm_prev": 13,
+    "quotation": 7,
+    "quotation_prev": 7,
+    "page": 3,
+    "team_number": 16,
+    "ocr_confidence": 0.922,
+    "source_text": {
+      "fvm": "13(13)",
+      "quotation": "7(7)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C)",
+    "name": "Mkhitaryan",
+    "club": "Inter",
+    "fvm": 19,
+    "fvm_prev": 19,
+    "quotation": 5,
+    "quotation_prev": 5,
+    "page": 3,
+    "team_number": 17,
+    "ocr_confidence": 0.888,
+    "source_text": {
+      "fvm": "19(19)",
+      "quotation": "5(5)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(E,W)",
+    "name": "Luis Henrique",
+    "club": "Inter",
+    "fvm": 13,
+    "fvm_prev": 15,
+    "quotation": 4,
+    "quotation_prev": 5,
+    "page": 3,
+    "team_number": 18,
+    "ocr_confidence": 0.925,
+    "source_text": {
+      "fvm": "13(15)",
+      "quotation": "4(5)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Stankovic A.",
+    "club": "Inter",
+    "fvm": 10,
+    "fvm_prev": 11,
+    "quotation": 3,
+    "quotation_prev": 3,
+    "page": 3,
+    "team_number": 19,
+    "ocr_confidence": 0.865,
+    "source_text": {
+      "fvm": "10(11)",
+      "quotation": "3(3)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(PC)",
+    "name": "Martinez L.",
+    "club": "Inter",
+    "fvm": 370,
+    "fvm_prev": 370,
+    "quotation": 35,
+    "quotation_prev": 35,
+    "page": 3,
+    "team_number": 20,
+    "ocr_confidence": 0.88,
+    "source_text": {
+      "fvm": "370(370)",
+      "quotation": "35(35)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(PC)",
+    "name": "Thuram",
+    "club": "Inter",
+    "fvm": 280,
+    "fvm_prev": 280,
+    "quotation": 29,
+    "quotation_prev": 29,
+    "page": 3,
+    "team_number": 21,
+    "ocr_confidence": 0.895,
+    "source_text": {
+      "fvm": "280(280)",
+      "quotation": "29(29)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(PC)",
+    "name": "Esposito F.P.",
+    "club": "Inter",
+    "fvm": 93,
+    "fvm_prev": 90,
+    "quotation": 16,
+    "quotation_prev": 16,
+    "page": 3,
+    "team_number": 22,
+    "ocr_confidence": 0.882,
+    "source_text": {
+      "fvm": "93(90)",
+      "quotation": "16(16)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(PC)",
+    "name": "Bonny",
+    "club": "Inter",
+    "fvm": 21,
+    "fvm_prev": 18,
+    "quotation": 7,
+    "quotation_prev": 6,
+    "page": 3,
+    "team_number": 23,
+    "ocr_confidence": 0.867,
+    "source_text": {
+      "fvm": "21(18)",
+      "quotation": "7(6)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Di Gregorio",
+    "club": "Juventus",
+    "fvm": 40,
+    "fvm_prev": 40,
+    "quotation": 9,
+    "quotation_prev": 9,
+    "page": 3,
+    "team_number": 1,
+    "ocr_confidence": 0.957,
+    "source_text": {
+      "fvm": "40(40)",
+      "quotation": "9(9)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Perin",
+    "club": "Juventus",
+    "fvm": 10,
+    "fvm_prev": 10,
+    "quotation": 6,
+    "quotation_prev": 6,
+    "page": 3,
+    "team_number": 2,
+    "ocr_confidence": 0.919,
+    "source_text": {
+      "fvm": "10(10)",
+      "quotation": "6(6)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Pinsoglio",
+    "club": "Juventus",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 3,
+    "team_number": 3,
+    "ocr_confidence": 0.876,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Bremer",
+    "club": "Juventus",
+    "fvm": 50,
+    "fvm_prev": 50,
+    "quotation": 15,
+    "quotation_prev": 15,
+    "page": 3,
+    "team_number": 4,
+    "ocr_confidence": 0.903,
+    "source_text": {
+      "fvm": "50(50)",
+      "quotation": "15(15)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dd,Dc)",
+    "name": "Kalulu",
+    "club": "Juventus",
+    "fvm": 46,
+    "fvm_prev": 48,
+    "quotation": 13,
+    "quotation_prev": 14,
+    "page": 3,
+    "team_number": 5,
+    "ocr_confidence": 0.954,
+    "source_text": {
+      "fvm": "46(48)",
+      "quotation": "13(14)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dd,Ds,E)",
+    "name": "Cambiaso",
+    "club": "Juventus",
+    "fvm": 27,
+    "fvm_prev": 30,
+    "quotation": 9,
+    "quotation_prev": 10,
+    "page": 3,
+    "team_number": 6,
+    "ocr_confidence": 0.963,
+    "source_text": {
+      "fvm": "27(30)",
+      "quotation": "9(10)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(B,Dd,E)",
+    "name": "Celik",
+    "club": "Juventus",
+    "fvm": 21,
+    "fvm_prev": 23,
+    "quotation": 8,
+    "quotation_prev": 9,
+    "page": 3,
+    "team_number": 7,
+    "ocr_confidence": 0.94,
+    "source_text": {
+      "fvm": "21(23)",
+      "quotation": "8(9)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Ds,Dc)",
+    "name": "Kelly L.",
+    "club": "Juventus",
+    "fvm": 13,
+    "fvm_prev": 15,
+    "quotation": 5,
+    "quotation_prev": 6,
+    "page": 3,
+    "team_number": 8,
+    "ocr_confidence": 0.924,
+    "source_text": {
+      "fvm": "13(15)",
+      "quotation": "5(6)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Gatti",
+    "club": "Juventus",
+    "fvm": 10,
+    "fvm_prev": 10,
+    "quotation": 4,
+    "quotation_prev": 4,
+    "page": 3,
+    "team_number": 9,
+    "ocr_confidence": 0.907,
+    "source_text": {
+      "fvm": "10(10)",
+      "quotation": "4(4)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(B,Ds,E)",
+    "name": "Cabal",
+    "club": "Juventus",
+    "fvm": 4,
+    "fvm_prev": 4,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 3,
+    "team_number": 10,
+    "ocr_confidence": 0.908,
+    "source_text": {
+      "fvm": "4(4)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Rugani",
+    "club": "Juventus",
+    "fvm": 3,
+    "fvm_prev": 3,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 3,
+    "team_number": 11,
+    "ocr_confidence": 0.904,
+    "source_text": {
+      "fvm": "3(3)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C)",
+    "name": "Mckennie",
+    "club": "Juventus",
+    "fvm": 68,
+    "fvm_prev": 68,
+    "quotation": 17,
+    "quotation_prev": 17,
+    "page": 3,
+    "team_number": 12,
+    "ocr_confidence": 0.962,
+    "source_text": {
+      "fvm": "68(68)",
+      "quotation": "17(17)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(W,T)",
+    "name": "Alajbegovic",
+    "club": "Juventus",
+    "fvm": 57,
+    "fvm_prev": 57,
+    "quotation": 12,
+    "quotation_prev": 12,
+    "page": 3,
+    "team_number": 13,
+    "ocr_confidence": 0.929,
+    "source_text": {
+      "fvm": "57(57)",
+      "quotation": "12(12)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(W,A)",
+    "name": "Conceicao",
+    "club": "Juventus",
+    "fvm": 60,
+    "fvm_prev": 57,
+    "quotation": 12,
+    "quotation_prev": 11,
+    "page": 3,
+    "team_number": 14,
+    "ocr_confidence": 0.923,
+    "source_text": {
+      "fvm": "60(57)",
+      "quotation": "12(11)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C)",
+    "name": "Thuram K.",
+    "club": "Juventus",
+    "fvm": 41,
+    "fvm_prev": 41,
+    "quotation": 10,
+    "quotation_prev": 10,
+    "page": 3,
+    "team_number": 15,
+    "ocr_confidence": 0.935,
+    "source_text": {
+      "fvm": "41(41)",
+      "quotation": "10(10)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Locatelli",
+    "club": "Juventus",
+    "fvm": 32,
+    "fvm_prev": 35,
+    "quotation": 8,
+    "quotation_prev": 9,
+    "page": 3,
+    "team_number": 16,
+    "ocr_confidence": 0.911,
+    "source_text": {
+      "fvm": "32(35)",
+      "quotation": "8(9)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(W)",
+    "name": "Zhegrova",
+    "club": "Juventus",
+    "fvm": 18,
+    "fvm_prev": 16,
+    "quotation": 6,
+    "quotation_prev": 5,
+    "page": 3,
+    "team_number": 17,
+    "ocr_confidence": 0.953,
+    "source_text": {
+      "fvm": "18(16)",
+      "quotation": "6(5)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C,T)",
+    "name": "Koopmeiners",
+    "club": "Juventus",
+    "fvm": 14,
+    "fvm_prev": 14,
+    "quotation": 5,
+    "quotation_prev": 5,
+    "page": 3,
+    "team_number": 18,
+    "ocr_confidence": 0.891,
+    "source_text": {
+      "fvm": "14(14)",
+      "quotation": "5(5)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C)",
+    "name": "Douglas Luiz",
+    "club": "Juventus",
+    "fvm": 12,
+    "fvm_prev": 12,
+    "quotation": 4,
+    "quotation_prev": 4,
+    "page": 3,
+    "team_number": 19,
+    "ocr_confidence": 0.94,
+    "source_text": {
+      "fvm": "12(12)",
+      "quotation": "4(4)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C,T)",
+    "name": "Miretti",
+    "club": "Juventus",
+    "fvm": 11,
+    "fvm_prev": 11,
+    "quotation": 3,
+    "quotation_prev": 3,
+    "page": 3,
+    "team_number": 20,
+    "ocr_confidence": 0.909,
+    "source_text": {
+      "fvm": "11(11)",
+      "quotation": "3(3)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(Pc)",
+    "name": "Kolo Muani",
+    "club": "Juventus",
+    "fvm": 225,
+    "fvm_prev": 225,
+    "quotation": 26,
+    "quotation_prev": 26,
+    "page": 3,
+    "team_number": 21,
+    "ocr_confidence": 0.886,
+    "source_text": {
+      "fvm": "225(225)",
+      "quotation": "26(26)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(A)",
+    "name": "Yildiz",
+    "club": "Juventus",
+    "fvm": 200,
+    "fvm_prev": 205,
+    "quotation": 23,
+    "quotation_prev": 24,
+    "page": 3,
+    "team_number": 22,
+    "ocr_confidence": 0.955,
+    "source_text": {
+      "fvm": "200(205)",
+      "quotation": "23(24)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(Pc)",
+    "name": "David",
+    "club": "Juventus",
+    "fvm": 40,
+    "fvm_prev": 37,
+    "quotation": 9,
+    "quotation_prev": 8,
+    "page": 3,
+    "team_number": 23,
+    "ocr_confidence": 0.946,
+    "source_text": {
+      "fvm": "40(37)",
+      "quotation": "9(8)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(W,A)",
+    "name": "Boga",
+    "club": "Juventus",
+    "fvm": 25,
+    "fvm_prev": 28,
+    "quotation": 6,
+    "quotation_prev": 7,
+    "page": 3,
+    "team_number": 24,
+    "ocr_confidence": 0.892,
+    "source_text": {
+      "fvm": "25(28)",
+      "quotation": "6(7)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(A)",
+    "name": "Ekhator",
+    "club": "Juventus",
+    "fvm": 10,
+    "fvm_prev": 10,
+    "quotation": 3,
+    "quotation_prev": 3,
+    "page": 3,
+    "team_number": 25,
+    "ocr_confidence": 0.934,
+    "source_text": {
+      "fvm": "10(10)",
+      "quotation": "3(3)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Mandas",
+    "club": "Lazio",
+    "fvm": 30,
+    "fvm_prev": 30,
+    "quotation": 9,
+    "quotation_prev": 9,
+    "page": 3,
+    "team_number": 1,
+    "ocr_confidence": 0.957,
+    "source_text": {
+      "fvm": "30(30)",
+      "quotation": "9(9)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Motta",
+    "club": "Lazio",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 3,
+    "team_number": 2,
+    "ocr_confidence": 0.895,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Renzetti",
+    "club": "Lazio",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 3,
+    "team_number": 3,
+    "ocr_confidence": 0.877,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Doekhi",
+    "club": "Lazio",
+    "fvm": 22,
+    "fvm_prev": 22,
+    "quotation": 7,
+    "quotation_prev": 7,
+    "page": 3,
+    "team_number": 4,
+    "ocr_confidence": 0.959,
+    "source_text": {
+      "fvm": "22(22)",
+      "quotation": "7(7)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Romagnoli",
+    "club": "Lazio",
+    "fvm": 24,
+    "fvm_prev": 24,
+    "quotation": 7,
+    "quotation_prev": 7,
+    "page": 3,
+    "team_number": 5,
+    "ocr_confidence": 0.951,
+    "source_text": {
+      "fvm": "24(24)",
+      "quotation": "7(7)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dd,Ds,E)",
+    "name": "Marusic",
+    "club": "Lazio",
+    "fvm": 20,
+    "fvm_prev": 23,
+    "quotation": 6,
+    "quotation_prev": 6,
+    "page": 3,
+    "team_number": 6,
+    "ocr_confidence": 0.936,
+    "source_text": {
+      "fvm": "20(23)",
+      "quotation": "6(6)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Ds,E)",
+    "name": "Tavares N.",
+    "club": "Lazio",
+    "fvm": 17,
+    "fvm_prev": 17,
+    "quotation": 6,
+    "quotation_prev": 6,
+    "page": 3,
+    "team_number": 7,
+    "ocr_confidence": 0.954,
+    "source_text": {
+      "fvm": "17(17)",
+      "quotation": "6(6)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Ds,E)",
+    "name": "Pedraza",
+    "club": "Lazio",
+    "fvm": 15,
+    "fvm_prev": 15,
+    "quotation": 5,
+    "quotation_prev": 5,
+    "page": 3,
+    "team_number": 8,
+    "ocr_confidence": 0.817,
+    "source_text": {
+      "fvm": "15(15)",
+      "quotation": "5(5)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dd,E)",
+    "name": "Floriani Mussolini",
+    "club": "Lazio",
+    "fvm": 12,
+    "fvm_prev": 12,
+    "quotation": 3,
+    "quotation_prev": 3,
+    "page": 3,
+    "team_number": 9,
+    "ocr_confidence": 0.835,
+    "source_text": {
+      "fvm": "12(12)",
+      "quotation": "3(3)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Provstgaard",
+    "club": "Lazio",
+    "fvm": 10,
+    "fvm_prev": 10,
+    "quotation": 3,
+    "quotation_prev": 3,
+    "page": 3,
+    "team_number": 10,
+    "ocr_confidence": 0.923,
+    "source_text": {
+      "fvm": "10(10)",
+      "quotation": "3(3)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dd,E)",
+    "name": "Lazzari",
+    "club": "Lazio",
+    "fvm": 8,
+    "fvm_prev": 8,
+    "quotation": 2,
+    "quotation_prev": 2,
+    "page": 3,
+    "team_number": 11,
+    "ocr_confidence": 0.953,
+    "source_text": {
+      "fvm": "8(8)",
+      "quotation": "2(2)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Ds,E)",
+    "name": "Pellegrini Lu.",
+    "club": "Lazio",
+    "fvm": 5,
+    "fvm_prev": 5,
+    "quotation": 2,
+    "quotation_prev": 2,
+    "page": 3,
+    "team_number": 12,
+    "ocr_confidence": 0.924,
+    "source_text": {
+      "fvm": "5(5)",
+      "quotation": "2(2)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dd,Dc)",
+    "name": "Patric",
+    "club": "Lazio",
+    "fvm": 4,
+    "fvm_prev": 4,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 3,
+    "team_number": 13,
+    "ocr_confidence": 0.938,
+    "source_text": {
+      "fvm": "4(4)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(W,A)",
+    "name": "Zaccagni",
+    "club": "Lazio",
+    "fvm": 91,
+    "fvm_prev": 88,
+    "quotation": 16,
+    "quotation_prev": 15,
+    "page": 3,
+    "team_number": 14,
+    "ocr_confidence": 0.951,
+    "source_text": {
+      "fvm": "91(88)",
+      "quotation": "16(15)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C,T)",
+    "name": "Taylor K.",
+    "club": "Lazio",
+    "fvm": 64,
+    "fvm_prev": 64,
+    "quotation": 13,
+    "quotation_prev": 13,
+    "page": 3,
+    "team_number": 15,
+    "ocr_confidence": 0.912,
+    "source_text": {
+      "fvm": "64(64)",
+      "quotation": "13(13)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(W,A)",
+    "name": "Cancellieri",
+    "club": "Lazio",
+    "fvm": 28,
+    "fvm_prev": 26,
+    "quotation": 9,
+    "quotation_prev": 8,
+    "page": 3,
+    "team_number": 16,
+    "ocr_confidence": 0.974,
+    "source_text": {
+      "fvm": "28(26)",
+      "quotation": "9(8)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(W,A)",
+    "name": "Isaksen",
+    "club": "Lazio",
+    "fvm": 25,
+    "fvm_prev": 23,
+    "quotation": 9,
+    "quotation_prev": 8,
+    "page": 3,
+    "team_number": 17,
+    "ocr_confidence": 0.928,
+    "source_text": {
+      "fvm": "25(23)",
+      "quotation": "9(8)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Rovella",
+    "club": "Lazio",
+    "fvm": 16,
+    "fvm_prev": 19,
+    "quotation": 6,
+    "quotation_prev": 7,
+    "page": 3,
+    "team_number": 18,
+    "ocr_confidence": 0.933,
+    "source_text": {
+      "fvm": "16(19)",
+      "quotation": "6(7)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C,T)",
+    "name": "Dele-Bashiru",
+    "club": "Lazio",
+    "fvm": 13,
+    "fvm_prev": 13,
+    "quotation": 5,
+    "quotation_prev": 5,
+    "page": 3,
+    "team_number": 19,
+    "ocr_confidence": 0.922,
+    "source_text": {
+      "fvm": "13(13)",
+      "quotation": "5(5)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Cataldi",
+    "club": "Lazio",
+    "fvm": 12,
+    "fvm_prev": 15,
+    "quotation": 4,
+    "quotation_prev": 5,
+    "page": 3,
+    "team_number": 20,
+    "ocr_confidence": 0.939,
+    "source_text": {
+      "fvm": "12(15)",
+      "quotation": "4(5)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Belahyane",
+    "club": "Lazio",
+    "fvm": 5,
+    "fvm_prev": 5,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 3,
+    "team_number": 21,
+    "ocr_confidence": 0.938,
+    "source_text": {
+      "fvm": "5(5)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(W,T)",
+    "name": "Przyborek",
+    "club": "Lazio",
+    "fvm": 5,
+    "fvm_prev": 5,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 3,
+    "team_number": 22,
+    "ocr_confidence": 0.896,
+    "source_text": {
+      "fvm": "5(5)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(A)",
+    "name": "Dia",
+    "club": "Lazio",
+    "fvm": 31,
+    "fvm_prev": 33,
+    "quotation": 10,
+    "quotation_prev": 11,
+    "page": 3,
+    "team_number": 23,
+    "ocr_confidence": 0.935,
+    "source_text": {
+      "fvm": "31(33)",
+      "quotation": "10(11)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(Pc)",
+    "name": "Ratkov",
+    "club": "Lazio",
+    "fvm": 32,
+    "fvm_prev": 29,
+    "quotation": 10,
+    "quotation_prev": 9,
+    "page": 3,
+    "team_number": 24,
+    "ocr_confidence": 0.873,
+    "source_text": {
+      "fvm": "32(29)",
+      "quotation": "10(9)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(A)",
+    "name": "Noslin",
+    "club": "Lazio",
+    "fvm": 17,
+    "fvm_prev": 17,
+    "quotation": 6,
+    "quotation_prev": 6,
+    "page": 3,
+    "team_number": 25,
+    "ocr_confidence": 0.932,
+    "source_text": {
+      "fvm": "17(17)",
+      "quotation": "6(6)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Falcone",
+    "club": "Lecce",
+    "fvm": 25,
+    "fvm_prev": 25,
+    "quotation": 8,
+    "quotation_prev": 8,
+    "page": 3,
+    "team_number": 1,
+    "ocr_confidence": 0.967,
+    "source_text": {
+      "fvm": "25(25)",
+      "quotation": "8(8)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Samooja",
+    "club": "Lecce",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 3,
+    "team_number": 2,
+    "ocr_confidence": 0.888,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Tiago Gabriel",
+    "club": "Lecce",
+    "fvm": 17,
+    "fvm_prev": 17,
+    "quotation": 7,
+    "quotation_prev": 7,
+    "page": 3,
+    "team_number": 3,
+    "ocr_confidence": 0.92,
+    "source_text": {
+      "fvm": "17(17)",
+      "quotation": "7(7)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Ds,E)",
+    "name": "Gallo",
+    "club": "Lecce",
+    "fvm": 13,
+    "fvm_prev": 13,
+    "quotation": 6,
+    "quotation_prev": 6,
+    "page": 3,
+    "team_number": 4,
+    "ocr_confidence": 0.92,
+    "source_text": {
+      "fvm": "13(13)",
+      "quotation": "6(6)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Gaspar K.",
+    "club": "Lecce",
+    "fvm": 12,
+    "fvm_prev": 12,
+    "quotation": 5,
+    "quotation_prev": 5,
+    "page": 3,
+    "team_number": 5,
+    "ocr_confidence": 0.891,
+    "source_text": {
+      "fvm": "12(12)",
+      "quotation": "5(5)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dd,E)",
+    "name": "Veiga D.",
+    "club": "Lecce",
+    "fvm": 11,
+    "fvm_prev": 11,
+    "quotation": 5,
+    "quotation_prev": 5,
+    "page": 3,
+    "team_number": 6,
+    "ocr_confidence": 0.937,
+    "source_text": {
+      "fvm": "11(11)",
+      "quotation": "5(5)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Jean",
+    "club": "Lecce",
+    "fvm": 4,
+    "fvm_prev": 4,
+    "quotation": 2,
+    "quotation_prev": 2,
+    "page": 3,
+    "team_number": 8,
+    "ocr_confidence": 0.824,
+    "source_text": {
+      "fvm": "4(4)",
+      "quotation": "2(2)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Ds,E)",
+    "name": "Ndaba",
+    "club": "Lecce",
+    "fvm": 4,
+    "fvm_prev": 4,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 3,
+    "team_number": 9,
+    "ocr_confidence": 0.926,
+    "source_text": {
+      "fvm": "4(4)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dd,Dc)",
+    "name": "Perez M.",
+    "club": "Lecce",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 3,
+    "team_number": 10,
+    "ocr_confidence": 0.95,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Coulibaly L.",
+    "club": "Lecce",
+    "fvm": 14,
+    "fvm_prev": 16,
+    "quotation": 6,
+    "quotation_prev": 7,
+    "page": 3,
+    "team_number": 11,
+    "ocr_confidence": 0.906,
+    "source_text": {
+      "fvm": "14(16)",
+      "quotation": "6(7)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(W)",
+    "name": "Pierotti",
+    "club": "Lecce",
+    "fvm": 19,
+    "fvm_prev": 17,
+    "quotation": 6,
+    "quotation_prev": 5,
+    "page": 3,
+    "team_number": 12,
+    "ocr_confidence": 0.951,
+    "source_text": {
+      "fvm": "19(17)",
+      "quotation": "6(5)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C,T)",
+    "name": "Berisha M.",
+    "club": "Lecce",
+    "fvm": 16,
+    "fvm_prev": 16,
+    "quotation": 5,
+    "quotation_prev": 5,
+    "page": 3,
+    "team_number": 13,
+    "ocr_confidence": 0.941,
+    "source_text": {
+      "fvm": "16(16)",
+      "quotation": "5(5)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C,T)",
+    "name": "Gandelman",
+    "club": "Lecce",
+    "fvm": 14,
+    "fvm_prev": 14,
+    "quotation": 5,
+    "quotation_prev": 5,
+    "page": 3,
+    "team_number": 14,
+    "ocr_confidence": 0.917,
+    "source_text": {
+      "fvm": "14(14)",
+      "quotation": "5(5)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Ngom",
+    "club": "Lecce",
+    "fvm": 11,
+    "fvm_prev": 13,
+    "quotation": 4,
+    "quotation_prev": 5,
+    "page": 3,
+    "team_number": 15,
+    "ocr_confidence": 0.895,
+    "source_text": {
+      "fvm": "11(13)",
+      "quotation": "4(5)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Maleh",
+    "club": "Lecce",
+    "fvm": 5,
+    "fvm_prev": 5,
+    "quotation": 2,
+    "quotation_prev": 2,
+    "page": 3,
+    "team_number": 16,
+    "ocr_confidence": 0.928,
+    "source_text": {
+      "fvm": "5(5)",
+      "quotation": "2(2)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Fofana Sa.",
+    "club": "Lecce",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 4,
+    "team_number": 17,
+    "ocr_confidence": 0.909,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Gorter",
+    "club": "Lecce",
+    "fvm": 3,
+    "fvm_prev": 3,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 4,
+    "team_number": 18,
+    "ocr_confidence": 0.935,
+    "source_text": {
+      "fvm": "3(3)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Kaba",
+    "club": "Lecce",
+    "fvm": 2,
+    "fvm_prev": 2,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 4,
+    "team_number": 19,
+    "ocr_confidence": 0.898,
+    "source_text": {
+      "fvm": "2(2)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(Pc)",
+    "name": "Geubbels",
+    "club": "Lecce",
+    "fvm": 25,
+    "fvm_prev": 23,
+    "quotation": 9,
+    "quotation_prev": 8,
+    "page": 4,
+    "team_number": 20,
+    "ocr_confidence": 0.925,
+    "source_text": {
+      "fvm": "25(23)",
+      "quotation": "9(8)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(Pc)",
+    "name": "Stulic",
+    "club": "Lecce",
+    "fvm": 18,
+    "fvm_prev": 16,
+    "quotation": 7,
+    "quotation_prev": 6,
+    "page": 4,
+    "team_number": 21,
+    "ocr_confidence": 0.929,
+    "source_text": {
+      "fvm": "18(16)",
+      "quotation": "7(6)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(W,A)",
+    "name": "N'Dri",
+    "club": "Lecce",
+    "fvm": 9,
+    "fvm_prev": 11,
+    "quotation": 3,
+    "quotation_prev": 4,
+    "page": 4,
+    "team_number": 22,
+    "ocr_confidence": 0.916,
+    "source_text": {
+      "fvm": "9(11)",
+      "quotation": "3(4)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Maignan",
+    "club": "Milan",
+    "fvm": 50,
+    "fvm_prev": 50,
+    "quotation": 15,
+    "quotation_prev": 15,
+    "page": 4,
+    "team_number": 1,
+    "ocr_confidence": 0.938,
+    "source_text": {
+      "fvm": "50(50)",
+      "quotation": "15(15)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Terracciano",
+    "club": "Milan",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 4,
+    "team_number": 2,
+    "ocr_confidence": 0.965,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Torriani",
+    "club": "Milan",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 4,
+    "team_number": 3,
+    "ocr_confidence": 0.875,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Pavlovic",
+    "club": "Milan",
+    "fvm": 48,
+    "fvm_prev": 48,
+    "quotation": 14,
+    "quotation_prev": 14,
+    "page": 4,
+    "team_number": 4,
+    "ocr_confidence": 0.952,
+    "source_text": {
+      "fvm": "48(48)",
+      "quotation": "14(14)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Gila",
+    "club": "Milan",
+    "fvm": 31,
+    "fvm_prev": 31,
+    "quotation": 12,
+    "quotation_prev": 12,
+    "page": 4,
+    "team_number": 5,
+    "ocr_confidence": 0.929,
+    "source_text": {
+      "fvm": "31(31)",
+      "quotation": "12(12)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Gabbia",
+    "club": "Milan",
+    "fvm": 23,
+    "fvm_prev": 23,
+    "quotation": 7,
+    "quotation_prev": 7,
+    "page": 4,
+    "team_number": 7,
+    "ocr_confidence": 0.929,
+    "source_text": {
+      "fvm": "23(23)",
+      "quotation": "7(7)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Tomori",
+    "club": "Milan",
+    "fvm": 20,
+    "fvm_prev": 20,
+    "quotation": 7,
+    "quotation_prev": 7,
+    "page": 4,
+    "team_number": 8,
+    "ocr_confidence": 0.961,
+    "source_text": {
+      "fvm": "20(20)",
+      "quotation": "7(7)"
+    },
+    "manually_verified": true
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dd,E)",
+    "name": "Athekame",
+    "club": "Milan",
+    "fvm": 8,
+    "fvm_prev": 8,
+    "quotation": 3,
+    "quotation_prev": 3,
+    "page": 4,
+    "team_number": 9,
+    "ocr_confidence": 0.957,
+    "source_text": {
+      "fvm": "8(8)",
+      "quotation": "3(3)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dd,Dc)",
+    "name": "De Winter",
+    "club": "Milan",
+    "fvm": 12,
+    "fvm_prev": 14,
+    "quotation": 3,
+    "quotation_prev": 4,
+    "page": 4,
+    "team_number": 10,
+    "ocr_confidence": 0.914,
+    "source_text": {
+      "fvm": "12(14)",
+      "quotation": "3(4)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Ds,E)",
+    "name": "Estupinan",
+    "club": "Milan",
+    "fvm": 9,
+    "fvm_prev": 9,
+    "quotation": 3,
+    "quotation_prev": 3,
+    "page": 4,
+    "team_number": 11,
+    "ocr_confidence": 0.911,
+    "source_text": {
+      "fvm": "(6)6",
+      "quotation": "3(3)"
+    },
+    "manually_verified": true
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Ds,Dc)",
+    "name": "Diawara S.",
+    "club": "Milan",
+    "fvm": 4,
+    "fvm_prev": 4,
+    "quotation": 2,
+    "quotation_prev": 2,
+    "page": 4,
+    "team_number": 12,
+    "ocr_confidence": 0.95,
+    "source_text": {
+      "fvm": "4(4)",
+      "quotation": "2(2)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(T,A)",
+    "name": "Pulisic",
+    "club": "Milan",
+    "fvm": 180,
+    "fvm_prev": 174,
+    "quotation": 25,
+    "quotation_prev": 23,
+    "page": 4,
+    "team_number": 13,
+    "ocr_confidence": 0.951,
+    "source_text": {
+      "fvm": "180(174)",
+      "quotation": "25(23)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C,T)",
+    "name": "Rabiot",
+    "club": "Milan",
+    "fvm": 128,
+    "fvm_prev": 128,
+    "quotation": 22,
+    "quotation_prev": 22,
+    "page": 4,
+    "team_number": 14,
+    "ocr_confidence": 0.931,
+    "source_text": {
+      "fvm": "128(128)",
+      "quotation": "22(22)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Modric",
+    "club": "Milan",
+    "fvm": 50,
+    "fvm_prev": 60,
+    "quotation": 12,
+    "quotation_prev": 13,
+    "page": 4,
+    "team_number": 15,
+    "ocr_confidence": 0.934,
+    "source_text": {
+      "fvm": "50(60)",
+      "quotation": "12(13)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(E,W)",
+    "name": "Saelemaekers",
+    "club": "Milan",
+    "fvm": 43,
+    "fvm_prev": 45,
+    "quotation": 10,
+    "quotation_prev": 11,
+    "page": 4,
+    "team_number": 16,
+    "ocr_confidence": 0.93,
+    "source_text": {
+      "fvm": "43(45)",
+      "quotation": "10(11)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(W)",
+    "name": "Chukwueze",
+    "club": "Milan",
+    "fvm": 11,
+    "fvm_prev": 9,
+    "quotation": 6,
+    "quotation_prev": 5,
+    "page": 4,
+    "team_number": 17,
+    "ocr_confidence": 0.921,
+    "source_text": {
+      "fvm": "11(9)",
+      "quotation": "6(5)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Fofana Y.",
+    "club": "Milan",
+    "fvm": 23,
+    "fvm_prev": 26,
+    "quotation": 5,
+    "quotation_prev": 6,
+    "page": 4,
+    "team_number": 18,
+    "ocr_confidence": 0.934,
+    "source_text": {
+      "fvm": "23(26)",
+      "quotation": "5(6)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C)",
+    "name": "Jashari",
+    "club": "Milan",
+    "fvm": 11,
+    "fvm_prev": 11,
+    "quotation": 4,
+    "quotation_prev": 4,
+    "page": 4,
+    "team_number": 19,
+    "ocr_confidence": 0.862,
+    "source_text": {
+      "fvm": "11(11)",
+      "quotation": "4(4)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C,T)",
+    "name": "Loftus-Cheek",
+    "club": "Milan",
+    "fvm": 11,
+    "fvm_prev": 11,
+    "quotation": 4,
+    "quotation_prev": 4,
+    "page": 4,
+    "team_number": 20,
+    "ocr_confidence": 0.849,
+    "source_text": {
+      "fvm": "11(11)",
+      "quotation": "4(4)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Ricci S.",
+    "club": "Milan",
+    "fvm": 11,
+    "fvm_prev": 13,
+    "quotation": 4,
+    "quotation_prev": 4,
+    "page": 4,
+    "team_number": 21,
+    "ocr_confidence": 0.909,
+    "source_text": {
+      "fvm": "11(13)",
+      "quotation": "4(4)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C,W)",
+    "name": "Musah",
+    "club": "Milan",
+    "fvm": 6,
+    "fvm_prev": 6,
+    "quotation": 2,
+    "quotation_prev": 2,
+    "page": 4,
+    "team_number": 22,
+    "ocr_confidence": 0.944,
+    "source_text": {
+      "fvm": "6(6)",
+      "quotation": "2(2)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(PC)",
+    "name": "Ramos G.",
+    "club": "Milan",
+    "fvm": 240,
+    "fvm_prev": 240,
+    "quotation": 27,
+    "quotation_prev": 27,
+    "page": 4,
+    "team_number": 23,
+    "ocr_confidence": 0.907,
+    "source_text": {
+      "fvm": "240(240)",
+      "quotation": "27(27)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(A)",
+    "name": "Leao",
+    "club": "Milan",
+    "fvm": 120,
+    "fvm_prev": 123,
+    "quotation": 18,
+    "quotation_prev": 19,
+    "page": 4,
+    "team_number": 24,
+    "ocr_confidence": 0.953,
+    "source_text": {
+      "fvm": "120(123)",
+      "quotation": "18(19)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(A)",
+    "name": "Nkunku",
+    "club": "Milan",
+    "fvm": 52,
+    "fvm_prev": 54,
+    "quotation": 13,
+    "quotation_prev": 14,
+    "page": 4,
+    "team_number": 25,
+    "ocr_confidence": 0.904,
+    "source_text": {
+      "fvm": "52(54)",
+      "quotation": "13(14)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(Pc)",
+    "name": "Gimenez",
+    "club": "Milan",
+    "fvm": 14,
+    "fvm_prev": 13,
+    "quotation": 6,
+    "quotation_prev": 5,
+    "page": 4,
+    "team_number": 26,
+    "ocr_confidence": 0.873,
+    "source_text": {
+      "fvm": "14(13)",
+      "quotation": "6(5)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(PC)",
+    "name": "Camarda",
+    "club": "Milan",
+    "fvm": 18,
+    "fvm_prev": 17,
+    "quotation": 5,
+    "quotation_prev": 4,
+    "page": 4,
+    "team_number": 27,
+    "ocr_confidence": 0.852,
+    "source_text": {
+      "fvm": "18(17)",
+      "quotation": "5(4)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Thiam",
+    "club": "Monza",
+    "fvm": 12,
+    "fvm_prev": 12,
+    "quotation": 5,
+    "quotation_prev": 5,
+    "page": 4,
+    "team_number": 1,
+    "ocr_confidence": 0.94,
+    "source_text": {
+      "fvm": "12(12)",
+      "quotation": "5(5)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Pizzignacco",
+    "club": "Monza",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 4,
+    "team_number": 2,
+    "ocr_confidence": 0.833,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Strajnar",
+    "club": "Monza",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 4,
+    "team_number": 3,
+    "ocr_confidence": 0.866,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Ds,E)",
+    "name": "Mangas",
+    "club": "Monza",
+    "fvm": 15,
+    "fvm_prev": 15,
+    "quotation": 6,
+    "quotation_prev": 6,
+    "page": 4,
+    "team_number": 4,
+    "ocr_confidence": 0.94,
+    "source_text": {
+      "fvm": "15(15)",
+      "quotation": "6(6)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dd,Ds,E)",
+    "name": "Birindelli",
+    "club": "Monza",
+    "fvm": 12,
+    "fvm_prev": 14,
+    "quotation": 4,
+    "quotation_prev": 5,
+    "page": 4,
+    "team_number": 5,
+    "ocr_confidence": 0.919,
+    "source_text": {
+      "fvm": "12(14)",
+      "quotation": "4(5)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Delli Carri",
+    "club": "Monza",
+    "fvm": 11,
+    "fvm_prev": 11,
+    "quotation": 4,
+    "quotation_prev": 4,
+    "page": 4,
+    "team_number": 6,
+    "ocr_confidence": 0.795,
+    "source_text": {
+      "fvm": "11(11)",
+      "quotation": "4(4)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Lucchesi",
+    "club": "Monza",
+    "fvm": 12,
+    "fvm_prev": 12,
+    "quotation": 4,
+    "quotation_prev": 4,
+    "page": 4,
+    "team_number": 7,
+    "ocr_confidence": 0.841,
+    "source_text": {
+      "fvm": "12(12)",
+      "quotation": "4(4)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Ds,Dc)",
+    "name": "Carboni A.",
+    "club": "Monza",
+    "fvm": 9,
+    "fvm_prev": 11,
+    "quotation": 3,
+    "quotation_prev": 4,
+    "page": 4,
+    "team_number": 8,
+    "ocr_confidence": 0.847,
+    "source_text": {
+      "fvm": "9(11)",
+      "quotation": "3(4)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dd,Dc)",
+    "name": "Kouadio",
+    "club": "Monza",
+    "fvm": 9,
+    "fvm_prev": 10,
+    "quotation": 3,
+    "quotation_prev": 3,
+    "page": 4,
+    "team_number": 9,
+    "ocr_confidence": 0.691,
+    "source_text": {
+      "fvm": "(01)6",
+      "quotation": "3(3)"
+    },
+    "manually_verified": true
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Antov",
+    "club": "Monza",
+    "fvm": 2,
+    "fvm_prev": 2,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 4,
+    "team_number": 10,
+    "ocr_confidence": 0.871,
+    "source_text": {
+      "fvm": "2(2)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dd,E)",
+    "name": "Bakoune",
+    "club": "Monza",
+    "fvm": 4,
+    "fvm_prev": 4,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 4,
+    "team_number": 11,
+    "ocr_confidence": 0.857,
+    "source_text": {
+      "fvm": "4(4)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(T)",
+    "name": "Colpani",
+    "club": "Monza",
+    "fvm": 25,
+    "fvm_prev": 22,
+    "quotation": 8,
+    "quotation_prev": 7,
+    "page": 4,
+    "team_number": 12,
+    "ocr_confidence": 0.678,
+    "source_text": {
+      "fvm": "25(22)",
+      "quotation": "8(7)"
+    },
+    "manually_verified": true
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Pessina",
+    "club": "Monza",
+    "fvm": 20,
+    "fvm_prev": 22,
+    "quotation": 7,
+    "quotation_prev": 8,
+    "page": 4,
+    "team_number": 13,
+    "ocr_confidence": 0.906,
+    "source_text": {
+      "fvm": "20(22)",
+      "quotation": "7(8)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C)",
+    "name": "Akinsanmiro",
+    "club": "Monza",
+    "fvm": 16,
+    "fvm_prev": 16,
+    "quotation": 6,
+    "quotation_prev": 6,
+    "page": 4,
+    "team_number": 14,
+    "ocr_confidence": 0.958,
+    "source_text": {
+      "fvm": "16(16)",
+      "quotation": "6(6)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Colombo L.",
+    "club": "Monza",
+    "fvm": 7,
+    "fvm_prev": 8,
+    "quotation": 3,
+    "quotation_prev": 3,
+    "page": 4,
+    "team_number": 15,
+    "ocr_confidence": 0.897,
+    "source_text": {
+      "fvm": "7(8)",
+      "quotation": "3(3)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(E,W)",
+    "name": "Ciurria",
+    "club": "Monza",
+    "fvm": 6,
+    "fvm_prev": 6,
+    "quotation": 2,
+    "quotation_prev": 2,
+    "page": 4,
+    "team_number": 16,
+    "ocr_confidence": 0.967,
+    "source_text": {
+      "fvm": "6(6)",
+      "quotation": "2(2)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(PC)",
+    "name": "Cutrone",
+    "club": "Monza",
+    "fvm": 33,
+    "fvm_prev": 30,
+    "quotation": 9,
+    "quotation_prev": 8,
+    "page": 4,
+    "team_number": 17,
+    "ocr_confidence": 0.86,
+    "source_text": {
+      "fvm": "33(30)",
+      "quotation": "9(8)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(A)",
+    "name": "Mota",
+    "club": "Monza",
+    "fvm": 18,
+    "fvm_prev": 18,
+    "quotation": 5,
+    "quotation_prev": 5,
+    "page": 4,
+    "team_number": 18,
+    "ocr_confidence": 0.949,
+    "source_text": {
+      "fvm": "18(18)",
+      "quotation": "5(5)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(Pc)",
+    "name": "Varela G.",
+    "club": "Monza",
+    "fvm": 7,
+    "fvm_prev": 6,
+    "quotation": 3,
+    "quotation_prev": 3,
+    "page": 4,
+    "team_number": 19,
+    "ocr_confidence": 0.868,
+    "source_text": {
+      "fvm": "7(6)",
+      "quotation": "3(3)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(Pc)",
+    "name": "Petagna",
+    "club": "Monza",
+    "fvm": 5,
+    "fvm_prev": 5,
+    "quotation": 2,
+    "quotation_prev": 2,
+    "page": 4,
+    "team_number": 20,
+    "ocr_confidence": 0.889,
+    "source_text": {
+      "fvm": "5(5)",
+      "quotation": "2(2)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Meret",
+    "club": "Napoli",
+    "fvm": 45,
+    "fvm_prev": 45,
+    "quotation": 11,
+    "quotation_prev": 11,
+    "page": 4,
+    "team_number": 1,
+    "ocr_confidence": 0.95,
+    "source_text": {
+      "fvm": "45(45)",
+      "quotation": "11(11)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Milinkovic-Savic V.",
+    "club": "Napoli",
+    "fvm": 10,
+    "fvm_prev": 10,
+    "quotation": 5,
+    "quotation_prev": 5,
+    "page": 4,
+    "team_number": 2,
+    "ocr_confidence": 0.924,
+    "source_text": {
+      "fvm": "10(10)",
+      "quotation": "5(5)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Contini",
+    "club": "Napoli",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 4,
+    "team_number": 3,
+    "ocr_confidence": 0.906,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Rrahmani",
+    "club": "Napoli",
+    "fvm": 47,
+    "fvm_prev": 47,
+    "quotation": 14,
+    "quotation_prev": 14,
+    "page": 4,
+    "team_number": 4,
+    "ocr_confidence": 0.948,
+    "source_text": {
+      "fvm": "47(47)",
+      "quotation": "14(14)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dd,E)",
+    "name": "Di Lorenzo",
+    "club": "Napoli",
+    "fvm": 40,
+    "fvm_prev": 40,
+    "quotation": 12,
+    "quotation_prev": 12,
+    "page": 4,
+    "team_number": 5,
+    "ocr_confidence": 0.945,
+    "source_text": {
+      "fvm": "40(40)",
+      "quotation": "12(12)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Ds,E)",
+    "name": "Spinazzola",
+    "club": "Napoli",
+    "fvm": 24,
+    "fvm_prev": 24,
+    "quotation": 8,
+    "quotation_prev": 8,
+    "page": 4,
+    "team_number": 6,
+    "ocr_confidence": 0.895,
+    "source_text": {
+      "fvm": "24(24)",
+      "quotation": "8(8)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Buongiorno",
+    "club": "Napoli",
+    "fvm": 18,
+    "fvm_prev": 18,
+    "quotation": 7,
+    "quotation_prev": 7,
+    "page": 4,
+    "team_number": 7,
+    "ocr_confidence": 0.963,
+    "source_text": {
+      "fvm": "18(18)",
+      "quotation": "7(7)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Beukema",
+    "club": "Napoli",
+    "fvm": 16,
+    "fvm_prev": 16,
+    "quotation": 6,
+    "quotation_prev": 6,
+    "page": 4,
+    "team_number": 8,
+    "ocr_confidence": 0.958,
+    "source_text": {
+      "fvm": "16(16)",
+      "quotation": "6(6)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(B,Ds,E)",
+    "name": "Olivera",
+    "club": "Napoli",
+    "fvm": 13,
+    "fvm_prev": 15,
+    "quotation": 5,
+    "quotation_prev": 6,
+    "page": 4,
+    "team_number": 9,
+    "ocr_confidence": 0.959,
+    "source_text": {
+      "fvm": "13(15)",
+      "quotation": "5(6)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Marin R.",
+    "club": "Napoli",
+    "fvm": 6,
+    "fvm_prev": 6,
+    "quotation": 2,
+    "quotation_prev": 2,
+    "page": 4,
+    "team_number": 10,
+    "ocr_confidence": 0.921,
+    "source_text": {
+      "fvm": "6(6)",
+      "quotation": "2(2)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Marianucci",
+    "club": "Napoli",
+    "fvm": 5,
+    "fvm_prev": 5,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 4,
+    "team_number": 11,
+    "ocr_confidence": 0.961,
+    "source_text": {
+      "fvm": "5(5)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dd,Ds,E)",
+    "name": "Mazzocchi",
+    "club": "Napoli",
+    "fvm": 3,
+    "fvm_prev": 3,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 4,
+    "team_number": 12,
+    "ocr_confidence": 0.914,
+    "source_text": {
+      "fvm": "3(3)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C,T)",
+    "name": "Mctominay",
+    "club": "Napoli",
+    "fvm": 240,
+    "fvm_prev": 240,
+    "quotation": 28,
+    "quotation_prev": 28,
+    "page": 4,
+    "team_number": 13,
+    "ocr_confidence": 0.918,
+    "source_text": {
+      "fvm": "240(240)",
+      "quotation": "28(28)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(T)",
+    "name": "De Bruyne",
+    "club": "Napoli",
+    "fvm": 100,
+    "fvm_prev": 94,
+    "quotation": 15,
+    "quotation_prev": 14,
+    "page": 4,
+    "team_number": 14,
+    "ocr_confidence": 0.899,
+    "source_text": {
+      "fvm": "100(94)",
+      "quotation": "15(14)"
+    },
+    "manually_verified": true
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C)",
+    "name": "Zambo Anguissa",
+    "club": "Napoli",
+    "fvm": 55,
+    "fvm_prev": 55,
+    "quotation": 11,
+    "quotation_prev": 11,
+    "page": 4,
+    "team_number": 15,
+    "ocr_confidence": 0.955,
+    "source_text": {
+      "fvm": "55(55)",
+      "quotation": "11(11)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(W)",
+    "name": "Politano",
+    "club": "Napoli",
+    "fvm": 47,
+    "fvm_prev": 43,
+    "quotation": 10,
+    "quotation_prev": 9,
+    "page": 4,
+    "team_number": 16,
+    "ocr_confidence": 0.945,
+    "source_text": {
+      "fvm": "47(43)",
+      "quotation": "10(9)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(W,T)",
+    "name": "Vergara",
+    "club": "Napoli",
+    "fvm": 34,
+    "fvm_prev": 34,
+    "quotation": 8,
+    "quotation_prev": 8,
+    "page": 4,
+    "team_number": 17,
+    "ocr_confidence": 0.975,
+    "source_text": {
+      "fvm": "34(34)",
+      "quotation": "8(8)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Lobotka",
+    "club": "Napoli",
+    "fvm": 20,
+    "fvm_prev": 22,
+    "quotation": 7,
+    "quotation_prev": 8,
+    "page": 4,
+    "team_number": 18,
+    "ocr_confidence": 0.962,
+    "source_text": {
+      "fvm": "20(22)",
+      "quotation": "7(8)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C,T)",
+    "name": "Folorunsho",
+    "club": "Napoli",
+    "fvm": 10,
+    "fvm_prev": 10,
+    "quotation": 4,
+    "quotation_prev": 4,
+    "page": 4,
+    "team_number": 19,
+    "ocr_confidence": 0.921,
+    "source_text": {
+      "fvm": "10(10)",
+      "quotation": "4(4)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Gilmour",
+    "club": "Napoli",
+    "fvm": 9,
+    "fvm_prev": 9,
+    "quotation": 3,
+    "quotation_prev": 3,
+    "page": 4,
+    "team_number": 20,
+    "ocr_confidence": 0.926,
+    "source_text": {
+      "fvm": "(6)6",
+      "quotation": "3(3)"
+    },
+    "manually_verified": true
+  },
+  {
+    "role": "A",
+    "role_detail": "A(PC)",
+    "name": "Hojlund",
+    "club": "Napoli",
+    "fvm": 271,
+    "fvm_prev": 271,
+    "quotation": 28,
+    "quotation_prev": 28,
+    "page": 4,
+    "team_number": 21,
+    "ocr_confidence": 0.884,
+    "source_text": {
+      "fvm": "271(271)",
+      "quotation": "28(28)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(W,A)",
+    "name": "Santos A.",
+    "club": "Napoli",
+    "fvm": 60,
+    "fvm_prev": 63,
+    "quotation": 14,
+    "quotation_prev": 15,
+    "page": 4,
+    "team_number": 22,
+    "ocr_confidence": 0.903,
+    "source_text": {
+      "fvm": "60(63)",
+      "quotation": "14(15)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(PC)",
+    "name": "Lukaku",
+    "club": "Napoli",
+    "fvm": 45,
+    "fvm_prev": 41,
+    "quotation": 10,
+    "quotation_prev": 9,
+    "page": 4,
+    "team_number": 23,
+    "ocr_confidence": 0.886,
+    "source_text": {
+      "fvm": "45(41)",
+      "quotation": "10(9)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(W,A)",
+    "name": "Neres",
+    "club": "Napoli",
+    "fvm": 22,
+    "fvm_prev": 25,
+    "quotation": 6,
+    "quotation_prev": 7,
+    "page": 4,
+    "team_number": 24,
+    "ocr_confidence": 0.893,
+    "source_text": {
+      "fvm": "22(25)",
+      "quotation": "6(7)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(A)",
+    "name": "Giovane",
+    "club": "Napoli",
+    "fvm": 10,
+    "fvm_prev": 10,
+    "quotation": 4,
+    "quotation_prev": 4,
+    "page": 4,
+    "team_number": 25,
+    "ocr_confidence": 0.934,
+    "source_text": {
+      "fvm": "10(10)",
+      "quotation": "4(4)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(A)",
+    "name": "Lang",
+    "club": "Napoli",
+    "fvm": 10,
+    "fvm_prev": 10,
+    "quotation": 3,
+    "quotation_prev": 3,
+    "page": 4,
+    "team_number": 26,
+    "ocr_confidence": 0.897,
+    "source_text": {
+      "fvm": "10(10)",
+      "quotation": "3(3)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(Pc)",
+    "name": "Lucca",
+    "club": "Napoli",
+    "fvm": 10,
+    "fvm_prev": 9,
+    "quotation": 3,
+    "quotation_prev": 3,
+    "page": 4,
+    "team_number": 27,
+    "ocr_confidence": 0.883,
+    "source_text": {
+      "fvm": "10(9)",
+      "quotation": "3(3)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Daffara",
+    "club": "Parma",
+    "fvm": 5,
+    "fvm_prev": 5,
+    "quotation": 7,
+    "quotation_prev": 7,
+    "page": 4,
+    "team_number": 1,
+    "ocr_confidence": 0.928,
+    "source_text": {
+      "fvm": "5(5)",
+      "quotation": "7(7)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Suzuki",
+    "club": "Parma",
+    "fvm": 20,
+    "fvm_prev": 20,
+    "quotation": 7,
+    "quotation_prev": 7,
+    "page": 4,
+    "team_number": 2,
+    "ocr_confidence": 0.923,
+    "source_text": {
+      "fvm": "20(20)",
+      "quotation": "7(7)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Corvi",
+    "club": "Parma",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 4,
+    "team_number": 3,
+    "ocr_confidence": 0.916,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(B,Dd,E)",
+    "name": "Delprato",
+    "club": "Parma",
+    "fvm": 21,
+    "fvm_prev": 24,
+    "quotation": 8,
+    "quotation_prev": 8,
+    "page": 4,
+    "team_number": 4,
+    "ocr_confidence": 0.94,
+    "source_text": {
+      "fvm": "21(24)",
+      "quotation": "8(8)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Ds,E)",
+    "name": "Valeri",
+    "club": "Parma",
+    "fvm": 24,
+    "fvm_prev": 24,
+    "quotation": 8,
+    "quotation_prev": 8,
+    "page": 4,
+    "team_number": 5,
+    "ocr_confidence": 0.923,
+    "source_text": {
+      "fvm": "24(24)",
+      "quotation": "8(8)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Circati",
+    "club": "Parma",
+    "fvm": 18,
+    "fvm_prev": 18,
+    "quotation": 6,
+    "quotation_prev": 6,
+    "page": 4,
+    "team_number": 6,
+    "ocr_confidence": 0.927,
+    "source_text": {
+      "fvm": "18(18)",
+      "quotation": "6(6)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Valenti",
+    "club": "Parma",
+    "fvm": 10,
+    "fvm_prev": 10,
+    "quotation": 4,
+    "quotation_prev": 4,
+    "page": 4,
+    "team_number": 7,
+    "ocr_confidence": 0.9,
+    "source_text": {
+      "fvm": "10(10)",
+      "quotation": "4(4)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dd,Ds,E)",
+    "name": "Britschgi",
+    "club": "Parma",
+    "fvm": 10,
+    "fvm_prev": 12,
+    "quotation": 3,
+    "quotation_prev": 4,
+    "page": 4,
+    "team_number": 8,
+    "ocr_confidence": 0.894,
+    "source_text": {
+      "fvm": "10(12)",
+      "quotation": "3(4)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Troilo",
+    "club": "Parma",
+    "fvm": 8,
+    "fvm_prev": 8,
+    "quotation": 3,
+    "quotation_prev": 3,
+    "page": 4,
+    "team_number": 9,
+    "ocr_confidence": 0.848,
+    "source_text": {
+      "fvm": "8(8)",
+      "quotation": "3(3)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Ds,E)",
+    "name": "Carboni F.",
+    "club": "Parma",
+    "fvm": 3,
+    "fvm_prev": 3,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 4,
+    "team_number": 10,
+    "ocr_confidence": 0.877,
+    "source_text": {
+      "fvm": "3(3)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Ndiaye",
+    "club": "Parma",
+    "fvm": 4,
+    "fvm_prev": 4,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 5,
+    "team_number": 11,
+    "ocr_confidence": 0.948,
+    "source_text": {
+      "fvm": "4(4)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C)",
+    "name": "Bernabe",
+    "club": "Parma",
+    "fvm": 36,
+    "fvm_prev": 36,
+    "quotation": 7,
+    "quotation_prev": 7,
+    "page": 5,
+    "team_number": 12,
+    "ocr_confidence": 0.944,
+    "source_text": {
+      "fvm": "36(36)",
+      "quotation": "7(7)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Nicolussi Caviglia",
+    "club": "Parma",
+    "fvm": 18,
+    "fvm_prev": 20,
+    "quotation": 6,
+    "quotation_prev": 7,
+    "page": 5,
+    "team_number": 13,
+    "ocr_confidence": 0.915,
+    "source_text": {
+      "fvm": "18(20)",
+      "quotation": "6(7)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Keita M.",
+    "club": "Parma",
+    "fvm": 15,
+    "fvm_prev": 17,
+    "quotation": 5,
+    "quotation_prev": 6,
+    "page": 5,
+    "team_number": 14,
+    "ocr_confidence": 0.901,
+    "source_text": {
+      "fvm": "15(17)",
+      "quotation": "5(6)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(W,A)",
+    "name": "Ondrejka",
+    "club": "Parma",
+    "fvm": 18,
+    "fvm_prev": 16,
+    "quotation": 5,
+    "quotation_prev": 4,
+    "page": 5,
+    "team_number": 15,
+    "ocr_confidence": 0.964,
+    "source_text": {
+      "fvm": "18(16)",
+      "quotation": "5(4)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(W,A)",
+    "name": "Almqvist",
+    "club": "Parma",
+    "fvm": 14,
+    "fvm_prev": 12,
+    "quotation": 4,
+    "quotation_prev": 3,
+    "page": 5,
+    "team_number": 16,
+    "ocr_confidence": 0.932,
+    "source_text": {
+      "fvm": "14(12)",
+      "quotation": "4(3)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(W,A)",
+    "name": "Diallo O.",
+    "club": "Parma",
+    "fvm": 12,
+    "fvm_prev": 10,
+    "quotation": 3,
+    "quotation_prev": 2,
+    "page": 5,
+    "team_number": 17,
+    "ocr_confidence": 0.87,
+    "source_text": {
+      "fvm": "12(10)",
+      "quotation": "3(2)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C)",
+    "name": "Sorensen O.",
+    "club": "Parma",
+    "fvm": 12,
+    "fvm_prev": 12,
+    "quotation": 3,
+    "quotation_prev": 3,
+    "page": 5,
+    "team_number": 18,
+    "ocr_confidence": 0.949,
+    "source_text": {
+      "fvm": "12(12)",
+      "quotation": "3(3)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Ordonez C.",
+    "club": "Parma",
+    "fvm": 5,
+    "fvm_prev": 6,
+    "quotation": 2,
+    "quotation_prev": 2,
+    "page": 5,
+    "team_number": 19,
+    "ocr_confidence": 0.891,
+    "source_text": {
+      "fvm": "5(6)",
+      "quotation": "2(2)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(E,C)",
+    "name": "Cremaschi",
+    "club": "Parma",
+    "fvm": 3,
+    "fvm_prev": 3,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 5,
+    "team_number": 20,
+    "ocr_confidence": 0.823,
+    "source_text": {
+      "fvm": "3(3)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(Pc)",
+    "name": "Pellegrino M.",
+    "club": "Parma",
+    "fvm": 81,
+    "fvm_prev": 79,
+    "quotation": 15,
+    "quotation_prev": 15,
+    "page": 5,
+    "team_number": 21,
+    "ocr_confidence": 0.889,
+    "source_text": {
+      "fvm": "81(79)",
+      "quotation": "15(15)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(A)",
+    "name": "Frigan",
+    "club": "Parma",
+    "fvm": 13,
+    "fvm_prev": 13,
+    "quotation": 5,
+    "quotation_prev": 5,
+    "page": 5,
+    "team_number": 22,
+    "ocr_confidence": 0.92,
+    "source_text": {
+      "fvm": "13(13)",
+      "quotation": "5(5)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(PC)",
+    "name": "Elphege",
+    "club": "Parma",
+    "fvm": 11,
+    "fvm_prev": 10,
+    "quotation": 3,
+    "quotation_prev": 3,
+    "page": 5,
+    "team_number": 23,
+    "ocr_confidence": 0.885,
+    "source_text": {
+      "fvm": "11(10)",
+      "quotation": "3(3)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Svilar",
+    "club": "Roma",
+    "fvm": 65,
+    "fvm_prev": 65,
+    "quotation": 18,
+    "quotation_prev": 18,
+    "page": 5,
+    "team_number": 1,
+    "ocr_confidence": 0.954,
+    "source_text": {
+      "fvm": "65(65)",
+      "quotation": "18(18)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "De Marzi",
+    "club": "Roma",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 5,
+    "team_number": 2,
+    "ocr_confidence": 0.905,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Gollini",
+    "club": "Roma",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 5,
+    "team_number": 3,
+    "ocr_confidence": 0.878,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(E)",
+    "name": "Wesley",
+    "club": "Roma",
+    "fvm": 90,
+    "fvm_prev": 88,
+    "quotation": 17,
+    "quotation_prev": 16,
+    "page": 5,
+    "team_number": 4,
+    "ocr_confidence": 0.952,
+    "source_text": {
+      "fvm": "90(88)",
+      "quotation": "17(16)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Mancini",
+    "club": "Roma",
+    "fvm": 49,
+    "fvm_prev": 49,
+    "quotation": 15,
+    "quotation_prev": 15,
+    "page": 5,
+    "team_number": 5,
+    "ocr_confidence": 0.869,
+    "source_text": {
+      "fvm": "49(49)",
+      "quotation": "15(15)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "N'Dicka",
+    "club": "Roma",
+    "fvm": 44,
+    "fvm_prev": 44,
+    "quotation": 13,
+    "quotation_prev": 13,
+    "page": 5,
+    "team_number": 6,
+    "ocr_confidence": 0.945,
+    "source_text": {
+      "fvm": "44(44)",
+      "quotation": "13(13)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Hermoso",
+    "club": "Roma",
+    "fvm": 26,
+    "fvm_prev": 26,
+    "quotation": 10,
+    "quotation_prev": 10,
+    "page": 5,
+    "team_number": 7,
+    "ocr_confidence": 0.909,
+    "source_text": {
+      "fvm": "26(26)",
+      "quotation": "10(10)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Koulierakis",
+    "club": "Roma",
+    "fvm": 20,
+    "fvm_prev": 20,
+    "quotation": 8,
+    "quotation_prev": 8,
+    "page": 5,
+    "team_number": 8,
+    "ocr_confidence": 0.936,
+    "source_text": {
+      "fvm": "20(20)",
+      "quotation": "8(8)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(B,Dd,E)",
+    "name": "Rensch",
+    "club": "Roma",
+    "fvm": 16,
+    "fvm_prev": 18,
+    "quotation": 5,
+    "quotation_prev": 6,
+    "page": 5,
+    "team_number": 9,
+    "ocr_confidence": 0.966,
+    "source_text": {
+      "fvm": "16(18)",
+      "quotation": "5(6)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Ghilardi",
+    "club": "Roma",
+    "fvm": 10,
+    "fvm_prev": 10,
+    "quotation": 4,
+    "quotation_prev": 4,
+    "page": 5,
+    "team_number": 10,
+    "ocr_confidence": 0.928,
+    "source_text": {
+      "fvm": "10(10)",
+      "quotation": "4(4)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Ziolkowski",
+    "club": "Roma",
+    "fvm": 2,
+    "fvm_prev": 2,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 5,
+    "team_number": 11,
+    "ocr_confidence": 0.914,
+    "source_text": {
+      "fvm": "2(2)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Kone M.",
+    "club": "Roma",
+    "fvm": 42,
+    "fvm_prev": 45,
+    "quotation": 10,
+    "quotation_prev": 11,
+    "page": 5,
+    "team_number": 12,
+    "ocr_confidence": 0.924,
+    "source_text": {
+      "fvm": "42(45)",
+      "quotation": "10(11)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Cristante",
+    "club": "Roma",
+    "fvm": 29,
+    "fvm_prev": 32,
+    "quotation": 8,
+    "quotation_prev": 9,
+    "page": 5,
+    "team_number": 13,
+    "ocr_confidence": 0.94,
+    "source_text": {
+      "fvm": "29(32)",
+      "quotation": "8(9)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C)",
+    "name": "Pisilli",
+    "club": "Roma",
+    "fvm": 17,
+    "fvm_prev": 17,
+    "quotation": 5,
+    "quotation_prev": 5,
+    "page": 5,
+    "team_number": 14,
+    "ocr_confidence": 0.897,
+    "source_text": {
+      "fvm": "17(17)",
+      "quotation": "5(5)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "El Aynaoui",
+    "club": "Roma",
+    "fvm": 18,
+    "fvm_prev": 20,
+    "quotation": 4,
+    "quotation_prev": 5,
+    "page": 5,
+    "team_number": 15,
+    "ocr_confidence": 0.935,
+    "source_text": {
+      "fvm": "18(20)",
+      "quotation": "4(5)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(PC)",
+    "name": "Malen",
+    "club": "Roma",
+    "fvm": 365,
+    "fvm_prev": 365,
+    "quotation": 34,
+    "quotation_prev": 34,
+    "page": 5,
+    "team_number": 16,
+    "ocr_confidence": 0.913,
+    "source_text": {
+      "fvm": "365(365)",
+      "quotation": "34(34)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(Pc)",
+    "name": "Castro S.",
+    "club": "Roma",
+    "fvm": 83,
+    "fvm_prev": 80,
+    "quotation": 14,
+    "quotation_prev": 13,
+    "page": 5,
+    "team_number": 17,
+    "ocr_confidence": 0.908,
+    "source_text": {
+      "fvm": "83(80)",
+      "quotation": "14(13)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(A)",
+    "name": "Dybala",
+    "club": "Roma",
+    "fvm": 67,
+    "fvm_prev": 67,
+    "quotation": 14,
+    "quotation_prev": 15,
+    "page": 5,
+    "team_number": 18,
+    "ocr_confidence": 0.946,
+    "source_text": {
+      "fvm": "67(67)",
+      "quotation": "14(15)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(A)",
+    "name": "Soule",
+    "club": "Roma",
+    "fvm": 55,
+    "fvm_prev": 55,
+    "quotation": 12,
+    "quotation_prev": 13,
+    "page": 5,
+    "team_number": 19,
+    "ocr_confidence": 0.941,
+    "source_text": {
+      "fvm": "55(55)",
+      "quotation": "12(13)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(PC)",
+    "name": "Vaz",
+    "club": "Roma",
+    "fvm": 4,
+    "fvm_prev": 3,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 5,
+    "team_number": 20,
+    "ocr_confidence": 0.889,
+    "source_text": {
+      "fvm": "4(3)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Muric",
+    "club": "Sassuolo",
+    "fvm": 15,
+    "fvm_prev": 15,
+    "quotation": 7,
+    "quotation_prev": 7,
+    "page": 5,
+    "team_number": 1,
+    "ocr_confidence": 0.941,
+    "source_text": {
+      "fvm": "15(15)",
+      "quotation": "7(7)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Russo A.",
+    "club": "Sassuolo",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 5,
+    "team_number": 2,
+    "ocr_confidence": 0.911,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Turati",
+    "club": "Sassuolo",
+    "fvm": 3,
+    "fvm_prev": 3,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 5,
+    "team_number": 3,
+    "ocr_confidence": 0.895,
+    "source_text": {
+      "fvm": "3(3)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Idzes",
+    "club": "Sassuolo",
+    "fvm": 19,
+    "fvm_prev": 19,
+    "quotation": 7,
+    "quotation_prev": 7,
+    "page": 5,
+    "team_number": 4,
+    "ocr_confidence": 0.921,
+    "source_text": {
+      "fvm": "19(19)",
+      "quotation": "7(7)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Ds,E)",
+    "name": "Doig",
+    "club": "Sassuolo",
+    "fvm": 13,
+    "fvm_prev": 13,
+    "quotation": 4,
+    "quotation_prev": 4,
+    "page": 5,
+    "team_number": 5,
+    "ocr_confidence": 0.916,
+    "source_text": {
+      "fvm": "13(13)",
+      "quotation": "4(4)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dd,Dc)",
+    "name": "Walukiewicz",
+    "club": "Sassuolo",
+    "fvm": 10,
+    "fvm_prev": 12,
+    "quotation": 4,
+    "quotation_prev": 4,
+    "page": 5,
+    "team_number": 6,
+    "ocr_confidence": 0.768,
+    "source_text": {
+      "fvm": "10(12)",
+      "quotation": "4(4)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Ds,Dc)",
+    "name": "Cande",
+    "club": "Sassuolo",
+    "fvm": 12,
+    "fvm_prev": 14,
+    "quotation": 3,
+    "quotation_prev": 3,
+    "page": 5,
+    "team_number": 7,
+    "ocr_confidence": 0.9,
+    "source_text": {
+      "fvm": "12(14)",
+      "quotation": "3(3)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dd,E)",
+    "name": "Missori",
+    "club": "Sassuolo",
+    "fvm": 2,
+    "fvm_prev": 2,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 5,
+    "team_number": 8,
+    "ocr_confidence": 0.882,
+    "source_text": {
+      "fvm": "2(2)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Ds,E)",
+    "name": "Pieragnolo",
+    "club": "Sassuolo",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 5,
+    "team_number": 9,
+    "ocr_confidence": 0.814,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C,T)",
+    "name": "Thorstvedt",
+    "club": "Sassuolo",
+    "fvm": 41,
+    "fvm_prev": 41,
+    "quotation": 10,
+    "quotation_prev": 10,
+    "page": 5,
+    "team_number": 10,
+    "ocr_confidence": 0.937,
+    "source_text": {
+      "fvm": "41(41)",
+      "quotation": "10(10)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C)",
+    "name": "Kone I.",
+    "club": "Sassuolo",
+    "fvm": 20,
+    "fvm_prev": 20,
+    "quotation": 9,
+    "quotation_prev": 9,
+    "page": 5,
+    "team_number": 11,
+    "ocr_confidence": 0.95,
+    "source_text": {
+      "fvm": "20(20)",
+      "quotation": "9(9)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(W,T)",
+    "name": "Volpato",
+    "club": "Sassuolo",
+    "fvm": 23,
+    "fvm_prev": 23,
+    "quotation": 7,
+    "quotation_prev": 7,
+    "page": 5,
+    "team_number": 12,
+    "ocr_confidence": 0.984,
+    "source_text": {
+      "fvm": "23(23)",
+      "quotation": "7(7)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C,T)",
+    "name": "Adzic",
+    "club": "Sassuolo",
+    "fvm": 14,
+    "fvm_prev": 14,
+    "quotation": 5,
+    "quotation_prev": 5,
+    "page": 5,
+    "team_number": 13,
+    "ocr_confidence": 0.928,
+    "source_text": {
+      "fvm": "14(14)",
+      "quotation": "5(5)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C,T)",
+    "name": "Bakola",
+    "club": "Sassuolo",
+    "fvm": 16,
+    "fvm_prev": 16,
+    "quotation": 5,
+    "quotation_prev": 5,
+    "page": 5,
+    "team_number": 14,
+    "ocr_confidence": 0.936,
+    "source_text": {
+      "fvm": "16(16)",
+      "quotation": "5(5)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Matic",
+    "club": "Sassuolo",
+    "fvm": 15,
+    "fvm_prev": 17,
+    "quotation": 5,
+    "quotation_prev": 6,
+    "page": 5,
+    "team_number": 15,
+    "ocr_confidence": 0.892,
+    "source_text": {
+      "fvm": "15(17)",
+      "quotation": "5(6)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Boloca",
+    "club": "Sassuolo",
+    "fvm": 5,
+    "fvm_prev": 5,
+    "quotation": 2,
+    "quotation_prev": 2,
+    "page": 5,
+    "team_number": 16,
+    "ocr_confidence": 0.93,
+    "source_text": {
+      "fvm": "5(5)",
+      "quotation": "2(2)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Lipani",
+    "club": "Sassuolo",
+    "fvm": 5,
+    "fvm_prev": 5,
+    "quotation": 2,
+    "quotation_prev": 2,
+    "page": 5,
+    "team_number": 17,
+    "ocr_confidence": 0.897,
+    "source_text": {
+      "fvm": "5(5)",
+      "quotation": "2(2)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "lannoni",
+    "club": "Sassuolo",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 5,
+    "team_number": 18,
+    "ocr_confidence": 0.923,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(A)",
+    "name": "Berardi",
+    "club": "Sassuolo",
+    "fvm": 115,
+    "fvm_prev": 118,
+    "quotation": 18,
+    "quotation_prev": 19,
+    "page": 5,
+    "team_number": 19,
+    "ocr_confidence": 0.952,
+    "source_text": {
+      "fvm": "115(118)",
+      "quotation": "18(19)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(A)",
+    "name": "Lauriente",
+    "club": "Sassuolo",
+    "fvm": 88,
+    "fvm_prev": 91,
+    "quotation": 15,
+    "quotation_prev": 16,
+    "page": 5,
+    "team_number": 20,
+    "ocr_confidence": 0.913,
+    "source_text": {
+      "fvm": "88(91)",
+      "quotation": "15(16)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(Pc)",
+    "name": "Pinamonti",
+    "club": "Sassuolo",
+    "fvm": 58,
+    "fvm_prev": 55,
+    "quotation": 13,
+    "quotation_prev": 12,
+    "page": 5,
+    "team_number": 21,
+    "ocr_confidence": 0.879,
+    "source_text": {
+      "fvm": "58(55)",
+      "quotation": "13(12)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(Pc)",
+    "name": "Bowie",
+    "club": "Sassuolo",
+    "fvm": 39,
+    "fvm_prev": 36,
+    "quotation": 10,
+    "quotation_prev": 9,
+    "page": 5,
+    "team_number": 22,
+    "ocr_confidence": 0.925,
+    "source_text": {
+      "fvm": "39(36)",
+      "quotation": "10(9)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(Pc)",
+    "name": "Moro L.",
+    "club": "Sassuolo",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 5,
+    "team_number": 23,
+    "ocr_confidence": 0.865,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Mascardi",
+    "club": "Torino",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 5,
+    "team_number": 1,
+    "ocr_confidence": 0.846,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Paleari",
+    "club": "Torino",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 5,
+    "team_number": 2,
+    "ocr_confidence": 0.969,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Siviero",
+    "club": "Torino",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 5,
+    "team_number": 3,
+    "ocr_confidence": 0.885,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Coco",
+    "club": "Torino",
+    "fvm": 18,
+    "fvm_prev": 18,
+    "quotation": 7,
+    "quotation_prev": 7,
+    "page": 5,
+    "team_number": 4,
+    "ocr_confidence": 0.92,
+    "source_text": {
+      "fvm": "18(18)",
+      "quotation": "7(7)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Ismajli",
+    "club": "Torino",
+    "fvm": 18,
+    "fvm_prev": 18,
+    "quotation": 7,
+    "quotation_prev": 7,
+    "page": 5,
+    "team_number": 5,
+    "ocr_confidence": 0.93,
+    "source_text": {
+      "fvm": "18(18)",
+      "quotation": "7(7)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Comuzzo",
+    "club": "Torino",
+    "fvm": 11,
+    "fvm_prev": 11,
+    "quotation": 6,
+    "quotation_prev": 6,
+    "page": 5,
+    "team_number": 6,
+    "ocr_confidence": 0.936,
+    "source_text": {
+      "fvm": "11(11)",
+      "quotation": "6(6)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Comert",
+    "club": "Torino",
+    "fvm": 10,
+    "fvm_prev": 10,
+    "quotation": 4,
+    "quotation_prev": 4,
+    "page": 5,
+    "team_number": 8,
+    "ocr_confidence": 0.895,
+    "source_text": {
+      "fvm": "10(10)",
+      "quotation": "4(4)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(B,Ds,E)",
+    "name": "Biraghi",
+    "club": "Torino",
+    "fvm": 5,
+    "fvm_prev": 6,
+    "quotation": 2,
+    "quotation_prev": 2,
+    "page": 5,
+    "team_number": 9,
+    "ocr_confidence": 0.942,
+    "source_text": {
+      "fvm": "5(6)",
+      "quotation": "2(2)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(T)",
+    "name": "Vlasic",
+    "club": "Torino",
+    "fvm": 80,
+    "fvm_prev": 77,
+    "quotation": 14,
+    "quotation_prev": 13,
+    "page": 5,
+    "team_number": 10,
+    "ocr_confidence": 0.572,
+    "source_text": {
+      "fvm": "80(77)",
+      "quotation": "14(13)"
+    },
+    "manually_verified": true
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C,T)",
+    "name": "Casadei",
+    "club": "Torino",
+    "fvm": 37,
+    "fvm_prev": 37,
+    "quotation": 10,
+    "quotation_prev": 10,
+    "page": 5,
+    "team_number": 11,
+    "ocr_confidence": 0.895,
+    "source_text": {
+      "fvm": "37(37)",
+      "quotation": "10(10)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(W,T)",
+    "name": "Oristanio",
+    "club": "Torino",
+    "fvm": 27,
+    "fvm_prev": 27,
+    "quotation": 7,
+    "quotation_prev": 7,
+    "page": 5,
+    "team_number": 12,
+    "ocr_confidence": 0.91,
+    "source_text": {
+      "fvm": "27(27)",
+      "quotation": "7(7)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(E,W)",
+    "name": "Cacciamani",
+    "club": "Torino",
+    "fvm": 18,
+    "fvm_prev": 20,
+    "quotation": 5,
+    "quotation_prev": 6,
+    "page": 5,
+    "team_number": 13,
+    "ocr_confidence": 0.92,
+    "source_text": {
+      "fvm": "18(20)",
+      "quotation": "5(6)"
+    },
+    "manually_verified": true
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Gineitis",
+    "club": "Torino",
+    "fvm": 13,
+    "fvm_prev": 15,
+    "quotation": 5,
+    "quotation_prev": 6,
+    "page": 5,
+    "team_number": 14,
+    "ocr_confidence": 0.93,
+    "source_text": {
+      "fvm": "13(15)",
+      "quotation": "5(6)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Fitz-Jim",
+    "club": "Torino",
+    "fvm": 13,
+    "fvm_prev": 15,
+    "quotation": 4,
+    "quotation_prev": 5,
+    "page": 5,
+    "team_number": 15,
+    "ocr_confidence": 0.915,
+    "source_text": {
+      "fvm": "13(15)",
+      "quotation": "4(5)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Ilkhan",
+    "club": "Torino",
+    "fvm": 10,
+    "fvm_prev": 12,
+    "quotation": 4,
+    "quotation_prev": 5,
+    "page": 5,
+    "team_number": 16,
+    "ocr_confidence": 0.868,
+    "source_text": {
+      "fvm": "10(12)",
+      "quotation": "4(5)"
+    },
+    "manually_verified": true
+  },
+  {
+    "role": "C",
+    "role_detail": "C(W,A)",
+    "name": "Njie",
+    "club": "Torino",
+    "fvm": 12,
+    "fvm_prev": 19,
+    "quotation": 4,
+    "quotation_prev": 3,
+    "page": 5,
+    "team_number": 17,
+    "ocr_confidence": 0.947,
+    "source_text": {
+      "fvm": "12(19)",
+      "quotation": "4(3)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(W,A)",
+    "name": "Aboukhlal",
+    "club": "Torino",
+    "fvm": 5,
+    "fvm_prev": 4,
+    "quotation": 3,
+    "quotation_prev": 2,
+    "page": 5,
+    "team_number": 18,
+    "ocr_confidence": 0.873,
+    "source_text": {
+      "fvm": "5(4)",
+      "quotation": "3(2)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C,T)",
+    "name": "Anjorin",
+    "club": "Torino",
+    "fvm": 4,
+    "fvm_prev": 4,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 5,
+    "team_number": 19,
+    "ocr_confidence": 0.806,
+    "source_text": {
+      "fvm": "4(4)",
+      "quotation": "1（1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C)",
+    "name": "Ilic",
+    "club": "Torino",
+    "fvm": 4,
+    "fvm_prev": 4,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 5,
+    "team_number": 20,
+    "ocr_confidence": 0.854,
+    "source_text": {
+      "fvm": "4(4)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(Pc)",
+    "name": "Simeone",
+    "club": "Torino",
+    "fvm": 82,
+    "fvm_prev": 79,
+    "quotation": 15,
+    "quotation_prev": 15,
+    "page": 5,
+    "team_number": 21,
+    "ocr_confidence": 0.846,
+    "source_text": {
+      "fvm": "82(79)",
+      "quotation": "15(15)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(A)",
+    "name": "Adams C.",
+    "club": "Torino",
+    "fvm": 32,
+    "fvm_prev": 34,
+    "quotation": 9,
+    "quotation_prev": 10,
+    "page": 5,
+    "team_number": 22,
+    "ocr_confidence": 0.961,
+    "source_text": {
+      "fvm": "32(34)",
+      "quotation": "9(10)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(PC)",
+    "name": "Zapata D.",
+    "club": "Torino",
+    "fvm": 18,
+    "fvm_prev": 16,
+    "quotation": 7,
+    "quotation_prev": 6,
+    "page": 5,
+    "team_number": 23,
+    "ocr_confidence": 0.904,
+    "source_text": {
+      "fvm": "18(16)",
+      "quotation": "7(6)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(PC)",
+    "name": "Kulenovic",
+    "club": "Torino",
+    "fvm": 9,
+    "fvm_prev": 7,
+    "quotation": 4,
+    "quotation_prev": 3,
+    "page": 5,
+    "team_number": 24,
+    "ocr_confidence": 0.881,
+    "source_text": {
+      "fvm": "9(7)",
+      "quotation": "4(3)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Okoye",
+    "club": "Udinese",
+    "fvm": 29,
+    "fvm_prev": 29,
+    "quotation": 9,
+    "quotation_prev": 9,
+    "page": 5,
+    "team_number": 1,
+    "ocr_confidence": 0.928,
+    "source_text": {
+      "fvm": "29(29)",
+      "quotation": "(6)6"
+    },
+    "manually_verified": true
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Padelli",
+    "club": "Udinese",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 5,
+    "team_number": 2,
+    "ocr_confidence": 0.836,
+    "source_text": {
+      "fvm": "1（1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Piana",
+    "club": "Udinese",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 5,
+    "team_number": 3,
+    "ocr_confidence": 0.909,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Solet",
+    "club": "Udinese",
+    "fvm": 46,
+    "fvm_prev": 46,
+    "quotation": 13,
+    "quotation_prev": 13,
+    "page": 5,
+    "team_number": 4,
+    "ocr_confidence": 0.884,
+    "source_text": {
+      "fvm": "46(46)",
+      "quotation": "13(13)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dd,E)",
+    "name": "Vojvoda",
+    "club": "Udinese",
+    "fvm": 19,
+    "fvm_prev": 19,
+    "quotation": 8,
+    "quotation_prev": 8,
+    "page": 5,
+    "team_number": 5,
+    "ocr_confidence": 0.944,
+    "source_text": {
+      "fvm": "19(19)",
+      "quotation": "8(8)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dd,Dc)",
+    "name": "Kristensen T.",
+    "club": "Udinese",
+    "fvm": 15,
+    "fvm_prev": 17,
+    "quotation": 7,
+    "quotation_prev": 8,
+    "page": 5,
+    "team_number": 6,
+    "ocr_confidence": 0.941,
+    "source_text": {
+      "fvm": "15(17)",
+      "quotation": "7(8)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Ds,E)",
+    "name": "Kamara H.",
+    "club": "Udinese",
+    "fvm": 12,
+    "fvm_prev": 12,
+    "quotation": 6,
+    "quotation_prev": 6,
+    "page": 5,
+    "team_number": 7,
+    "ocr_confidence": 0.89,
+    "source_text": {
+      "fvm": "12(12)",
+      "quotation": "6(6)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Ds,E)",
+    "name": "Arizala",
+    "club": "Udinese",
+    "fvm": 8,
+    "fvm_prev": 8,
+    "quotation": 4,
+    "quotation_prev": 4,
+    "page": 5,
+    "team_number": 8,
+    "ocr_confidence": 0.89,
+    "source_text": {
+      "fvm": "8(8)",
+      "quotation": "4(4)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dd,Ds,Dc)",
+    "name": "Bertola",
+    "club": "Udinese",
+    "fvm": 10,
+    "fvm_prev": 14,
+    "quotation": 4,
+    "quotation_prev": 6,
+    "page": 5,
+    "team_number": 9,
+    "ocr_confidence": 0.919,
+    "source_text": {
+      "fvm": "10(14)",
+      "quotation": "4(6)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Kabasele",
+    "club": "Udinese",
+    "fvm": 9,
+    "fvm_prev": 9,
+    "quotation": 4,
+    "quotation_prev": 4,
+    "page": 5,
+    "team_number": 10,
+    "ocr_confidence": 0.85,
+    "source_text": {
+      "fvm": "(6)6",
+      "quotation": "4(4)"
+    },
+    "manually_verified": true
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dd,E)",
+    "name": "Zanoli",
+    "club": "Udinese",
+    "fvm": 10,
+    "fvm_prev": 10,
+    "quotation": 4,
+    "quotation_prev": 4,
+    "page": 6,
+    "team_number": 11,
+    "ocr_confidence": 0.887,
+    "source_text": {
+      "fvm": "10(10)",
+      "quotation": "4(4)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Ds,Dc)",
+    "name": "Ebosse",
+    "club": "Udinese",
+    "fvm": 4,
+    "fvm_prev": 4,
+    "quotation": 2,
+    "quotation_prev": 2,
+    "page": 6,
+    "team_number": 12,
+    "ocr_confidence": 0.941,
+    "source_text": {
+      "fvm": "4(4)",
+      "quotation": "2(2)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Palma",
+    "club": "Udinese",
+    "fvm": 5,
+    "fvm_prev": 5,
+    "quotation": 2,
+    "quotation_prev": 2,
+    "page": 6,
+    "team_number": 13,
+    "ocr_confidence": 0.915,
+    "source_text": {
+      "fvm": "5(5)",
+      "quotation": "2(2)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dd,Dc)",
+    "name": "Abankwah",
+    "club": "Udinese",
+    "fvm": 3,
+    "fvm_prev": 3,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 6,
+    "team_number": 14,
+    "ocr_confidence": 0.877,
+    "source_text": {
+      "fvm": "3(3)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Mlacic",
+    "club": "Udinese",
+    "fvm": 3,
+    "fvm_prev": 3,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 6,
+    "team_number": 15,
+    "ocr_confidence": 0.915,
+    "source_text": {
+      "fvm": "3(3)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(T,A)",
+    "name": "Zaniolo",
+    "club": "Udinese",
+    "fvm": 90,
+    "fvm_prev": 88,
+    "quotation": 18,
+    "quotation_prev": 17,
+    "page": 6,
+    "team_number": 16,
+    "ocr_confidence": 0.904,
+    "source_text": {
+      "fvm": "90(88)",
+      "quotation": "18(17)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C,T)",
+    "name": "Ekkelenkamp",
+    "club": "Udinese",
+    "fvm": 41,
+    "fvm_prev": 41,
+    "quotation": 10,
+    "quotation_prev": 10,
+    "page": 6,
+    "team_number": 17,
+    "ocr_confidence": 0.928,
+    "source_text": {
+      "fvm": "41(41)",
+      "quotation": "10(10)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(T)",
+    "name": "Unai Gomez",
+    "club": "Udinese",
+    "fvm": 23,
+    "fvm_prev": 20,
+    "quotation": 7,
+    "quotation_prev": 6,
+    "page": 6,
+    "team_number": 18,
+    "ocr_confidence": 0.952,
+    "source_text": {
+      "fvm": "23(20)",
+      "quotation": "7(6)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Karlstrom",
+    "club": "Udinese",
+    "fvm": 20,
+    "fvm_prev": 23,
+    "quotation": 6,
+    "quotation_prev": 7,
+    "page": 6,
+    "team_number": 19,
+    "ocr_confidence": 0.922,
+    "source_text": {
+      "fvm": "20(23)",
+      "quotation": "6(7)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Piotrowski",
+    "club": "Udinese",
+    "fvm": 15,
+    "fvm_prev": 17,
+    "quotation": 5,
+    "quotation_prev": 6,
+    "page": 6,
+    "team_number": 20,
+    "ocr_confidence": 0.904,
+    "source_text": {
+      "fvm": "15(17)",
+      "quotation": "5(6)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Miller L.",
+    "club": "Udinese",
+    "fvm": 12,
+    "fvm_prev": 15,
+    "quotation": 3,
+    "quotation_prev": 3,
+    "page": 6,
+    "team_number": 21,
+    "ocr_confidence": 0.899,
+    "source_text": {
+      "fvm": "12(15)",
+      "quotation": "3(3)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(W,T)",
+    "name": "Chakvetadze",
+    "club": "Udinese",
+    "fvm": 6,
+    "fvm_prev": 6,
+    "quotation": 2,
+    "quotation_prev": 2,
+    "page": 6,
+    "team_number": 22,
+    "ocr_confidence": 0.91,
+    "source_text": {
+      "fvm": "6(6)",
+      "quotation": "2(2)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Camara A.",
+    "club": "Udinese",
+    "fvm": 3,
+    "fvm_prev": 3,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 6,
+    "team_number": 23,
+    "ocr_confidence": 0.876,
+    "source_text": {
+      "fvm": "3(3)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Zarraga",
+    "club": "Udinese",
+    "fvm": 4,
+    "fvm_prev": 4,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 6,
+    "team_number": 24,
+    "ocr_confidence": 0.814,
+    "source_text": {
+      "fvm": "4(4)",
+      "quotation": "1（1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(Pc)",
+    "name": "Davis K.",
+    "club": "Udinese",
+    "fvm": 121,
+    "fvm_prev": 121,
+    "quotation": 19,
+    "quotation_prev": 19,
+    "page": 6,
+    "team_number": 25,
+    "ocr_confidence": 0.937,
+    "source_text": {
+      "fvm": "121(121)",
+      "quotation": "19(19)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(Pc)",
+    "name": "Gueye",
+    "club": "Udinese",
+    "fvm": 7,
+    "fvm_prev": 6,
+    "quotation": 4,
+    "quotation_prev": 3,
+    "page": 6,
+    "team_number": 26,
+    "ocr_confidence": 0.858,
+    "source_text": {
+      "fvm": "7(6)",
+      "quotation": "4(3)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(Pc)",
+    "name": "Buksa",
+    "club": "Udinese",
+    "fvm": 4,
+    "fvm_prev": 4,
+    "quotation": 2,
+    "quotation_prev": 2,
+    "page": 6,
+    "team_number": 27,
+    "ocr_confidence": 0.936,
+    "source_text": {
+      "fvm": "4(4)",
+      "quotation": "2(2)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(Pc)",
+    "name": "Bayo V.",
+    "club": "Udinese",
+    "fvm": 3,
+    "fvm_prev": 3,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 6,
+    "team_number": 28,
+    "ocr_confidence": 0.84,
+    "source_text": {
+      "fvm": "3(3)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Stankovic F.",
+    "club": "Venezia",
+    "fvm": 14,
+    "fvm_prev": 14,
+    "quotation": 6,
+    "quotation_prev": 6,
+    "page": 6,
+    "team_number": 1,
+    "ocr_confidence": 0.952,
+    "source_text": {
+      "fvm": "14(14)",
+      "quotation": "6(6)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Grandi",
+    "club": "Venezia",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 6,
+    "team_number": 2,
+    "ocr_confidence": 0.894,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "P",
+    "role_detail": "P(Por)",
+    "name": "Pozzi",
+    "club": "Venezia",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 6,
+    "team_number": 3,
+    "ocr_confidence": 0.816,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Bella-Kotchap",
+    "club": "Venezia",
+    "fvm": 13,
+    "fvm_prev": 13,
+    "quotation": 6,
+    "quotation_prev": 6,
+    "page": 6,
+    "team_number": 4,
+    "ocr_confidence": 0.931,
+    "source_text": {
+      "fvm": "13(13)",
+      "quotation": "6(6)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Ds,E)",
+    "name": "Haps",
+    "club": "Venezia",
+    "fvm": 11,
+    "fvm_prev": 11,
+    "quotation": 5,
+    "quotation_prev": 5,
+    "page": 6,
+    "team_number": 5,
+    "ocr_confidence": 0.912,
+    "source_text": {
+      "fvm": "11(11)",
+      "quotation": "5(5)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Moreno M.",
+    "club": "Venezia",
+    "fvm": 11,
+    "fvm_prev": 11,
+    "quotation": 5,
+    "quotation_prev": 5,
+    "page": 6,
+    "team_number": 6,
+    "ocr_confidence": 0.93,
+    "source_text": {
+      "fvm": "11(11)",
+      "quotation": "5(5)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Halhal",
+    "club": "Venezia",
+    "fvm": 10,
+    "fvm_prev": 10,
+    "quotation": 4,
+    "quotation_prev": 4,
+    "page": 6,
+    "team_number": 8,
+    "ocr_confidence": 0.912,
+    "source_text": {
+      "fvm": "10(10)",
+      "quotation": "4(4)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dd,E)",
+    "name": "Hainaut",
+    "club": "Venezia",
+    "fvm": 7,
+    "fvm_prev": 7,
+    "quotation": 3,
+    "quotation_prev": 3,
+    "page": 6,
+    "team_number": 9,
+    "ocr_confidence": 0.885,
+    "source_text": {
+      "fvm": "7(7)",
+      "quotation": "3(3)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Schingtienne",
+    "club": "Venezia",
+    "fvm": 7,
+    "fvm_prev": 7,
+    "quotation": 3,
+    "quotation_prev": 3,
+    "page": 6,
+    "team_number": 10,
+    "ocr_confidence": 0.945,
+    "source_text": {
+      "fvm": "7(7)",
+      "quotation": "3(3)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Ds,Dc)",
+    "name": "Sverko",
+    "club": "Venezia",
+    "fvm": 7,
+    "fvm_prev": 7,
+    "quotation": 3,
+    "quotation_prev": 3,
+    "page": 6,
+    "team_number": 11,
+    "ocr_confidence": 0.911,
+    "source_text": {
+      "fvm": "7(7)",
+      "quotation": "3(3)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(B,Ds,E)",
+    "name": "Franjic",
+    "club": "Venezia",
+    "fvm": 4,
+    "fvm_prev": 4,
+    "quotation": 2,
+    "quotation_prev": 2,
+    "page": 6,
+    "team_number": 12,
+    "ocr_confidence": 0.941,
+    "source_text": {
+      "fvm": "4(4)",
+      "quotation": "2(2)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dd,E)",
+    "name": "Sagrado",
+    "club": "Venezia",
+    "fvm": 4,
+    "fvm_prev": 4,
+    "quotation": 2,
+    "quotation_prev": 2,
+    "page": 6,
+    "team_number": 13,
+    "ocr_confidence": 0.951,
+    "source_text": {
+      "fvm": "4(4)",
+      "quotation": "2(2)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Ds,Dc)",
+    "name": "Gomes",
+    "club": "Venezia",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 6,
+    "team_number": 14,
+    "ocr_confidence": 0.9,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Basic",
+    "club": "Venezia",
+    "fvm": 19,
+    "fvm_prev": 20,
+    "quotation": 6,
+    "quotation_prev": 7,
+    "page": 6,
+    "team_number": 15,
+    "ocr_confidence": 0.933,
+    "source_text": {
+      "fvm": "19(20)",
+      "quotation": "6(7)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(M,C)",
+    "name": "Busio",
+    "club": "Venezia",
+    "fvm": 14,
+    "fvm_prev": 17,
+    "quotation": 5,
+    "quotation_prev": 6,
+    "page": 6,
+    "team_number": 16,
+    "ocr_confidence": 0.898,
+    "source_text": {
+      "fvm": "14(17)",
+      "quotation": "5(6)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C,T)",
+    "name": "Perez K.",
+    "club": "Venezia",
+    "fvm": 14,
+    "fvm_prev": 14,
+    "quotation": 5,
+    "quotation_prev": 5,
+    "page": 6,
+    "team_number": 17,
+    "ocr_confidence": 0.935,
+    "source_text": {
+      "fvm": "14(14)",
+      "quotation": "5(5)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C)",
+    "name": "Sohm",
+    "club": "Venezia",
+    "fvm": 14,
+    "fvm_prev": 14,
+    "quotation": 5,
+    "quotation_prev": 5,
+    "page": 6,
+    "team_number": 18,
+    "ocr_confidence": 0.934,
+    "source_text": {
+      "fvm": "14(14)",
+      "quotation": "5(5)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C,T)",
+    "name": "Helgason",
+    "club": "Venezia",
+    "fvm": 7,
+    "fvm_prev": 7,
+    "quotation": 3,
+    "quotation_prev": 3,
+    "page": 6,
+    "team_number": 19,
+    "ocr_confidence": 0.916,
+    "source_text": {
+      "fvm": "7(7)",
+      "quotation": "3(3)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C)",
+    "name": "Duncan",
+    "club": "Venezia",
+    "fvm": 4,
+    "fvm_prev": 4,
+    "quotation": 2,
+    "quotation_prev": 2,
+    "page": 6,
+    "team_number": 20,
+    "ocr_confidence": 0.961,
+    "source_text": {
+      "fvm": "4(4)",
+      "quotation": "2(2)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C)",
+    "name": "Dagasso",
+    "club": "Venezia",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 6,
+    "team_number": 21,
+    "ocr_confidence": 0.817,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1（1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(Pc)",
+    "name": "Adams A.",
+    "club": "Venezia",
+    "fvm": 52,
+    "fvm_prev": 50,
+    "quotation": 12,
+    "quotation_prev": 11,
+    "page": 6,
+    "team_number": 22,
+    "ocr_confidence": 0.911,
+    "source_text": {
+      "fvm": "52(50)",
+      "quotation": "12(11)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(Pc)",
+    "name": "Rrahmani Al.",
+    "club": "Venezia",
+    "fvm": 20,
+    "fvm_prev": 17,
+    "quotation": 8,
+    "quotation_prev": 7,
+    "page": 6,
+    "team_number": 23,
+    "ocr_confidence": 0.887,
+    "source_text": {
+      "fvm": "20(17)",
+      "quotation": "8(7)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(A)",
+    "name": "Yeboah J.",
+    "club": "Venezia",
+    "fvm": 28,
+    "fvm_prev": 29,
+    "quotation": 8,
+    "quotation_prev": 8,
+    "page": 6,
+    "team_number": 24,
+    "ocr_confidence": 0.937,
+    "source_text": {
+      "fvm": "28(29)",
+      "quotation": "8(8)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(Pc)",
+    "name": "Adorante",
+    "club": "Venezia",
+    "fvm": 14,
+    "fvm_prev": 12,
+    "quotation": 5,
+    "quotation_prev": 4,
+    "page": 6,
+    "team_number": 25,
+    "ocr_confidence": 0.857,
+    "source_text": {
+      "fvm": "14(12)",
+      "quotation": "5(4)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(Pc)",
+    "name": "Lauberbach",
+    "club": "Venezia",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 6,
+    "team_number": 26,
+    "ocr_confidence": 0.9,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  },
+  {
+    "role": "A",
+    "role_detail": "A(W,A)",
+    "name": "Lisman",
+    "club": "Venezia",
+    "fvm": 1,
+    "fvm_prev": 1,
+    "quotation": 1,
+    "quotation_prev": 1,
+    "page": 6,
+    "team_number": 27,
+    "ocr_confidence": 0.898,
+    "source_text": {
+      "fvm": "1(1)",
+      "quotation": "1(1)"
+    },
+    "manually_verified": false
+  }
+]

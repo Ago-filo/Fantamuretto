@@ -1,0 +1,7 @@
+.quick-to-tiers{width:100%;margin:12px 0 4px;padding:12px 14px;border:1px solid #739a45;background:#edf8d9;color:#244320;font:700 10px "Space Mono",monospace;letter-spacing:.02em;cursor:pointer}
+.quick-to-tiers:hover{background:#c8f36a;border-color:#c8f36a}
+.unranked-player.quick-tier-hit{outline:3px solid #c8f36a;outline-offset:3px;background:#f3fbdc;animation:quick-tier-pulse 1.15s ease-in-out 2}
+body[data-theme="dark"] .quick-to-tiers{background:#253321;color:#d9f99d;border-color:#668447}
+body[data-theme="dark"] .quick-to-tiers:hover{background:#344927}
+body[data-theme="dark"] .unranked-player.quick-tier-hit{background:#26351f}
+@keyframes quick-tier-pulse{50%{box-shadow:0 0 0 8px #c8f36a33}}

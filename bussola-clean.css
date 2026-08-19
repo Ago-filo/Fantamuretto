@@ -1,0 +1,7 @@
+.recommendation-card>footer{display:none!important}
+@media(min-width:901px){
+  .recommendation-card{grid-template-rows:auto auto minmax(40px,1fr)!important;padding-bottom:17px!important}
+  .recommendation-card>p{font-size:13px!important;line-height:1.5!important;color:#53665a}
+  .recommendation-card>div>span small{font-size:11px!important;line-height:1.35}
+}
+body[data-theme="dark"] .recommendation-card>p{color:#b8c6bc!important}
