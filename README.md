@@ -14,6 +14,14 @@ Le Fasce possono essere trasferite tra dispositivi dalla schermata **Fasce**:
 
 L'importazione sostituisce soltanto Fasce, prezzi obiettivo e ordine delle priorità. Non modifica acquisti, squadre avversarie o impostazioni dell'asta.
 
+## Primo accesso e Fasce neutre
+
+Chi apre il sito per la prima volta può scegliere se usare una base neutrale, importare un proprio file oppure partire da zero. La base neutrale è generata dai valori del listone e copre i posti necessari alle rose configurate: è volutamente incompleta e deve essere personalizzata.
+
+La schermata Fasce mostra sempre quanti giocatori sono classificati e quanti restano da valutare. Quando cambia il listone viene proposto un aggiornamento facoltativo che aggiunge soltanto i nuovi suggerimenti: prezzi, ordine e fasce già scelti dall'utente non vengono sovrascritti. Il comando **Ripristina base neutrale** sostituisce invece tutte le Fasce e richiede una conferma esplicita.
+
+Le Fasce personali non sono incluse nel repository pubblico. Rimangono nel browser o nel file JSON esportato dall'utente.
+
 ## Avvio locale
 
 È richiesto Node.js.
