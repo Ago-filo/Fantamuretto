@@ -22,6 +22,14 @@ La schermata Fasce mostra sempre quanti giocatori sono classificati e quanti res
 
 Le Fasce personali non sono incluse nel repository pubblico. Rimangono nel browser o nel file JSON esportato dall'utente.
 
+## Minaccia avversaria
+
+La scheda del giocatore mostra un indice di pressione avversaria da 0 a 100, le tre squadre più pericolose e un'indicazione operativa: **Chiama ora**, **Rischio asta** oppure **Tienilo nascosto**. Lo stesso indice compare nelle raccomandazioni della Bussola d'asta.
+
+Per ogni avversario viene calcolato un punteggio combinando bisogno residuo nel ruolo, capacità massima di rilancio, appetibilità del giocatore, avanzamento della rosa e comportamento di spesa osservato. I punteggi individuali vengono aggregati con `100 × (1 − e^(-0,18 × somma punteggi))`. È un indice strategico comparativo, non una probabilità statistica di acquisto.
+
+L'affidabilità cresce assegnando ogni acquisto alla squadra corretta: all'inizio è una stima basata soprattutto sui posti liberi, mentre durante l'asta incorpora crediti e prezzi realmente registrati.
+
 ## Avvio locale
 
 È richiesto Node.js.
