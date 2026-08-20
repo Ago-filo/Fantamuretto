@@ -10,30 +10,13 @@
     "quotation_prev": 16,
     "page": 1,
     "team_number": 1,
-    "ocr_confidence": 0.971,
+    "ocr_confidence": 0.97,
     "source_text": {
       "fvm": "52(52)",
       "quotation": "16(16)"
     },
-    "manually_verified": false
-  },
-  {
-    "role": "P",
-    "role_detail": "P(Por)",
-    "name": "Rossi F.",
-    "club": "Atalanta",
-    "fvm": 1,
-    "fvm_prev": 1,
-    "quotation": 1,
-    "quotation_prev": 1,
-    "page": 1,
-    "team_number": 2,
-    "ocr_confidence": 0.885,
-    "source_text": {
-      "fvm": "1(1)",
-      "quotation": "1(1)"
-    },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:carnesecchi"
   },
   {
     "role": "P",
@@ -45,13 +28,14 @@
     "quotation": 1,
     "quotation_prev": 1,
     "page": 1,
-    "team_number": 3,
-    "ocr_confidence": 0.863,
+    "team_number": 2,
+    "ocr_confidence": 0.884,
     "source_text": {
       "fvm": "1(1)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:sportiello"
   },
   {
     "role": "P",
@@ -63,13 +47,14 @@
     "quotation": 1,
     "quotation_prev": 1,
     "page": 1,
-    "team_number": 4,
-    "ocr_confidence": 0.959,
+    "team_number": 3,
+    "ocr_confidence": 0.879,
     "source_text": {
       "fvm": "1(1)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:vismara"
   },
   {
     "role": "D",
@@ -81,13 +66,14 @@
     "quotation": 10,
     "quotation_prev": 10,
     "page": 1,
-    "team_number": 5,
-    "ocr_confidence": 0.911,
+    "team_number": 4,
+    "ocr_confidence": 0.937,
     "source_text": {
       "fvm": "28(28)",
       "quotation": "10(10)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:scalvini"
   },
   {
     "role": "D",
@@ -99,13 +85,14 @@
     "quotation": 8,
     "quotation_prev": 8,
     "page": 1,
-    "team_number": 6,
-    "ocr_confidence": 0.95,
+    "team_number": 5,
+    "ocr_confidence": 0.909,
     "source_text": {
       "fvm": "16(16)",
       "quotation": "8(8)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:hien"
   },
   {
     "role": "D",
@@ -117,13 +104,14 @@
     "quotation": 8,
     "quotation_prev": 8,
     "page": 1,
-    "team_number": 7,
-    "ocr_confidence": 0.918,
+    "team_number": 6,
+    "ocr_confidence": 0.969,
     "source_text": {
       "fvm": "24(24)",
       "quotation": "8(8)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:zappacosta"
   },
   {
     "role": "D",
@@ -135,13 +123,14 @@
     "quotation": 7,
     "quotation_prev": 7,
     "page": 1,
-    "team_number": 8,
-    "ocr_confidence": 0.96,
+    "team_number": 7,
+    "ocr_confidence": 0.924,
     "source_text": {
       "fvm": "16(16)",
       "quotation": "7(7)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:djimsiti"
   },
   {
     "role": "D",
@@ -153,13 +142,14 @@
     "quotation": 6,
     "quotation_prev": 7,
     "page": 1,
-    "team_number": 9,
-    "ocr_confidence": 0.89,
+    "team_number": 8,
+    "ocr_confidence": 0.96,
     "source_text": {
       "fvm": "16(18)",
       "quotation": "6(7)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:ahanor"
   },
   {
     "role": "D",
@@ -171,13 +161,14 @@
     "quotation": 6,
     "quotation_prev": 6,
     "page": 1,
-    "team_number": 10,
-    "ocr_confidence": 0.962,
+    "team_number": 9,
+    "ocr_confidence": 0.884,
     "source_text": {
       "fvm": "15(15)",
       "quotation": "6(6)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:bellanova"
   },
   {
     "role": "D",
@@ -189,13 +180,14 @@
     "quotation": 6,
     "quotation_prev": 6,
     "page": 1,
-    "team_number": 11,
-    "ocr_confidence": 0.929,
+    "team_number": 10,
+    "ocr_confidence": 0.985,
     "source_text": {
       "fvm": "17(17)",
       "quotation": "6(6)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:bernasconi"
   },
   {
     "role": "D",
@@ -207,13 +199,14 @@
     "quotation": 5,
     "quotation_prev": 6,
     "page": 1,
-    "team_number": 12,
-    "ocr_confidence": 0.944,
+    "team_number": 11,
+    "ocr_confidence": 0.916,
     "source_text": {
       "fvm": "12(14)",
       "quotation": "5(6)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:kolasinac"
   },
   {
     "role": "D",
@@ -225,13 +218,14 @@
     "quotation": 3,
     "quotation_prev": 3,
     "page": 1,
-    "team_number": 13,
-    "ocr_confidence": 0.887,
+    "team_number": 12,
+    "ocr_confidence": 0.912,
     "source_text": {
       "fvm": "7(8)",
       "quotation": "3(3)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:kossounou"
   },
   {
     "role": "C",
@@ -243,13 +237,14 @@
     "quotation": 12,
     "quotation_prev": 13,
     "page": 1,
-    "team_number": 14,
-    "ocr_confidence": 0.93,
+    "team_number": 13,
+    "ocr_confidence": 0.931,
     "source_text": {
       "fvm": "45(48)",
       "quotation": "12(13)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:edersonds"
   },
   {
     "role": "C",
@@ -261,13 +256,14 @@
     "quotation": 12,
     "quotation_prev": 12,
     "page": 1,
-    "team_number": 15,
-    "ocr_confidence": 0.96,
+    "team_number": 14,
+    "ocr_confidence": 0.898,
     "source_text": {
       "fvm": "42(42)",
       "quotation": "12(12)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:samardzic"
   },
   {
     "role": "C",
@@ -279,13 +275,14 @@
     "quotation": 9,
     "quotation_prev": 9,
     "page": 1,
-    "team_number": 16,
-    "ocr_confidence": 0.895,
+    "team_number": 15,
+    "ocr_confidence": 0.903,
     "source_text": {
       "fvm": "32(32)",
       "quotation": "(6)6"
     },
-    "manually_verified": true
+    "manually_verified": true,
+    "id": "player:pasalic"
   },
   {
     "role": "C",
@@ -297,13 +294,14 @@
     "quotation": 7,
     "quotation_prev": 8,
     "page": 1,
-    "team_number": 17,
-    "ocr_confidence": 0.976,
+    "team_number": 16,
+    "ocr_confidence": 0.937,
     "source_text": {
       "fvm": "24(27)",
       "quotation": "7(8)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:gaetano"
   },
   {
     "role": "C",
@@ -315,13 +313,14 @@
     "quotation": 6,
     "quotation_prev": 5,
     "page": 1,
-    "team_number": 18,
-    "ocr_confidence": 0.957,
+    "team_number": 17,
+    "ocr_confidence": 0.941,
     "source_text": {
       "fvm": "21(19)",
       "quotation": "6(5)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:zalewski"
   },
   {
     "role": "C",
@@ -333,13 +332,14 @@
     "quotation": 4,
     "quotation_prev": 5,
     "page": 1,
-    "team_number": 19,
-    "ocr_confidence": 0.877,
+    "team_number": 18,
+    "ocr_confidence": 0.871,
     "source_text": {
       "fvm": "12(14)",
       "quotation": "4(5)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:deroon"
   },
   {
     "role": "C",
@@ -351,17 +351,18 @@
     "quotation": 3,
     "quotation_prev": 3,
     "page": 1,
-    "team_number": 20,
+    "team_number": 19,
     "ocr_confidence": 0.89,
     "source_text": {
       "fvm": "7(8)",
       "quotation": "3(3)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:sulemanai"
   },
   {
     "role": "A",
-    "role_detail": "A(Pc)",
+    "role_detail": "A(PC)",
     "name": "Scamacca",
     "club": "Atalanta",
     "fvm": 128,
@@ -369,17 +370,18 @@
     "quotation": 19,
     "quotation_prev": 18,
     "page": 1,
-    "team_number": 21,
-    "ocr_confidence": 0.843,
+    "team_number": 20,
+    "ocr_confidence": 0.901,
     "source_text": {
       "fvm": "128(125)",
       "quotation": "19(18)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:scamacca"
   },
   {
     "role": "A",
-    "role_detail": "A(PC)",
+    "role_detail": "A(Pc)",
     "name": "Krstovic",
     "club": "Atalanta",
     "fvm": 100,
@@ -387,13 +389,14 @@
     "quotation": 18,
     "quotation_prev": 17,
     "page": 1,
-    "team_number": 22,
-    "ocr_confidence": 0.896,
+    "team_number": 21,
+    "ocr_confidence": 0.849,
     "source_text": {
       "fvm": "100(97)",
       "quotation": "18(17)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:krstovic"
   },
   {
     "role": "A",
@@ -405,13 +408,14 @@
     "quotation": 17,
     "quotation_prev": 18,
     "page": 1,
-    "team_number": 23,
-    "ocr_confidence": 0.956,
+    "team_number": 22,
+    "ocr_confidence": 0.97,
     "source_text": {
       "fvm": "106(108)",
       "quotation": "17(18)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:deketelaere"
   },
   {
     "role": "A",
@@ -423,13 +427,14 @@
     "quotation": 13,
     "quotation_prev": 14,
     "page": 1,
-    "team_number": 24,
-    "ocr_confidence": 0.953,
+    "team_number": 23,
+    "ocr_confidence": 0.924,
     "source_text": {
       "fvm": "62(64)",
       "quotation": "13(14)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:raspadori"
   },
   {
     "role": "A",
@@ -441,31 +446,14 @@
     "quotation": 6,
     "quotation_prev": 6,
     "page": 1,
-    "team_number": 25,
-    "ocr_confidence": 0.962,
+    "team_number": 24,
+    "ocr_confidence": 0.954,
     "source_text": {
       "fvm": "16(17)",
       "quotation": "6(6)"
     },
-    "manually_verified": false
-  },
-  {
-    "role": "A",
-    "role_detail": "A(T,A)",
-    "name": "Maldini",
-    "club": "Atalanta",
-    "fvm": 14,
-    "fvm_prev": 15,
-    "quotation": 5,
-    "quotation_prev": 6,
-    "page": 1,
-    "team_number": 26,
-    "ocr_confidence": 0.879,
-    "source_text": {
-      "fvm": "14(15)",
-      "quotation": "5(6)"
-    },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:sulemanak"
   },
   {
     "role": "P",
@@ -478,12 +466,13 @@
     "quotation_prev": 10,
     "page": 1,
     "team_number": 1,
-    "ocr_confidence": 0.98,
+    "ocr_confidence": 0.962,
     "source_text": {
       "fvm": "37(37)",
       "quotation": "10(10)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:skorupski"
   },
   {
     "role": "P",
@@ -496,12 +485,13 @@
     "quotation_prev": 1,
     "page": 1,
     "team_number": 2,
-    "ocr_confidence": 0.874,
+    "ocr_confidence": 0.916,
     "source_text": {
       "fvm": "1(1)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:happonen"
   },
   {
     "role": "P",
@@ -514,12 +504,13 @@
     "quotation_prev": 1,
     "page": 1,
     "team_number": 3,
-    "ocr_confidence": 0.925,
+    "ocr_confidence": 0.956,
     "source_text": {
       "fvm": "1(1)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:pessinamas"
   },
   {
     "role": "D",
@@ -532,12 +523,13 @@
     "quotation_prev": 8,
     "page": 1,
     "team_number": 4,
-    "ocr_confidence": 0.926,
+    "ocr_confidence": 0.894,
     "source_text": {
       "fvm": "18(18)",
       "quotation": "8(8)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:lucumi"
   },
   {
     "role": "D",
@@ -550,12 +542,13 @@
     "quotation_prev": 8,
     "page": 1,
     "team_number": 5,
-    "ocr_confidence": 0.972,
+    "ocr_confidence": 0.958,
     "source_text": {
       "fvm": "24(24)",
       "quotation": "8(8)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:mirandaj"
   },
   {
     "role": "D",
@@ -568,12 +561,13 @@
     "quotation_prev": 7,
     "page": 1,
     "team_number": 6,
-    "ocr_confidence": 0.93,
+    "ocr_confidence": 0.938,
     "source_text": {
       "fvm": "15(17)",
       "quotation": "6(7)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:heggem"
   },
   {
     "role": "D",
@@ -586,12 +580,13 @@
     "quotation_prev": 6,
     "page": 1,
     "team_number": 7,
-    "ocr_confidence": 0.95,
+    "ocr_confidence": 0.968,
     "source_text": {
       "fvm": "19(19)",
       "quotation": "6(6)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:zortea"
   },
   {
     "role": "D",
@@ -604,12 +599,13 @@
     "quotation_prev": 5,
     "page": 1,
     "team_number": 8,
-    "ocr_confidence": 0.911,
+    "ocr_confidence": 0.915,
     "source_text": {
       "fvm": "13(13)",
       "quotation": "5(5)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:holm"
   },
   {
     "role": "D",
@@ -622,12 +618,13 @@
     "quotation_prev": 5,
     "page": 1,
     "team_number": 9,
-    "ocr_confidence": 0.866,
+    "ocr_confidence": 0.934,
     "source_text": {
       "fvm": "11(11)",
       "quotation": "5(5)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:vitik"
   },
   {
     "role": "D",
@@ -640,12 +637,13 @@
     "quotation_prev": 3,
     "page": 1,
     "team_number": 10,
-    "ocr_confidence": 0.881,
+    "ocr_confidence": 0.877,
     "source_text": {
       "fvm": "6(6)",
       "quotation": "3(3)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:casale"
   },
   {
     "role": "D",
@@ -658,12 +656,13 @@
     "quotation_prev": 2,
     "page": 1,
     "team_number": 11,
-    "ocr_confidence": 0.898,
+    "ocr_confidence": 0.908,
     "source_text": {
       "fvm": "6(6)",
       "quotation": "2(2)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:alhassane"
   },
   {
     "role": "D",
@@ -676,12 +675,13 @@
     "quotation_prev": 2,
     "page": 1,
     "team_number": 12,
-    "ocr_confidence": 0.791,
+    "ocr_confidence": 0.916,
     "source_text": {
       "fvm": "5(5)",
       "quotation": "2(2)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:helland"
   },
   {
     "role": "D",
@@ -694,12 +694,13 @@
     "quotation_prev": 1,
     "page": 1,
     "team_number": 13,
-    "ocr_confidence": 0.834,
+    "ocr_confidence": 0.804,
     "source_text": {
       "fvm": "4(4)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:desilvestri"
   },
   {
     "role": "C",
@@ -712,12 +713,13 @@
     "quotation_prev": 25,
     "page": 1,
     "team_number": 14,
-    "ocr_confidence": 0.957,
+    "ocr_confidence": 0.938,
     "source_text": {
       "fvm": "200(200)",
       "quotation": "26(25)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:orsolini"
   },
   {
     "role": "C",
@@ -730,12 +732,13 @@
     "quotation_prev": 11,
     "page": 1,
     "team_number": 15,
-    "ocr_confidence": 0.954,
+    "ocr_confidence": 0.959,
     "source_text": {
       "fvm": "37(40)",
       "quotation": "11(11)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:rowe"
   },
   {
     "role": "C",
@@ -748,12 +751,13 @@
     "quotation_prev": 9,
     "page": 1,
     "team_number": 16,
-    "ocr_confidence": 0.931,
+    "ocr_confidence": 0.911,
     "source_text": {
       "fvm": "21(21)",
-      "quotation": "9(9)"
+      "quotation": "(6)6"
     },
-    "manually_verified": false
+    "manually_verified": true,
+    "id": "player:bernardeschi"
   },
   {
     "role": "C",
@@ -766,12 +770,13 @@
     "quotation_prev": 7,
     "page": 1,
     "team_number": 17,
-    "ocr_confidence": 0.943,
+    "ocr_confidence": 0.904,
     "source_text": {
       "fvm": "25(25)",
       "quotation": "8(7)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:cambiaghi"
   },
   {
     "role": "C",
@@ -784,12 +789,13 @@
     "quotation_prev": 7,
     "page": 1,
     "team_number": 18,
-    "ocr_confidence": 0.912,
+    "ocr_confidence": 0.932,
     "source_text": {
       "fvm": "22(20)",
       "quotation": "8(7)"
     },
-    "manually_verified": false
+    "manually_verified": true,
+    "id": "player:odgaard"
   },
   {
     "role": "C",
@@ -802,12 +808,13 @@
     "quotation_prev": 8,
     "page": 1,
     "team_number": 19,
-    "ocr_confidence": 0.92,
+    "ocr_confidence": 0.926,
     "source_text": {
       "fvm": "18(21)",
       "quotation": "7(8)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:ferguson"
   },
   {
     "role": "C",
@@ -820,12 +827,13 @@
     "quotation_prev": 7,
     "page": 1,
     "team_number": 20,
-    "ocr_confidence": 0.93,
+    "ocr_confidence": 0.942,
     "source_text": {
       "fvm": "14(17)",
       "quotation": "6(7)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:pobega"
   },
   {
     "role": "C",
@@ -838,12 +846,13 @@
     "quotation_prev": 6,
     "page": 1,
     "team_number": 21,
-    "ocr_confidence": 0.918,
+    "ocr_confidence": 0.919,
     "source_text": {
       "fvm": "12(14)",
       "quotation": "5(6)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:amondarain"
   },
   {
     "role": "C",
@@ -856,12 +865,13 @@
     "quotation_prev": 4,
     "page": 1,
     "team_number": 22,
-    "ocr_confidence": 0.913,
+    "ocr_confidence": 0.856,
     "source_text": {
       "fvm": "10(12)",
       "quotation": "4(4)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:moron"
   },
   {
     "role": "C",
@@ -874,12 +884,13 @@
     "quotation_prev": 2,
     "page": 1,
     "team_number": 23,
-    "ocr_confidence": 0.953,
+    "ocr_confidence": 0.967,
     "source_text": {
       "fvm": "8(7)",
       "quotation": "3(2)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:dominguezb"
   },
   {
     "role": "C",
@@ -892,12 +903,13 @@
     "quotation_prev": 2,
     "page": 1,
     "team_number": 24,
-    "ocr_confidence": 0.899,
+    "ocr_confidence": 0.895,
     "source_text": {
       "fvm": "4(4)",
       "quotation": "2(2)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:elazzouzio"
   },
   {
     "role": "A",
@@ -910,16 +922,17 @@
     "quotation_prev": 16,
     "page": 1,
     "team_number": 25,
-    "ocr_confidence": 0.912,
+    "ocr_confidence": 0.891,
     "source_text": {
       "fvm": "84(81)",
       "quotation": "16(16)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:dovbyk"
   },
   {
     "role": "A",
-    "role_detail": "A(PC)",
+    "role_detail": "A(Pc)",
     "name": "Dallinga",
     "club": "Bologna",
     "fvm": 23,
@@ -928,12 +941,13 @@
     "quotation_prev": 7,
     "page": 1,
     "team_number": 26,
-    "ocr_confidence": 0.89,
+    "ocr_confidence": 0.897,
     "source_text": {
       "fvm": "23(20)",
       "quotation": "8(7)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:dallinga"
   },
   {
     "role": "P",
@@ -946,12 +960,13 @@
     "quotation_prev": 9,
     "page": 1,
     "team_number": 1,
-    "ocr_confidence": 0.944,
+    "ocr_confidence": 0.971,
     "source_text": {
       "fvm": "27(27)",
       "quotation": "9(9)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:caprile"
   },
   {
     "role": "P",
@@ -964,12 +979,13 @@
     "quotation_prev": 1,
     "page": 1,
     "team_number": 2,
-    "ocr_confidence": 0.884,
+    "ocr_confidence": 0.944,
     "source_text": {
       "fvm": "1(1)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:ciocci"
   },
   {
     "role": "P",
@@ -982,12 +998,13 @@
     "quotation_prev": 1,
     "page": 1,
     "team_number": 3,
-    "ocr_confidence": 0.91,
+    "ocr_confidence": 0.903,
     "source_text": {
       "fvm": "1(1)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:sherri"
   },
   {
     "role": "D",
@@ -1000,12 +1017,13 @@
     "quotation_prev": 8,
     "page": 1,
     "team_number": 4,
-    "ocr_confidence": 0.967,
+    "ocr_confidence": 0.923,
     "source_text": {
       "fvm": "20(20)",
       "quotation": "8(8)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:mina"
   },
   {
     "role": "D",
@@ -1018,12 +1036,13 @@
     "quotation_prev": 7,
     "page": 1,
     "team_number": 5,
-    "ocr_confidence": 0.954,
+    "ocr_confidence": 0.956,
     "source_text": {
       "fvm": "14(16)",
       "quotation": "7(7)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:obert"
   },
   {
     "role": "D",
@@ -1036,12 +1055,13 @@
     "quotation_prev": 5,
     "page": 1,
     "team_number": 6,
-    "ocr_confidence": 0.935,
+    "ocr_confidence": 0.943,
     "source_text": {
       "fvm": "11(11)",
       "quotation": "5(5)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:kofler"
   },
   {
     "role": "D",
@@ -1054,12 +1074,13 @@
     "quotation_prev": 6,
     "page": 1,
     "team_number": 7,
-    "ocr_confidence": 0.938,
+    "ocr_confidence": 0.926,
     "source_text": {
       "fvm": "11(13)",
       "quotation": "5(6)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:zepedro"
   },
   {
     "role": "D",
@@ -1072,12 +1093,13 @@
     "quotation_prev": 4,
     "page": 1,
     "team_number": 8,
-    "ocr_confidence": 0.88,
+    "ocr_confidence": 0.93,
     "source_text": {
       "fvm": "9(11)",
       "quotation": "4(4)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:zappa"
   },
   {
     "role": "D",
@@ -1090,12 +1112,13 @@
     "quotation_prev": 3,
     "page": 1,
     "team_number": 9,
-    "ocr_confidence": 0.907,
+    "ocr_confidence": 0.874,
     "source_text": {
       "fvm": "7(7)",
       "quotation": "3(3)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:idrissir"
   },
   {
     "role": "D",
@@ -1108,12 +1131,13 @@
     "quotation_prev": 4,
     "page": 1,
     "team_number": 10,
-    "ocr_confidence": 0.933,
+    "ocr_confidence": 0.917,
     "source_text": {
       "fvm": "10(12)",
       "quotation": "3(4)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:rodriguezju"
   },
   {
     "role": "D",
@@ -1126,12 +1150,13 @@
     "quotation_prev": 1,
     "page": 1,
     "team_number": 11,
-    "ocr_confidence": 0.877,
+    "ocr_confidence": 0.863,
     "source_text": {
       "fvm": "1(1)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:raterink"
   },
   {
     "role": "C",
@@ -1144,12 +1169,13 @@
     "quotation_prev": 8,
     "page": 1,
     "team_number": 12,
-    "ocr_confidence": 0.951,
+    "ocr_confidence": 0.992,
     "source_text": {
       "fvm": "19(21)",
       "quotation": "7(8)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:fazzini"
   },
   {
     "role": "C",
@@ -1162,12 +1188,13 @@
     "quotation_prev": 7,
     "page": 1,
     "team_number": 13,
-    "ocr_confidence": 0.938,
+    "ocr_confidence": 0.936,
     "source_text": {
       "fvm": "13(16)",
       "quotation": "6(7)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:adopo"
   },
   {
     "role": "C",
@@ -1180,12 +1207,13 @@
     "quotation_prev": 7,
     "page": 1,
     "team_number": 14,
-    "ocr_confidence": 0.93,
+    "ocr_confidence": 0.949,
     "source_text": {
       "fvm": "14(17)",
       "quotation": "6(7)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:winks"
   },
   {
     "role": "C",
@@ -1198,12 +1226,13 @@
     "quotation_prev": 4,
     "page": 1,
     "team_number": 15,
-    "ocr_confidence": 0.882,
+    "ocr_confidence": 0.916,
     "source_text": {
       "fvm": "10(8)",
       "quotation": "5(4)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:felici"
   },
   {
     "role": "C",
@@ -1216,12 +1245,13 @@
     "quotation_prev": 6,
     "page": 1,
     "team_number": 16,
-    "ocr_confidence": 0.914,
+    "ocr_confidence": 0.93,
     "source_text": {
       "fvm": "12(15)",
       "quotation": "5(6)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:romano"
   },
   {
     "role": "C",
@@ -1234,12 +1264,13 @@
     "quotation_prev": 4,
     "page": 1,
     "team_number": 17,
-    "ocr_confidence": 0.892,
+    "ocr_confidence": 0.933,
     "source_text": {
       "fvm": "7(7)",
       "quotation": "4(4)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:prati"
   },
   {
     "role": "C",
@@ -1252,12 +1283,13 @@
     "quotation_prev": 3,
     "page": 1,
     "team_number": 18,
-    "ocr_confidence": 0.894,
+    "ocr_confidence": 0.908,
     "source_text": {
       "fvm": "8(8)",
       "quotation": "3(3)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:deiola"
   },
   {
     "role": "C",
@@ -1270,12 +1302,13 @@
     "quotation_prev": 1,
     "page": 1,
     "team_number": 19,
-    "ocr_confidence": 0.79,
+    "ocr_confidence": 0.81,
     "source_text": {
       "fvm": "1(1)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:liteta"
   },
   {
     "role": "A",
@@ -1288,12 +1321,13 @@
     "quotation_prev": 14,
     "page": 1,
     "team_number": 20,
-    "ocr_confidence": 0.929,
+    "ocr_confidence": 0.906,
     "source_text": {
       "fvm": "50(50)",
       "quotation": "13(14)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:espositose"
   },
   {
     "role": "A",
@@ -1306,12 +1340,32 @@
     "quotation_prev": 6,
     "page": 1,
     "team_number": 21,
-    "ocr_confidence": 0.863,
+    "ocr_confidence": 0.871,
     "source_text": {
       "fvm": "19(18)",
       "quotation": "6(6)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:mutandwa"
+  },
+  {
+    "role": "A",
+    "role_detail": "A(T,A)",
+    "name": "Maldini",
+    "club": "Cagliari",
+    "fvm": 14,
+    "fvm_prev": 15,
+    "quotation": 5,
+    "quotation_prev": 6,
+    "page": 1,
+    "team_number": 22,
+    "ocr_confidence": 0.937,
+    "source_text": {
+      "fvm": "14(15)",
+      "quotation": "5(6)"
+    },
+    "manually_verified": false,
+    "id": "player:maldini"
   },
   {
     "role": "A",
@@ -1323,13 +1377,14 @@
     "quotation": 4,
     "quotation_prev": 3,
     "page": 1,
-    "team_number": 22,
-    "ocr_confidence": 0.91,
+    "team_number": 23,
+    "ocr_confidence": 0.862,
     "source_text": {
       "fvm": "9(7)",
       "quotation": "4(3)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:borrelli"
   },
   {
     "role": "A",
@@ -1341,13 +1396,14 @@
     "quotation": 4,
     "quotation_prev": 3,
     "page": 1,
-    "team_number": 23,
-    "ocr_confidence": 0.877,
+    "team_number": 24,
+    "ocr_confidence": 0.91,
     "source_text": {
       "fvm": "9(7)",
       "quotation": "4(3)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:mendyp"
   },
   {
     "role": "A",
@@ -1359,13 +1415,14 @@
     "quotation": 1,
     "quotation_prev": 1,
     "page": 1,
-    "team_number": 24,
-    "ocr_confidence": 0.826,
+    "team_number": 25,
+    "ocr_confidence": 0.9,
     "source_text": {
       "fvm": "1(1)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:albarracin"
   },
   {
     "role": "A",
@@ -1377,13 +1434,14 @@
     "quotation": 1,
     "quotation_prev": 1,
     "page": 1,
-    "team_number": 25,
-    "ocr_confidence": 0.867,
+    "team_number": 26,
+    "ocr_confidence": 0.9,
     "source_text": {
       "fvm": "2(2)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:trepy"
   },
   {
     "role": "P",
@@ -1396,12 +1454,13 @@
     "quotation_prev": 16,
     "page": 1,
     "team_number": 1,
-    "ocr_confidence": 0.981,
+    "ocr_confidence": 0.98,
     "source_text": {
       "fvm": "56(56)",
       "quotation": "16(16)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:butez"
   },
   {
     "role": "P",
@@ -1414,12 +1473,13 @@
     "quotation_prev": 1,
     "page": 1,
     "team_number": 2,
-    "ocr_confidence": 0.982,
+    "ocr_confidence": 0.927,
     "source_text": {
       "fvm": "1(1)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:tornqvist"
   },
   {
     "role": "P",
@@ -1432,12 +1492,13 @@
     "quotation_prev": 1,
     "page": 1,
     "team_number": 3,
-    "ocr_confidence": 0.875,
+    "ocr_confidence": 0.976,
     "source_text": {
       "fvm": "1(1)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:vigorito"
   },
   {
     "role": "D",
@@ -1450,12 +1511,32 @@
     "quotation_prev": 10,
     "page": 1,
     "team_number": 4,
-    "ocr_confidence": 0.893,
+    "ocr_confidence": 0.924,
     "source_text": {
       "fvm": "32(32)",
       "quotation": "10(10)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:ramon"
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dd,Dc)",
+    "name": "Chalobah T.",
+    "club": "Como",
+    "fvm": 26,
+    "fvm_prev": 28,
+    "quotation": 9,
+    "quotation_prev": 10,
+    "page": 1,
+    "team_number": 5,
+    "ocr_confidence": 0.949,
+    "source_text": {
+      "fvm": "26(28)",
+      "quotation": "9(10)"
+    },
+    "manually_verified": true,
+    "id": "player:chalobaht"
   },
   {
     "role": "D",
@@ -1467,13 +1548,14 @@
     "quotation": 8,
     "quotation_prev": 8,
     "page": 1,
-    "team_number": 5,
-    "ocr_confidence": 0.956,
+    "team_number": 6,
+    "ocr_confidence": 0.957,
     "source_text": {
       "fvm": "27(27)",
       "quotation": "8(8)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:couto"
   },
   {
     "role": "D",
@@ -1485,13 +1567,14 @@
     "quotation": 7,
     "quotation_prev": 7,
     "page": 1,
-    "team_number": 6,
-    "ocr_confidence": 0.839,
+    "team_number": 7,
+    "ocr_confidence": 0.978,
     "source_text": {
       "fvm": "23(23)",
       "quotation": "7(7)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:kaiki"
   },
   {
     "role": "D",
@@ -1503,13 +1586,14 @@
     "quotation": 6,
     "quotation_prev": 6,
     "page": 1,
-    "team_number": 7,
-    "ocr_confidence": 0.939,
+    "team_number": 8,
+    "ocr_confidence": 0.933,
     "source_text": {
       "fvm": "18(18)",
       "quotation": "6(6)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:valle"
   },
   {
     "role": "D",
@@ -1521,13 +1605,14 @@
     "quotation": 5,
     "quotation_prev": 5,
     "page": 1,
-    "team_number": 8,
-    "ocr_confidence": 0.838,
+    "team_number": 9,
+    "ocr_confidence": 0.958,
     "source_text": {
       "fvm": "13(13)",
       "quotation": "5(5)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:kempf"
   },
   {
     "role": "D",
@@ -1539,13 +1624,14 @@
     "quotation": 4,
     "quotation_prev": 4,
     "page": 2,
-    "team_number": 9,
-    "ocr_confidence": 0.921,
+    "team_number": 10,
+    "ocr_confidence": 0.926,
     "source_text": {
       "fvm": "10(10)",
       "quotation": "4(4)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:smolcici"
   },
   {
     "role": "D",
@@ -1557,13 +1643,14 @@
     "quotation": 2,
     "quotation_prev": 2,
     "page": 2,
-    "team_number": 10,
-    "ocr_confidence": 0.963,
+    "team_number": 11,
+    "ocr_confidence": 0.968,
     "source_text": {
       "fvm": "5(5)",
       "quotation": "2(2)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:vanderbrempt"
   },
   {
     "role": "D",
@@ -1575,13 +1662,14 @@
     "quotation": 1,
     "quotation_prev": 1,
     "page": 2,
-    "team_number": 11,
-    "ocr_confidence": 0.868,
+    "team_number": 12,
+    "ocr_confidence": 0.87,
     "source_text": {
       "fvm": "8(8)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:cuencaa"
   },
   {
     "role": "D",
@@ -1593,13 +1681,14 @@
     "quotation": 1,
     "quotation_prev": 1,
     "page": 2,
-    "team_number": 12,
-    "ocr_confidence": 0.953,
+    "team_number": 13,
+    "ocr_confidence": 0.957,
     "source_text": {
       "fvm": "1(1)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:goldaniga"
   },
   {
     "role": "C",
@@ -1611,13 +1700,14 @@
     "quotation": 30,
     "quotation_prev": 28,
     "page": 2,
-    "team_number": 13,
-    "ocr_confidence": 0.926,
+    "team_number": 14,
+    "ocr_confidence": 0.958,
     "source_text": {
       "fvm": "250(250)",
       "quotation": "30(28)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:pazn"
   },
   {
     "role": "C",
@@ -1629,13 +1719,14 @@
     "quotation": 19,
     "quotation_prev": 18,
     "page": 2,
-    "team_number": 14,
-    "ocr_confidence": 0.952,
+    "team_number": 15,
+    "ocr_confidence": 0.955,
     "source_text": {
       "fvm": "102(100)",
       "quotation": "19(18)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:baturina"
   },
   {
     "role": "C",
@@ -1647,13 +1738,14 @@
     "quotation": 18,
     "quotation_prev": 18,
     "page": 2,
-    "team_number": 15,
-    "ocr_confidence": 0.947,
+    "team_number": 16,
+    "ocr_confidence": 0.945,
     "source_text": {
       "fvm": "90(90)",
       "quotation": "18(18)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:dacunha"
   },
   {
     "role": "C",
@@ -1665,13 +1757,14 @@
     "quotation": 12,
     "quotation_prev": 11,
     "page": 2,
-    "team_number": 16,
-    "ocr_confidence": 0.922,
+    "team_number": 17,
+    "ocr_confidence": 0.909,
     "source_text": {
       "fvm": "32(31)",
       "quotation": "12(11)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:rodriguezje"
   },
   {
     "role": "C",
@@ -1683,13 +1776,14 @@
     "quotation": 10,
     "quotation_prev": 11,
     "page": 2,
-    "team_number": 17,
-    "ocr_confidence": 0.933,
+    "team_number": 18,
+    "ocr_confidence": 0.93,
     "source_text": {
       "fvm": "38(41)",
       "quotation": "10(11)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:perrone"
   },
   {
     "role": "C",
@@ -1701,13 +1795,14 @@
     "quotation": 6,
     "quotation_prev": 6,
     "page": 2,
-    "team_number": 18,
-    "ocr_confidence": 0.967,
+    "team_number": 19,
+    "ocr_confidence": 0.968,
     "source_text": {
       "fvm": "20(20)",
       "quotation": "6(6)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:caqueret"
   },
   {
     "role": "C",
@@ -1719,13 +1814,14 @@
     "quotation": 6,
     "quotation_prev": 5,
     "page": 2,
-    "team_number": 19,
-    "ocr_confidence": 0.653,
+    "team_number": 20,
+    "ocr_confidence": 0.649,
     "source_text": {
       "fvm": "22(20)",
       "quotation": "6(5)"
     },
-    "manually_verified": true
+    "manually_verified": true,
+    "id": "player:liberali"
   },
   {
     "role": "C",
@@ -1737,13 +1833,14 @@
     "quotation": 5,
     "quotation_prev": 4,
     "page": 2,
-    "team_number": 20,
-    "ocr_confidence": 0.935,
+    "team_number": 21,
+    "ocr_confidence": 0.903,
     "source_text": {
       "fvm": "10(8)",
       "quotation": "5(4)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:addai"
   },
   {
     "role": "C",
@@ -1755,13 +1852,14 @@
     "quotation": 5,
     "quotation_prev": 5,
     "page": 2,
-    "team_number": 21,
+    "team_number": 22,
     "ocr_confidence": 0.899,
     "source_text": {
       "fvm": "14(16)",
       "quotation": "5(5)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:milla"
   },
   {
     "role": "C",
@@ -1773,13 +1871,14 @@
     "quotation": 2,
     "quotation_prev": 2,
     "page": 2,
-    "team_number": 22,
-    "ocr_confidence": 0.924,
+    "team_number": 23,
+    "ocr_confidence": 0.923,
     "source_text": {
       "fvm": "3(3)",
       "quotation": "2(2)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:fadera"
   },
   {
     "role": "C",
@@ -1791,13 +1890,14 @@
     "quotation": 1,
     "quotation_prev": 1,
     "page": 2,
-    "team_number": 23,
-    "ocr_confidence": 0.924,
+    "team_number": 24,
+    "ocr_confidence": 0.886,
     "source_text": {
       "fvm": "1(1)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:lahdo"
   },
   {
     "role": "A",
@@ -1809,13 +1909,14 @@
     "quotation": 20,
     "quotation_prev": 20,
     "page": 2,
-    "team_number": 24,
-    "ocr_confidence": 0.849,
+    "team_number": 25,
+    "ocr_confidence": 0.847,
     "source_text": {
       "fvm": "157(154)",
       "quotation": "20(20)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:douvikas"
   },
   {
     "role": "A",
@@ -1827,13 +1928,14 @@
     "quotation": 11,
     "quotation_prev": 12,
     "page": 2,
-    "team_number": 25,
-    "ocr_confidence": 0.885,
+    "team_number": 26,
+    "ocr_confidence": 0.898,
     "source_text": {
       "fvm": "50(52)",
       "quotation": "11(12)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:diao"
   },
   {
     "role": "A",
@@ -1845,13 +1947,14 @@
     "quotation": 4,
     "quotation_prev": 3,
     "page": 2,
-    "team_number": 26,
-    "ocr_confidence": 0.889,
+    "team_number": 27,
+    "ocr_confidence": 0.89,
     "source_text": {
       "fvm": "10(8)",
       "quotation": "4(3)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:morata"
   },
   {
     "role": "A",
@@ -1863,13 +1966,14 @@
     "quotation": 3,
     "quotation_prev": 4,
     "page": 2,
-    "team_number": 27,
-    "ocr_confidence": 0.902,
+    "team_number": 28,
+    "ocr_confidence": 0.883,
     "source_text": {
       "fvm": "5(7)",
       "quotation": "3(4)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:kuhn"
   },
   {
     "role": "A",
@@ -1881,13 +1985,14 @@
     "quotation": 1,
     "quotation_prev": 1,
     "page": 2,
-    "team_number": 28,
-    "ocr_confidence": 0.895,
+    "team_number": 29,
+    "ocr_confidence": 0.894,
     "source_text": {
       "fvm": "1(1)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:azon"
   },
   {
     "role": "P",
@@ -1905,7 +2010,8 @@
       "fvm": "45(45)",
       "quotation": "13(13)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:degea"
   },
   {
     "role": "P",
@@ -1923,7 +2029,8 @@
       "fvm": "1(1)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:christenseno"
   },
   {
     "role": "P",
@@ -1936,12 +2043,13 @@
     "quotation_prev": 1,
     "page": 2,
     "team_number": 3,
-    "ocr_confidence": 0.806,
+    "ocr_confidence": 0.807,
     "source_text": {
       "fvm": "1(1)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:lezzerini"
   },
   {
     "role": "D",
@@ -1954,12 +2062,13 @@
     "quotation_prev": 10,
     "page": 2,
     "team_number": 4,
-    "ocr_confidence": 0.922,
+    "ocr_confidence": 0.91,
     "source_text": {
       "fvm": "30(30)",
       "quotation": "10(10)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:dodo"
   },
   {
     "role": "D",
@@ -1972,12 +2081,13 @@
     "quotation_prev": 8,
     "page": 2,
     "team_number": 5,
-    "ocr_confidence": 0.904,
+    "ocr_confidence": 0.901,
     "source_text": {
       "fvm": "27(27)",
       "quotation": "8(8)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:dragusin"
   },
   {
     "role": "D",
@@ -1990,12 +2100,13 @@
     "quotation_prev": 9,
     "page": 2,
     "team_number": 6,
-    "ocr_confidence": 0.903,
+    "ocr_confidence": 0.905,
     "source_text": {
       "fvm": "23(25)",
       "quotation": "8(9)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:jimeneza"
   },
   {
     "role": "D",
@@ -2008,12 +2119,13 @@
     "quotation_prev": 7,
     "page": 2,
     "team_number": 7,
-    "ocr_confidence": 0.933,
+    "ocr_confidence": 0.929,
     "source_text": {
       "fvm": "18(20)",
       "quotation": "6(7)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:valdepenas"
   },
   {
     "role": "D",
@@ -2026,12 +2138,13 @@
     "quotation_prev": 7,
     "page": 2,
     "team_number": 8,
-    "ocr_confidence": 0.922,
+    "ocr_confidence": 0.919,
     "source_text": {
       "fvm": "19(21)",
       "quotation": "6(7)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:viery"
   },
   {
     "role": "D",
@@ -2044,12 +2157,13 @@
     "quotation_prev": 5,
     "page": 2,
     "team_number": 9,
-    "ocr_confidence": 0.887,
+    "ocr_confidence": 0.891,
     "source_text": {
       "fvm": "12(12)",
       "quotation": "5(5)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:parisi"
   },
   {
     "role": "D",
@@ -2062,12 +2176,13 @@
     "quotation_prev": 4,
     "page": 2,
     "team_number": 10,
-    "ocr_confidence": 0.841,
+    "ocr_confidence": 0.836,
     "source_text": {
       "fvm": "8(8)",
       "quotation": "4(4)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:pongracic"
   },
   {
     "role": "D",
@@ -2080,12 +2195,13 @@
     "quotation_prev": 3,
     "page": 2,
     "team_number": 11,
-    "ocr_confidence": 0.957,
+    "ocr_confidence": 0.937,
     "source_text": {
       "fvm": "7(7)",
       "quotation": "3(3)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:joaomario"
   },
   {
     "role": "D",
@@ -2098,12 +2214,13 @@
     "quotation_prev": 3,
     "page": 2,
     "team_number": 12,
-    "ocr_confidence": 0.897,
+    "ocr_confidence": 0.884,
     "source_text": {
       "fvm": "7(7)",
       "quotation": "3(3)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:ranieril"
   },
   {
     "role": "C",
@@ -2116,12 +2233,13 @@
     "quotation_prev": 17,
     "page": 2,
     "team_number": 13,
-    "ocr_confidence": 0.922,
+    "ocr_confidence": 0.931,
     "source_text": {
       "fvm": "87(87)",
       "quotation": "17(17)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:atta"
   },
   {
     "role": "C",
@@ -2134,12 +2252,32 @@
     "quotation_prev": 12,
     "page": 2,
     "team_number": 14,
-    "ocr_confidence": 0.91,
+    "ocr_confidence": 0.912,
     "source_text": {
       "fvm": "61(58)",
       "quotation": "13(12)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:gudmundssona"
+  },
+  {
+    "role": "C",
+    "role_detail": "C(W,T)",
+    "name": "Mastantuono",
+    "club": "Fiorentina",
+    "fvm": 58,
+    "fvm_prev": 58,
+    "quotation": 12,
+    "quotation_prev": 12,
+    "page": 2,
+    "team_number": 15,
+    "ocr_confidence": 0.977,
+    "source_text": {
+      "fvm": "58(58)",
+      "quotation": "12(12)"
+    },
+    "manually_verified": false,
+    "id": "player:mastantuono"
   },
   {
     "role": "C",
@@ -2151,13 +2289,14 @@
     "quotation": 9,
     "quotation_prev": 9,
     "page": 2,
-    "team_number": 15,
-    "ocr_confidence": 0.949,
+    "team_number": 16,
+    "ocr_confidence": 0.932,
     "source_text": {
       "fvm": "28(28)",
       "quotation": "9(9)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:mandragora"
   },
   {
     "role": "C",
@@ -2169,13 +2308,14 @@
     "quotation": 8,
     "quotation_prev": 9,
     "page": 2,
-    "team_number": 16,
-    "ocr_confidence": 0.912,
+    "team_number": 17,
+    "ocr_confidence": 0.933,
     "source_text": {
       "fvm": "23(25)",
       "quotation": "8(9)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:fagioli"
   },
   {
     "role": "C",
@@ -2187,13 +2327,14 @@
     "quotation": 8,
     "quotation_prev": 8,
     "page": 2,
-    "team_number": 17,
-    "ocr_confidence": 0.951,
+    "team_number": 18,
+    "ocr_confidence": 0.65,
     "source_text": {
       "fvm": "25(25)",
       "quotation": "8(8)"
     },
-    "manually_verified": false
+    "manually_verified": true,
+    "id": "player:ndour"
   },
   {
     "role": "C",
@@ -2205,13 +2346,14 @@
     "quotation": 6,
     "quotation_prev": 7,
     "page": 2,
-    "team_number": 18,
-    "ocr_confidence": 0.934,
+    "team_number": 19,
+    "ocr_confidence": 0.927,
     "source_text": {
       "fvm": "20(22)",
       "quotation": "6(7)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:oulai"
   },
   {
     "role": "C",
@@ -2223,13 +2365,14 @@
     "quotation": 4,
     "quotation_prev": 4,
     "page": 2,
-    "team_number": 19,
-    "ocr_confidence": 0.892,
+    "team_number": 20,
+    "ocr_confidence": 0.906,
     "source_text": {
       "fvm": "8(8)",
       "quotation": "4(4)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:fabbian"
   },
   {
     "role": "C",
@@ -2241,17 +2384,18 @@
     "quotation": 3,
     "quotation_prev": 3,
     "page": 2,
-    "team_number": 20,
-    "ocr_confidence": 0.916,
+    "team_number": 21,
+    "ocr_confidence": 0.896,
     "source_text": {
       "fvm": "7(7)",
       "quotation": "3(3)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:brescianini"
   },
   {
     "role": "A",
-    "role_detail": "A(Pc)",
+    "role_detail": "A(PC)",
     "name": "Kean",
     "club": "Fiorentina",
     "fvm": 212,
@@ -2259,17 +2403,18 @@
     "quotation": 25,
     "quotation_prev": 25,
     "page": 2,
-    "team_number": 21,
-    "ocr_confidence": 0.901,
+    "team_number": 22,
+    "ocr_confidence": 0.861,
     "source_text": {
       "fvm": "212(212)",
       "quotation": "25(25)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:kean"
   },
   {
     "role": "A",
-    "role_detail": "A(Pc)",
+    "role_detail": "A(PC)",
     "name": "Piccoli",
     "club": "Fiorentina",
     "fvm": 24,
@@ -2277,13 +2422,14 @@
     "quotation": 8,
     "quotation_prev": 7,
     "page": 2,
-    "team_number": 22,
-    "ocr_confidence": 0.869,
+    "team_number": 23,
+    "ocr_confidence": 0.882,
     "source_text": {
       "fvm": "24(21)",
       "quotation": "8(7)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:piccoli"
   },
   {
     "role": "P",
@@ -2296,12 +2442,13 @@
     "quotation_prev": 4,
     "page": 2,
     "team_number": 1,
-    "ocr_confidence": 0.93,
+    "ocr_confidence": 0.935,
     "source_text": {
       "fvm": "8(8)",
       "quotation": "4(4)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:palmisani"
   },
   {
     "role": "P",
@@ -2314,12 +2461,13 @@
     "quotation_prev": 2,
     "page": 2,
     "team_number": 2,
-    "ocr_confidence": 0.941,
+    "ocr_confidence": 0.922,
     "source_text": {
       "fvm": "8(8)",
       "quotation": "2(2)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:desplanches"
   },
   {
     "role": "P",
@@ -2332,12 +2480,13 @@
     "quotation_prev": 1,
     "page": 2,
     "team_number": 3,
-    "ocr_confidence": 0.888,
+    "ocr_confidence": 0.917,
     "source_text": {
       "fvm": "1(1)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:lolic"
   },
   {
     "role": "D",
@@ -2350,12 +2499,13 @@
     "quotation_prev": 6,
     "page": 2,
     "team_number": 4,
-    "ocr_confidence": 0.952,
+    "ocr_confidence": 0.958,
     "source_text": {
       "fvm": "14(14)",
       "quotation": "6(6)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:monterisi"
   },
   {
     "role": "D",
@@ -2368,12 +2518,13 @@
     "quotation_prev": 5,
     "page": 2,
     "team_number": 5,
-    "ocr_confidence": 0.937,
+    "ocr_confidence": 0.939,
     "source_text": {
       "fvm": "11(13)",
       "quotation": "5(5)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:bracaglia"
   },
   {
     "role": "D",
@@ -2386,12 +2537,13 @@
     "quotation_prev": 5,
     "page": 2,
     "team_number": 6,
-    "ocr_confidence": 0.888,
+    "ocr_confidence": 0.943,
     "source_text": {
       "fvm": "12(12)",
       "quotation": "5(5)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:oyonoa"
   },
   {
     "role": "D",
@@ -2404,12 +2556,13 @@
     "quotation_prev": 4,
     "page": 2,
     "team_number": 7,
-    "ocr_confidence": 0.871,
+    "ocr_confidence": 1.0,
     "source_text": {
       "fvm": "10(10)",
       "quotation": "4(4)"
     },
-    "manually_verified": false
+    "manually_verified": true,
+    "id": "player:calvani"
   },
   {
     "role": "D",
@@ -2422,12 +2575,13 @@
     "quotation_prev": 3,
     "page": 2,
     "team_number": 8,
-    "ocr_confidence": 0.907,
+    "ocr_confidence": 0.903,
     "source_text": {
       "fvm": "7(7)",
       "quotation": "3(3)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:akpoguma"
   },
   {
     "role": "D",
@@ -2440,12 +2594,13 @@
     "quotation_prev": 3,
     "page": 2,
     "team_number": 9,
-    "ocr_confidence": 0.921,
+    "ocr_confidence": 0.922,
     "source_text": {
       "fvm": "8(8)",
       "quotation": "3(3)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:cittadini"
   },
   {
     "role": "D",
@@ -2458,12 +2613,13 @@
     "quotation_prev": 1,
     "page": 2,
     "team_number": 10,
-    "ocr_confidence": 0.909,
+    "ocr_confidence": 0.833,
     "source_text": {
-      "fvm": "1(1)",
+      "fvm": "1（1)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:amey"
   },
   {
     "role": "D",
@@ -2476,12 +2632,13 @@
     "quotation_prev": 1,
     "page": 2,
     "team_number": 11,
-    "ocr_confidence": 0.877,
+    "ocr_confidence": 0.913,
     "source_text": {
       "fvm": "3(3)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:corrado"
   },
   {
     "role": "D",
@@ -2494,12 +2651,13 @@
     "quotation_prev": 1,
     "page": 2,
     "team_number": 12,
-    "ocr_confidence": 0.919,
+    "ocr_confidence": 0.868,
     "source_text": {
       "fvm": "1(1)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:gellij"
   },
   {
     "role": "D",
@@ -2512,12 +2670,13 @@
     "quotation_prev": 1,
     "page": 2,
     "team_number": 13,
-    "ocr_confidence": 0.869,
+    "ocr_confidence": 0.929,
     "source_text": {
       "fvm": "3(3)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:oyonoj"
   },
   {
     "role": "C",
@@ -2530,12 +2689,13 @@
     "quotation_prev": 8,
     "page": 2,
     "team_number": 14,
-    "ocr_confidence": 0.955,
+    "ocr_confidence": 0.963,
     "source_text": {
       "fvm": "25(28)",
       "quotation": "7(8)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:calo"
   },
   {
     "role": "C",
@@ -2548,12 +2708,13 @@
     "quotation_prev": 4,
     "page": 2,
     "team_number": 15,
-    "ocr_confidence": 0.867,
+    "ocr_confidence": 0.911,
     "source_text": {
       "fvm": "13(11)",
       "quotation": "5(4)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:zerbin"
   },
   {
     "role": "C",
@@ -2566,12 +2727,13 @@
     "quotation_prev": 4,
     "page": 2,
     "team_number": 16,
-    "ocr_confidence": 0.931,
+    "ocr_confidence": 0.935,
     "source_text": {
       "fvm": "11(13)",
       "quotation": "4(4)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:cichella"
   },
   {
     "role": "C",
@@ -2584,12 +2746,13 @@
     "quotation_prev": 4,
     "page": 2,
     "team_number": 17,
-    "ocr_confidence": 0.853,
+    "ocr_confidence": 0.895,
     "source_text": {
       "fvm": "12(12)",
       "quotation": "4(4)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:koutsoupias"
   },
   {
     "role": "C",
@@ -2602,12 +2765,13 @@
     "quotation_prev": 2,
     "page": 2,
     "team_number": 18,
-    "ocr_confidence": 0.943,
+    "ocr_confidence": 0.94,
     "source_text": {
-      "fvm": "(8)6",
+      "fvm": "9(8)",
       "quotation": "3(2)"
     },
-    "manually_verified": true
+    "manually_verified": false,
+    "id": "player:fini"
   },
   {
     "role": "C",
@@ -2620,12 +2784,13 @@
     "quotation_prev": 3,
     "page": 2,
     "team_number": 19,
-    "ocr_confidence": 0.951,
+    "ocr_confidence": 0.935,
     "source_text": {
       "fvm": "8(8)",
       "quotation": "3(3)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:gellif"
   },
   {
     "role": "C",
@@ -2638,12 +2803,13 @@
     "quotation_prev": 2,
     "page": 2,
     "team_number": 20,
-    "ocr_confidence": 0.941,
+    "ocr_confidence": 0.927,
     "source_text": {
       "fvm": "5(5)",
       "quotation": "2(2)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:hasa"
   },
   {
     "role": "C",
@@ -2656,12 +2822,13 @@
     "quotation_prev": 1,
     "page": 2,
     "team_number": 21,
-    "ocr_confidence": 0.909,
+    "ocr_confidence": 0.911,
     "source_text": {
       "fvm": "3(3)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:elazzouzia"
   },
   {
     "role": "C",
@@ -2674,12 +2841,13 @@
     "quotation_prev": 1,
     "page": 2,
     "team_number": 22,
-    "ocr_confidence": 0.932,
+    "ocr_confidence": 0.907,
     "source_text": {
       "fvm": "3(3)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:koneb"
   },
   {
     "role": "A",
@@ -2692,16 +2860,17 @@
     "quotation_prev": 10,
     "page": 2,
     "team_number": 23,
-    "ocr_confidence": 0.957,
+    "ocr_confidence": 0.898,
     "source_text": {
       "fvm": "30(32)",
       "quotation": "9(10)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:ghedjemis"
   },
   {
     "role": "A",
-    "role_detail": "A(Pc)",
+    "role_detail": "A(PC)",
     "name": "Raimondo",
     "club": "Frosinone",
     "fvm": 24,
@@ -2710,12 +2879,13 @@
     "quotation_prev": 6,
     "page": 2,
     "team_number": 24,
-    "ocr_confidence": 0.923,
+    "ocr_confidence": 0.894,
     "source_text": {
       "fvm": "24(21)",
       "quotation": "7(6)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:raimondo"
   },
   {
     "role": "A",
@@ -2728,12 +2898,13 @@
     "quotation_prev": 5,
     "page": 2,
     "team_number": 25,
-    "ocr_confidence": 0.922,
+    "ocr_confidence": 0.897,
     "source_text": {
       "fvm": "15(16)",
       "quotation": "4(5)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:kvernadze"
   },
   {
     "role": "P",
@@ -2746,12 +2917,13 @@
     "quotation_prev": 8,
     "page": 2,
     "team_number": 1,
-    "ocr_confidence": 0.958,
+    "ocr_confidence": 0.942,
     "source_text": {
       "fvm": "18(18)",
       "quotation": "8(8)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:bijlow"
   },
   {
     "role": "P",
@@ -2764,12 +2936,13 @@
     "quotation_prev": 1,
     "page": 2,
     "team_number": 2,
-    "ocr_confidence": 0.876,
+    "ocr_confidence": 0.894,
     "source_text": {
       "fvm": "1(1)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:sommariva"
   },
   {
     "role": "P",
@@ -2782,12 +2955,13 @@
     "quotation_prev": 1,
     "page": 2,
     "team_number": 3,
-    "ocr_confidence": 0.905,
+    "ocr_confidence": 0.941,
     "source_text": {
       "fvm": "1(1)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:stolz"
   },
   {
     "role": "D",
@@ -2800,12 +2974,13 @@
     "quotation_prev": 11,
     "page": 2,
     "team_number": 4,
-    "ocr_confidence": 0.961,
+    "ocr_confidence": 0.881,
     "source_text": {
       "fvm": "40(40)",
       "quotation": "11(11)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:ostigard"
   },
   {
     "role": "D",
@@ -2818,12 +2993,13 @@
     "quotation_prev": 10,
     "page": 2,
     "team_number": 5,
-    "ocr_confidence": 0.914,
+    "ocr_confidence": 0.951,
     "source_text": {
       "fvm": "33(35)",
       "quotation": "9(10)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:vasquez"
   },
   {
     "role": "D",
@@ -2836,12 +3012,13 @@
     "quotation_prev": 8,
     "page": 2,
     "team_number": 6,
-    "ocr_confidence": 0.955,
+    "ocr_confidence": 0.934,
     "source_text": {
       "fvm": "22(22)",
       "quotation": "8(8)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:nortoncuffy"
   },
   {
     "role": "D",
@@ -2854,12 +3031,13 @@
     "quotation_prev": 6,
     "page": 2,
     "team_number": 7,
-    "ocr_confidence": 0.918,
+    "ocr_confidence": 0.907,
     "source_text": {
       "fvm": "13(13)",
       "quotation": "6(6)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:marcandalli"
   },
   {
     "role": "D",
@@ -2872,12 +3050,13 @@
     "quotation_prev": 5,
     "page": 2,
     "team_number": 8,
-    "ocr_confidence": 0.911,
+    "ocr_confidence": 0.912,
     "source_text": {
       "fvm": "15(15)",
       "quotation": "5(5)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:martin"
   },
   {
     "role": "D",
@@ -2890,12 +3069,13 @@
     "quotation_prev": 4,
     "page": 2,
     "team_number": 9,
-    "ocr_confidence": 0.891,
+    "ocr_confidence": 0.892,
     "source_text": {
       "fvm": "(6)6",
       "quotation": "4(4)"
     },
-    "manually_verified": true
+    "manually_verified": true,
+    "id": "player:mitaj"
   },
   {
     "role": "D",
@@ -2908,12 +3088,13 @@
     "quotation_prev": 2,
     "page": 2,
     "team_number": 10,
-    "ocr_confidence": 0.906,
+    "ocr_confidence": 0.898,
     "source_text": {
       "fvm": "5(5)",
       "quotation": "2(2)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:otoa"
   },
   {
     "role": "D",
@@ -2926,12 +3107,13 @@
     "quotation_prev": 2,
     "page": 2,
     "team_number": 11,
-    "ocr_confidence": 0.955,
+    "ocr_confidence": 0.965,
     "source_text": {
       "fvm": "7(7)",
       "quotation": "2(2)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:puczka"
   },
   {
     "role": "D",
@@ -2944,12 +3126,13 @@
     "quotation_prev": 2,
     "page": 2,
     "team_number": 12,
-    "ocr_confidence": 0.925,
+    "ocr_confidence": 0.823,
     "source_text": {
       "fvm": "5(5)",
       "quotation": "2(2)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:sabelli"
   },
   {
     "role": "D",
@@ -2962,12 +3145,13 @@
     "quotation_prev": 1,
     "page": 2,
     "team_number": 13,
-    "ocr_confidence": 0.791,
+    "ocr_confidence": 0.891,
     "source_text": {
       "fvm": "2(2)",
-      "quotation": "1（1)"
+      "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:matturro"
   },
   {
     "role": "C",
@@ -2980,12 +3164,13 @@
     "quotation_prev": 10,
     "page": 2,
     "team_number": 14,
-    "ocr_confidence": 0.614,
+    "ocr_confidence": 0.606,
     "source_text": {
       "fvm": "30(27)",
       "quotation": "11(10)"
     },
-    "manually_verified": true
+    "manually_verified": true,
+    "id": "player:baldanzi"
   },
   {
     "role": "C",
@@ -2998,12 +3183,13 @@
     "quotation_prev": 8,
     "page": 2,
     "team_number": 15,
-    "ocr_confidence": 0.891,
+    "ocr_confidence": 0.912,
     "source_text": {
       "fvm": "19(21)",
       "quotation": "7(8)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:frendrup"
   },
   {
     "role": "C",
@@ -3016,12 +3202,13 @@
     "quotation_prev": 8,
     "page": 2,
     "team_number": 16,
-    "ocr_confidence": 0.953,
+    "ocr_confidence": 0.891,
     "source_text": {
       "fvm": "14(17)",
       "quotation": "7(8)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:sow"
   },
   {
     "role": "C",
@@ -3034,12 +3221,13 @@
     "quotation_prev": 7,
     "page": 2,
     "team_number": 17,
-    "ocr_confidence": 0.886,
+    "ocr_confidence": 0.929,
     "source_text": {
       "fvm": "18(21)",
       "quotation": "6(7)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:ellertsson"
   },
   {
     "role": "C",
@@ -3052,12 +3240,13 @@
     "quotation_prev": 5,
     "page": 2,
     "team_number": 18,
-    "ocr_confidence": 0.93,
+    "ocr_confidence": 0.945,
     "source_text": {
       "fvm": "14(14)",
       "quotation": "5(5)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:meichtry"
   },
   {
     "role": "C",
@@ -3070,12 +3259,13 @@
     "quotation_prev": 5,
     "page": 2,
     "team_number": 19,
-    "ocr_confidence": 0.939,
+    "ocr_confidence": 0.925,
     "source_text": {
       "fvm": "11(11)",
       "quotation": "5(5)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:traorehj"
   },
   {
     "role": "C",
@@ -3088,12 +3278,13 @@
     "quotation_prev": 5,
     "page": 2,
     "team_number": 20,
-    "ocr_confidence": 0.917,
+    "ocr_confidence": 0.902,
     "source_text": {
       "fvm": "11(13)",
       "quotation": "4(5)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:amorim"
   },
   {
     "role": "C",
@@ -3106,12 +3297,13 @@
     "quotation_prev": 3,
     "page": 2,
     "team_number": 21,
-    "ocr_confidence": 0.909,
+    "ocr_confidence": 0.922,
     "source_text": {
       "fvm": "8(8)",
       "quotation": "3(3)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:messias"
   },
   {
     "role": "C",
@@ -3124,12 +3316,13 @@
     "quotation_prev": 2,
     "page": 2,
     "team_number": 22,
-    "ocr_confidence": 0.871,
+    "ocr_confidence": 0.898,
     "source_text": {
       "fvm": "4(4)",
       "quotation": "2(2)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:masini"
   },
   {
     "role": "C",
@@ -3142,12 +3335,13 @@
     "quotation_prev": 2,
     "page": 2,
     "team_number": 23,
-    "ocr_confidence": 0.946,
+    "ocr_confidence": 0.933,
     "source_text": {
       "fvm": "6(5)",
       "quotation": "2(2)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:venturino"
   },
   {
     "role": "A",
@@ -3160,12 +3354,13 @@
     "quotation_prev": 10,
     "page": 2,
     "team_number": 24,
-    "ocr_confidence": 0.879,
+    "ocr_confidence": 0.895,
     "source_text": {
       "fvm": "63(60)",
       "quotation": "11(10)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:colombo"
   },
   {
     "role": "A",
@@ -3176,14 +3371,15 @@
     "fvm_prev": 21,
     "quotation": 8,
     "quotation_prev": 8,
-    "page": 2,
+    "page": 3,
     "team_number": 25,
-    "ocr_confidence": 0.932,
+    "ocr_confidence": 0.941,
     "source_text": {
       "fvm": "20(21)",
       "quotation": "8(8)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:vitinhao"
   },
   {
     "role": "A",
@@ -3196,12 +3392,13 @@
     "quotation_prev": 3,
     "page": 3,
     "team_number": 26,
-    "ocr_confidence": 0.954,
+    "ocr_confidence": 0.91,
     "source_text": {
       "fvm": "9(7)",
       "quotation": "4(3)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:havel"
   },
   {
     "role": "P",
@@ -3214,12 +3411,13 @@
     "quotation_prev": 17,
     "page": 3,
     "team_number": 1,
-    "ocr_confidence": 0.978,
+    "ocr_confidence": 0.971,
     "source_text": {
       "fvm": "63(63)",
       "quotation": "17(17)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:martinezjo"
   },
   {
     "role": "P",
@@ -3232,12 +3430,13 @@
     "quotation_prev": 2,
     "page": 3,
     "team_number": 2,
-    "ocr_confidence": 0.913,
+    "ocr_confidence": 0.943,
     "source_text": {
       "fvm": "5(5)",
       "quotation": "2(2)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:provedel"
   },
   {
     "role": "P",
@@ -3250,12 +3449,13 @@
     "quotation_prev": 1,
     "page": 3,
     "team_number": 3,
-    "ocr_confidence": 0.958,
+    "ocr_confidence": 0.839,
     "source_text": {
       "fvm": "1(1)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:digennaro"
   },
   {
     "role": "D",
@@ -3263,17 +3463,18 @@
     "name": "Dimarco",
     "club": "Inter",
     "fvm": 265,
-    "fvm_prev": 255,
+    "fvm_prev": 265,
     "quotation": 32,
     "quotation_prev": 30,
     "page": 3,
     "team_number": 4,
-    "ocr_confidence": 0.882,
+    "ocr_confidence": 0.965,
     "source_text": {
-      "fvm": "265(255)",
+      "fvm": "265(265)",
       "quotation": "32(30)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:dimarco"
   },
   {
     "role": "D",
@@ -3286,12 +3487,13 @@
     "quotation_prev": 16,
     "page": 3,
     "team_number": 5,
-    "ocr_confidence": 0.927,
+    "ocr_confidence": 0.919,
     "source_text": {
       "fvm": "55(55)",
       "quotation": "16(16)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:akanji"
   },
   {
     "role": "D",
@@ -3304,12 +3506,13 @@
     "quotation_prev": 14,
     "page": 3,
     "team_number": 6,
-    "ocr_confidence": 0.927,
+    "ocr_confidence": 0.617,
     "source_text": {
       "fvm": "44(44)",
       "quotation": "14(14)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:bastoni"
   },
   {
     "role": "D",
@@ -3322,12 +3525,13 @@
     "quotation_prev": 12,
     "page": 3,
     "team_number": 7,
-    "ocr_confidence": 0.952,
+    "ocr_confidence": 0.902,
     "source_text": {
       "fvm": "38(38)",
       "quotation": "12(12)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:stones"
   },
   {
     "role": "D",
@@ -3340,12 +3544,13 @@
     "quotation_prev": 11,
     "page": 3,
     "team_number": 8,
-    "ocr_confidence": 0.933,
+    "ocr_confidence": 0.908,
     "source_text": {
       "fvm": "33(33)",
       "quotation": "11(11)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:bisseck"
   },
   {
     "role": "D",
@@ -3358,12 +3563,13 @@
     "quotation_prev": 8,
     "page": 3,
     "team_number": 9,
-    "ocr_confidence": 0.935,
+    "ocr_confidence": 0.898,
     "source_text": {
       "fvm": "27(30)",
       "quotation": "7(8)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:carlosaugusto"
   },
   {
     "role": "D",
@@ -3376,12 +3582,13 @@
     "quotation_prev": 7,
     "page": 3,
     "team_number": 10,
-    "ocr_confidence": 0.903,
+    "ocr_confidence": 0.93,
     "source_text": {
       "fvm": "18(20)",
       "quotation": "6(7)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:pavard"
   },
   {
     "role": "C",
@@ -3394,12 +3601,13 @@
     "quotation_prev": 28,
     "page": 3,
     "team_number": 11,
-    "ocr_confidence": 0.954,
+    "ocr_confidence": 0.95,
     "source_text": {
       "fvm": "230(260)",
       "quotation": "27(28)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:calhanoglu"
   },
   {
     "role": "C",
@@ -3412,12 +3620,13 @@
     "quotation_prev": 17,
     "page": 3,
     "team_number": 12,
-    "ocr_confidence": 0.964,
+    "ocr_confidence": 0.959,
     "source_text": {
       "fvm": "82(82)",
       "quotation": "17(17)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:barella"
   },
   {
     "role": "C",
@@ -3430,12 +3639,13 @@
     "quotation_prev": 10,
     "page": 3,
     "team_number": 13,
-    "ocr_confidence": 0.932,
+    "ocr_confidence": 0.934,
     "source_text": {
       "fvm": "41(41)",
       "quotation": "10(10)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:zielinski"
   },
   {
     "role": "C",
@@ -3448,12 +3658,13 @@
     "quotation_prev": 9,
     "page": 3,
     "team_number": 14,
-    "ocr_confidence": 0.948,
+    "ocr_confidence": 0.965,
     "source_text": {
       "fvm": "37(40)",
       "quotation": "8(9)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:diouf"
   },
   {
     "role": "C",
@@ -3466,12 +3677,13 @@
     "quotation_prev": 8,
     "page": 3,
     "team_number": 15,
-    "ocr_confidence": 0.932,
+    "ocr_confidence": 0.921,
     "source_text": {
       "fvm": "26(26)",
       "quotation": "8(8)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:sucicp"
   },
   {
     "role": "C",
@@ -3484,12 +3696,13 @@
     "quotation_prev": 7,
     "page": 3,
     "team_number": 16,
-    "ocr_confidence": 0.922,
+    "ocr_confidence": 0.918,
     "source_text": {
       "fvm": "13(13)",
       "quotation": "7(7)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:frattesi"
   },
   {
     "role": "C",
@@ -3502,12 +3715,13 @@
     "quotation_prev": 5,
     "page": 3,
     "team_number": 17,
-    "ocr_confidence": 0.888,
+    "ocr_confidence": 0.943,
     "source_text": {
       "fvm": "19(19)",
       "quotation": "5(5)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:mkhitaryan"
   },
   {
     "role": "C",
@@ -3520,12 +3734,13 @@
     "quotation_prev": 5,
     "page": 3,
     "team_number": 18,
-    "ocr_confidence": 0.925,
+    "ocr_confidence": 0.917,
     "source_text": {
       "fvm": "13(15)",
       "quotation": "4(5)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:luishenrique"
   },
   {
     "role": "C",
@@ -3538,16 +3753,17 @@
     "quotation_prev": 3,
     "page": 3,
     "team_number": 19,
-    "ocr_confidence": 0.865,
+    "ocr_confidence": 0.891,
     "source_text": {
       "fvm": "10(11)",
       "quotation": "3(3)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:stankovica"
   },
   {
     "role": "A",
-    "role_detail": "A(PC)",
+    "role_detail": "A(Pc)",
     "name": "Martinez L.",
     "club": "Inter",
     "fvm": 370,
@@ -3556,12 +3772,13 @@
     "quotation_prev": 35,
     "page": 3,
     "team_number": 20,
-    "ocr_confidence": 0.88,
+    "ocr_confidence": 0.874,
     "source_text": {
       "fvm": "370(370)",
       "quotation": "35(35)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:martinezl"
   },
   {
     "role": "A",
@@ -3574,12 +3791,13 @@
     "quotation_prev": 29,
     "page": 3,
     "team_number": 21,
-    "ocr_confidence": 0.895,
+    "ocr_confidence": 0.857,
     "source_text": {
       "fvm": "280(280)",
       "quotation": "29(29)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:thuram"
   },
   {
     "role": "A",
@@ -3592,12 +3810,13 @@
     "quotation_prev": 16,
     "page": 3,
     "team_number": 22,
-    "ocr_confidence": 0.882,
+    "ocr_confidence": 0.847,
     "source_text": {
       "fvm": "93(90)",
       "quotation": "16(16)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:espositofp"
   },
   {
     "role": "A",
@@ -3610,12 +3829,13 @@
     "quotation_prev": 6,
     "page": 3,
     "team_number": 23,
-    "ocr_confidence": 0.867,
+    "ocr_confidence": 0.915,
     "source_text": {
       "fvm": "21(18)",
       "quotation": "7(6)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:bonny"
   },
   {
     "role": "P",
@@ -3628,12 +3848,13 @@
     "quotation_prev": 9,
     "page": 3,
     "team_number": 1,
-    "ocr_confidence": 0.957,
+    "ocr_confidence": 0.95,
     "source_text": {
       "fvm": "40(40)",
-      "quotation": "9(9)"
+      "quotation": "(6)6"
     },
-    "manually_verified": false
+    "manually_verified": true,
+    "id": "player:digregorio"
   },
   {
     "role": "P",
@@ -3646,12 +3867,13 @@
     "quotation_prev": 6,
     "page": 3,
     "team_number": 2,
-    "ocr_confidence": 0.919,
+    "ocr_confidence": 0.946,
     "source_text": {
       "fvm": "10(10)",
       "quotation": "6(6)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:perin"
   },
   {
     "role": "P",
@@ -3664,12 +3886,13 @@
     "quotation_prev": 1,
     "page": 3,
     "team_number": 3,
-    "ocr_confidence": 0.876,
+    "ocr_confidence": 0.894,
     "source_text": {
       "fvm": "1(1)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:pinsoglio"
   },
   {
     "role": "D",
@@ -3682,12 +3905,13 @@
     "quotation_prev": 15,
     "page": 3,
     "team_number": 4,
-    "ocr_confidence": 0.903,
+    "ocr_confidence": 0.954,
     "source_text": {
       "fvm": "50(50)",
       "quotation": "15(15)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:bremer"
   },
   {
     "role": "D",
@@ -3700,12 +3924,13 @@
     "quotation_prev": 14,
     "page": 3,
     "team_number": 5,
-    "ocr_confidence": 0.954,
+    "ocr_confidence": 0.946,
     "source_text": {
       "fvm": "46(48)",
       "quotation": "13(14)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:kalulu"
   },
   {
     "role": "D",
@@ -3718,12 +3943,13 @@
     "quotation_prev": 10,
     "page": 3,
     "team_number": 6,
-    "ocr_confidence": 0.963,
+    "ocr_confidence": 0.723,
     "source_text": {
       "fvm": "27(30)",
       "quotation": "9(10)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:cambiaso"
   },
   {
     "role": "D",
@@ -3736,12 +3962,13 @@
     "quotation_prev": 9,
     "page": 3,
     "team_number": 7,
-    "ocr_confidence": 0.94,
+    "ocr_confidence": 0.946,
     "source_text": {
       "fvm": "21(23)",
       "quotation": "8(9)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:celik"
   },
   {
     "role": "D",
@@ -3754,12 +3981,13 @@
     "quotation_prev": 6,
     "page": 3,
     "team_number": 8,
-    "ocr_confidence": 0.924,
+    "ocr_confidence": 0.944,
     "source_text": {
       "fvm": "13(15)",
       "quotation": "5(6)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:kellyl"
   },
   {
     "role": "D",
@@ -3772,12 +4000,13 @@
     "quotation_prev": 4,
     "page": 3,
     "team_number": 9,
-    "ocr_confidence": 0.907,
+    "ocr_confidence": 0.894,
     "source_text": {
       "fvm": "10(10)",
       "quotation": "4(4)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:gatti"
   },
   {
     "role": "D",
@@ -3790,12 +4019,13 @@
     "quotation_prev": 1,
     "page": 3,
     "team_number": 10,
-    "ocr_confidence": 0.908,
+    "ocr_confidence": 0.853,
     "source_text": {
       "fvm": "4(4)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:cabal"
   },
   {
     "role": "D",
@@ -3808,12 +4038,13 @@
     "quotation_prev": 1,
     "page": 3,
     "team_number": 11,
-    "ocr_confidence": 0.904,
+    "ocr_confidence": 0.869,
     "source_text": {
       "fvm": "3(3)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:rugani"
   },
   {
     "role": "C",
@@ -3826,12 +4057,13 @@
     "quotation_prev": 17,
     "page": 3,
     "team_number": 12,
-    "ocr_confidence": 0.962,
+    "ocr_confidence": 0.966,
     "source_text": {
       "fvm": "68(68)",
       "quotation": "17(17)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:mckennie"
   },
   {
     "role": "C",
@@ -3844,12 +4076,13 @@
     "quotation_prev": 12,
     "page": 3,
     "team_number": 13,
-    "ocr_confidence": 0.929,
+    "ocr_confidence": 0.896,
     "source_text": {
       "fvm": "57(57)",
       "quotation": "12(12)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:alajbegovic"
   },
   {
     "role": "C",
@@ -3862,12 +4095,13 @@
     "quotation_prev": 11,
     "page": 3,
     "team_number": 14,
-    "ocr_confidence": 0.923,
+    "ocr_confidence": 0.961,
     "source_text": {
       "fvm": "60(57)",
       "quotation": "12(11)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:conceicao"
   },
   {
     "role": "C",
@@ -3880,12 +4114,13 @@
     "quotation_prev": 10,
     "page": 3,
     "team_number": 15,
-    "ocr_confidence": 0.935,
+    "ocr_confidence": 0.926,
     "source_text": {
       "fvm": "41(41)",
       "quotation": "10(10)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:thuramk"
   },
   {
     "role": "C",
@@ -3898,12 +4133,13 @@
     "quotation_prev": 9,
     "page": 3,
     "team_number": 16,
-    "ocr_confidence": 0.911,
+    "ocr_confidence": 0.919,
     "source_text": {
       "fvm": "32(35)",
       "quotation": "8(9)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:locatelli"
   },
   {
     "role": "C",
@@ -3916,12 +4152,13 @@
     "quotation_prev": 5,
     "page": 3,
     "team_number": 17,
-    "ocr_confidence": 0.953,
+    "ocr_confidence": 0.954,
     "source_text": {
       "fvm": "18(16)",
       "quotation": "6(5)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:zhegrova"
   },
   {
     "role": "C",
@@ -3934,12 +4171,13 @@
     "quotation_prev": 5,
     "page": 3,
     "team_number": 18,
-    "ocr_confidence": 0.891,
+    "ocr_confidence": 0.932,
     "source_text": {
       "fvm": "14(14)",
       "quotation": "5(5)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:koopmeiners"
   },
   {
     "role": "C",
@@ -3952,12 +4190,13 @@
     "quotation_prev": 4,
     "page": 3,
     "team_number": 19,
-    "ocr_confidence": 0.94,
+    "ocr_confidence": 0.932,
     "source_text": {
       "fvm": "12(12)",
       "quotation": "4(4)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:douglasluiz"
   },
   {
     "role": "C",
@@ -3970,12 +4209,13 @@
     "quotation_prev": 3,
     "page": 3,
     "team_number": 20,
-    "ocr_confidence": 0.909,
+    "ocr_confidence": 0.871,
     "source_text": {
       "fvm": "11(11)",
       "quotation": "3(3)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:miretti"
   },
   {
     "role": "A",
@@ -3988,12 +4228,13 @@
     "quotation_prev": 26,
     "page": 3,
     "team_number": 21,
-    "ocr_confidence": 0.886,
+    "ocr_confidence": 0.887,
     "source_text": {
       "fvm": "225(225)",
       "quotation": "26(26)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:kolomuani"
   },
   {
     "role": "A",
@@ -4006,12 +4247,13 @@
     "quotation_prev": 24,
     "page": 3,
     "team_number": 22,
-    "ocr_confidence": 0.955,
+    "ocr_confidence": 0.948,
     "source_text": {
       "fvm": "200(205)",
       "quotation": "23(24)"
     },
-    "manually_verified": false
+    "manually_verified": true,
+    "id": "player:yildiz"
   },
   {
     "role": "A",
@@ -4024,12 +4266,13 @@
     "quotation_prev": 8,
     "page": 3,
     "team_number": 23,
-    "ocr_confidence": 0.946,
+    "ocr_confidence": 0.883,
     "source_text": {
       "fvm": "40(37)",
       "quotation": "9(8)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:david"
   },
   {
     "role": "A",
@@ -4042,12 +4285,13 @@
     "quotation_prev": 7,
     "page": 3,
     "team_number": 24,
-    "ocr_confidence": 0.892,
+    "ocr_confidence": 0.951,
     "source_text": {
       "fvm": "25(28)",
       "quotation": "6(7)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:boga"
   },
   {
     "role": "A",
@@ -4060,12 +4304,13 @@
     "quotation_prev": 3,
     "page": 3,
     "team_number": 25,
-    "ocr_confidence": 0.934,
+    "ocr_confidence": 0.915,
     "source_text": {
       "fvm": "10(10)",
       "quotation": "3(3)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:ekhator"
   },
   {
     "role": "P",
@@ -4078,12 +4323,13 @@
     "quotation_prev": 9,
     "page": 3,
     "team_number": 1,
-    "ocr_confidence": 0.957,
+    "ocr_confidence": 0.948,
     "source_text": {
       "fvm": "30(30)",
       "quotation": "9(9)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:mandas"
   },
   {
     "role": "P",
@@ -4096,12 +4342,13 @@
     "quotation_prev": 1,
     "page": 3,
     "team_number": 2,
-    "ocr_confidence": 0.895,
+    "ocr_confidence": 0.949,
     "source_text": {
       "fvm": "1(1)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:motta"
   },
   {
     "role": "P",
@@ -4114,12 +4361,13 @@
     "quotation_prev": 1,
     "page": 3,
     "team_number": 3,
-    "ocr_confidence": 0.877,
+    "ocr_confidence": 0.868,
     "source_text": {
       "fvm": "1(1)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:renzetti"
   },
   {
     "role": "D",
@@ -4132,12 +4380,13 @@
     "quotation_prev": 7,
     "page": 3,
     "team_number": 4,
-    "ocr_confidence": 0.959,
+    "ocr_confidence": 0.942,
     "source_text": {
       "fvm": "22(22)",
       "quotation": "7(7)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:doekhi"
   },
   {
     "role": "D",
@@ -4150,12 +4399,13 @@
     "quotation_prev": 7,
     "page": 3,
     "team_number": 5,
-    "ocr_confidence": 0.951,
+    "ocr_confidence": 0.915,
     "source_text": {
       "fvm": "24(24)",
       "quotation": "7(7)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:romagnoli"
   },
   {
     "role": "D",
@@ -4168,12 +4418,13 @@
     "quotation_prev": 6,
     "page": 3,
     "team_number": 6,
-    "ocr_confidence": 0.936,
+    "ocr_confidence": 0.964,
     "source_text": {
       "fvm": "20(23)",
       "quotation": "6(6)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:marusic"
   },
   {
     "role": "D",
@@ -4186,12 +4437,13 @@
     "quotation_prev": 6,
     "page": 3,
     "team_number": 7,
-    "ocr_confidence": 0.954,
+    "ocr_confidence": 0.933,
     "source_text": {
       "fvm": "17(17)",
       "quotation": "6(6)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:tavaresn"
   },
   {
     "role": "D",
@@ -4204,12 +4456,13 @@
     "quotation_prev": 5,
     "page": 3,
     "team_number": 8,
-    "ocr_confidence": 0.817,
+    "ocr_confidence": 0.944,
     "source_text": {
       "fvm": "15(15)",
       "quotation": "5(5)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:pedraza"
   },
   {
     "role": "D",
@@ -4222,12 +4475,13 @@
     "quotation_prev": 3,
     "page": 3,
     "team_number": 9,
-    "ocr_confidence": 0.835,
+    "ocr_confidence": 0.949,
     "source_text": {
       "fvm": "12(12)",
       "quotation": "3(3)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:florianimussolini"
   },
   {
     "role": "D",
@@ -4240,12 +4494,13 @@
     "quotation_prev": 3,
     "page": 3,
     "team_number": 10,
-    "ocr_confidence": 0.923,
+    "ocr_confidence": 0.937,
     "source_text": {
       "fvm": "10(10)",
       "quotation": "3(3)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:provstgaard"
   },
   {
     "role": "D",
@@ -4258,12 +4513,13 @@
     "quotation_prev": 2,
     "page": 3,
     "team_number": 11,
-    "ocr_confidence": 0.953,
+    "ocr_confidence": 0.954,
     "source_text": {
       "fvm": "8(8)",
       "quotation": "2(2)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:lazzari"
   },
   {
     "role": "D",
@@ -4276,12 +4532,13 @@
     "quotation_prev": 2,
     "page": 3,
     "team_number": 12,
-    "ocr_confidence": 0.924,
+    "ocr_confidence": 0.938,
     "source_text": {
       "fvm": "5(5)",
       "quotation": "2(2)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:pellegrinilu"
   },
   {
     "role": "D",
@@ -4294,12 +4551,13 @@
     "quotation_prev": 1,
     "page": 3,
     "team_number": 13,
-    "ocr_confidence": 0.938,
+    "ocr_confidence": 0.892,
     "source_text": {
       "fvm": "4(4)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:patric"
   },
   {
     "role": "C",
@@ -4312,12 +4570,13 @@
     "quotation_prev": 15,
     "page": 3,
     "team_number": 14,
-    "ocr_confidence": 0.951,
+    "ocr_confidence": 0.918,
     "source_text": {
       "fvm": "91(88)",
       "quotation": "16(15)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:zaccagni"
   },
   {
     "role": "C",
@@ -4330,12 +4589,13 @@
     "quotation_prev": 13,
     "page": 3,
     "team_number": 15,
-    "ocr_confidence": 0.912,
+    "ocr_confidence": 0.934,
     "source_text": {
       "fvm": "64(64)",
       "quotation": "13(13)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:taylork"
   },
   {
     "role": "C",
@@ -4348,12 +4608,13 @@
     "quotation_prev": 8,
     "page": 3,
     "team_number": 16,
-    "ocr_confidence": 0.974,
+    "ocr_confidence": 0.891,
     "source_text": {
       "fvm": "28(26)",
       "quotation": "9(8)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:cancellieri"
   },
   {
     "role": "C",
@@ -4366,12 +4627,13 @@
     "quotation_prev": 8,
     "page": 3,
     "team_number": 17,
-    "ocr_confidence": 0.928,
+    "ocr_confidence": 0.924,
     "source_text": {
       "fvm": "25(23)",
       "quotation": "9(8)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:isaksen"
   },
   {
     "role": "C",
@@ -4384,12 +4646,13 @@
     "quotation_prev": 7,
     "page": 3,
     "team_number": 18,
-    "ocr_confidence": 0.933,
+    "ocr_confidence": 0.962,
     "source_text": {
       "fvm": "16(19)",
       "quotation": "6(7)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:rovella"
   },
   {
     "role": "C",
@@ -4402,12 +4665,13 @@
     "quotation_prev": 5,
     "page": 3,
     "team_number": 19,
-    "ocr_confidence": 0.922,
+    "ocr_confidence": 0.917,
     "source_text": {
       "fvm": "13(13)",
       "quotation": "5(5)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:delebashiru"
   },
   {
     "role": "C",
@@ -4420,12 +4684,13 @@
     "quotation_prev": 5,
     "page": 3,
     "team_number": 20,
-    "ocr_confidence": 0.939,
+    "ocr_confidence": 0.951,
     "source_text": {
       "fvm": "12(15)",
       "quotation": "4(5)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:cataldi"
   },
   {
     "role": "C",
@@ -4438,12 +4703,13 @@
     "quotation_prev": 1,
     "page": 3,
     "team_number": 21,
-    "ocr_confidence": 0.938,
+    "ocr_confidence": 0.916,
     "source_text": {
       "fvm": "5(5)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:belahyane"
   },
   {
     "role": "C",
@@ -4456,12 +4722,13 @@
     "quotation_prev": 1,
     "page": 3,
     "team_number": 22,
-    "ocr_confidence": 0.896,
+    "ocr_confidence": 0.929,
     "source_text": {
       "fvm": "5(5)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:przyborek"
   },
   {
     "role": "A",
@@ -4474,16 +4741,17 @@
     "quotation_prev": 11,
     "page": 3,
     "team_number": 23,
-    "ocr_confidence": 0.935,
+    "ocr_confidence": 0.942,
     "source_text": {
       "fvm": "31(33)",
       "quotation": "10(11)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:dia"
   },
   {
     "role": "A",
-    "role_detail": "A(Pc)",
+    "role_detail": "A(PC)",
     "name": "Ratkov",
     "club": "Lazio",
     "fvm": 32,
@@ -4492,12 +4760,13 @@
     "quotation_prev": 9,
     "page": 3,
     "team_number": 24,
-    "ocr_confidence": 0.873,
+    "ocr_confidence": 0.912,
     "source_text": {
       "fvm": "32(29)",
       "quotation": "10(9)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:ratkov"
   },
   {
     "role": "A",
@@ -4510,12 +4779,13 @@
     "quotation_prev": 6,
     "page": 3,
     "team_number": 25,
-    "ocr_confidence": 0.932,
+    "ocr_confidence": 0.956,
     "source_text": {
       "fvm": "17(17)",
       "quotation": "6(6)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:noslin"
   },
   {
     "role": "P",
@@ -4528,12 +4798,13 @@
     "quotation_prev": 8,
     "page": 3,
     "team_number": 1,
-    "ocr_confidence": 0.967,
+    "ocr_confidence": 0.928,
     "source_text": {
       "fvm": "25(25)",
       "quotation": "8(8)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:falcone"
   },
   {
     "role": "P",
@@ -4546,12 +4817,13 @@
     "quotation_prev": 1,
     "page": 3,
     "team_number": 2,
-    "ocr_confidence": 0.888,
+    "ocr_confidence": 0.961,
     "source_text": {
       "fvm": "1(1)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:samooja"
   },
   {
     "role": "D",
@@ -4564,12 +4836,13 @@
     "quotation_prev": 7,
     "page": 3,
     "team_number": 3,
-    "ocr_confidence": 0.92,
+    "ocr_confidence": 0.886,
     "source_text": {
       "fvm": "17(17)",
       "quotation": "7(7)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:tiagogabriel"
   },
   {
     "role": "D",
@@ -4582,12 +4855,13 @@
     "quotation_prev": 6,
     "page": 3,
     "team_number": 4,
-    "ocr_confidence": 0.92,
+    "ocr_confidence": 0.911,
     "source_text": {
       "fvm": "13(13)",
       "quotation": "6(6)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:gallo"
   },
   {
     "role": "D",
@@ -4600,12 +4874,13 @@
     "quotation_prev": 5,
     "page": 3,
     "team_number": 5,
-    "ocr_confidence": 0.891,
+    "ocr_confidence": 0.895,
     "source_text": {
       "fvm": "12(12)",
       "quotation": "5(5)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:gaspark"
   },
   {
     "role": "D",
@@ -4618,12 +4893,32 @@
     "quotation_prev": 5,
     "page": 3,
     "team_number": 6,
-    "ocr_confidence": 0.937,
+    "ocr_confidence": 1.0,
     "source_text": {
       "fvm": "11(11)",
       "quotation": "5(5)"
     },
-    "manually_verified": false
+    "manually_verified": true,
+    "id": "player:veigad"
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dc)",
+    "name": "Siebert",
+    "club": "Lecce",
+    "fvm": 12,
+    "fvm_prev": 12,
+    "quotation": 4,
+    "quotation_prev": 4,
+    "page": 3,
+    "team_number": 7,
+    "ocr_confidence": 0.875,
+    "source_text": {
+      "fvm": "12(12)",
+      "quotation": "4(4)"
+    },
+    "manually_verified": false,
+    "id": "player:siebert"
   },
   {
     "role": "D",
@@ -4636,12 +4931,13 @@
     "quotation_prev": 2,
     "page": 3,
     "team_number": 8,
-    "ocr_confidence": 0.824,
+    "ocr_confidence": 0.875,
     "source_text": {
       "fvm": "4(4)",
       "quotation": "2(2)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:jean"
   },
   {
     "role": "D",
@@ -4654,12 +4950,13 @@
     "quotation_prev": 1,
     "page": 3,
     "team_number": 9,
-    "ocr_confidence": 0.926,
+    "ocr_confidence": 0.952,
     "source_text": {
       "fvm": "4(4)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:ndaba"
   },
   {
     "role": "D",
@@ -4672,12 +4969,13 @@
     "quotation_prev": 1,
     "page": 3,
     "team_number": 10,
-    "ocr_confidence": 0.95,
+    "ocr_confidence": 0.907,
     "source_text": {
       "fvm": "1(1)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:perezm"
   },
   {
     "role": "C",
@@ -4690,12 +4988,13 @@
     "quotation_prev": 7,
     "page": 3,
     "team_number": 11,
-    "ocr_confidence": 0.906,
+    "ocr_confidence": 0.898,
     "source_text": {
       "fvm": "14(16)",
       "quotation": "6(7)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:coulibalyl"
   },
   {
     "role": "C",
@@ -4708,12 +5007,13 @@
     "quotation_prev": 5,
     "page": 3,
     "team_number": 12,
-    "ocr_confidence": 0.951,
+    "ocr_confidence": 0.934,
     "source_text": {
       "fvm": "19(17)",
       "quotation": "6(5)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:pierotti"
   },
   {
     "role": "C",
@@ -4726,12 +5026,13 @@
     "quotation_prev": 5,
     "page": 3,
     "team_number": 13,
-    "ocr_confidence": 0.941,
+    "ocr_confidence": 0.929,
     "source_text": {
       "fvm": "16(16)",
       "quotation": "5(5)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:berisham"
   },
   {
     "role": "C",
@@ -4744,12 +5045,13 @@
     "quotation_prev": 5,
     "page": 3,
     "team_number": 14,
-    "ocr_confidence": 0.917,
+    "ocr_confidence": 0.902,
     "source_text": {
       "fvm": "14(14)",
       "quotation": "5(5)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:gandelman"
   },
   {
     "role": "C",
@@ -4762,12 +5064,13 @@
     "quotation_prev": 5,
     "page": 3,
     "team_number": 15,
-    "ocr_confidence": 0.895,
+    "ocr_confidence": 0.917,
     "source_text": {
       "fvm": "11(13)",
       "quotation": "4(5)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:ngom"
   },
   {
     "role": "C",
@@ -4778,14 +5081,15 @@
     "fvm_prev": 5,
     "quotation": 2,
     "quotation_prev": 2,
-    "page": 3,
+    "page": 4,
     "team_number": 16,
-    "ocr_confidence": 0.928,
+    "ocr_confidence": 0.914,
     "source_text": {
       "fvm": "5(5)",
       "quotation": "2(2)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:maleh"
   },
   {
     "role": "C",
@@ -4803,7 +5107,8 @@
       "fvm": "1(1)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:fofanasa"
   },
   {
     "role": "C",
@@ -4816,12 +5121,13 @@
     "quotation_prev": 1,
     "page": 4,
     "team_number": 18,
-    "ocr_confidence": 0.935,
+    "ocr_confidence": 0.866,
     "source_text": {
       "fvm": "3(3)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:gorter"
   },
   {
     "role": "C",
@@ -4834,12 +5140,13 @@
     "quotation_prev": 1,
     "page": 4,
     "team_number": 19,
-    "ocr_confidence": 0.898,
+    "ocr_confidence": 0.899,
     "source_text": {
       "fvm": "2(2)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:kaba"
   },
   {
     "role": "A",
@@ -4852,12 +5159,13 @@
     "quotation_prev": 8,
     "page": 4,
     "team_number": 20,
-    "ocr_confidence": 0.925,
+    "ocr_confidence": 0.901,
     "source_text": {
       "fvm": "25(23)",
       "quotation": "9(8)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:geubbels"
   },
   {
     "role": "A",
@@ -4870,12 +5178,13 @@
     "quotation_prev": 6,
     "page": 4,
     "team_number": 21,
-    "ocr_confidence": 0.929,
+    "ocr_confidence": 0.905,
     "source_text": {
       "fvm": "18(16)",
       "quotation": "7(6)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:stulic"
   },
   {
     "role": "A",
@@ -4888,12 +5197,13 @@
     "quotation_prev": 4,
     "page": 4,
     "team_number": 22,
-    "ocr_confidence": 0.916,
+    "ocr_confidence": 0.872,
     "source_text": {
       "fvm": "9(11)",
       "quotation": "3(4)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:ndri"
   },
   {
     "role": "P",
@@ -4906,12 +5216,13 @@
     "quotation_prev": 15,
     "page": 4,
     "team_number": 1,
-    "ocr_confidence": 0.938,
+    "ocr_confidence": 0.955,
     "source_text": {
       "fvm": "50(50)",
       "quotation": "15(15)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:maignan"
   },
   {
     "role": "P",
@@ -4924,12 +5235,13 @@
     "quotation_prev": 1,
     "page": 4,
     "team_number": 2,
-    "ocr_confidence": 0.965,
+    "ocr_confidence": 0.924,
     "source_text": {
       "fvm": "1(1)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:terracciano"
   },
   {
     "role": "P",
@@ -4942,12 +5254,13 @@
     "quotation_prev": 1,
     "page": 4,
     "team_number": 3,
-    "ocr_confidence": 0.875,
+    "ocr_confidence": 0.848,
     "source_text": {
       "fvm": "1(1)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:torriani"
   },
   {
     "role": "D",
@@ -4960,12 +5273,13 @@
     "quotation_prev": 14,
     "page": 4,
     "team_number": 4,
-    "ocr_confidence": 0.952,
+    "ocr_confidence": 0.933,
     "source_text": {
       "fvm": "48(48)",
       "quotation": "14(14)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:pavlovic"
   },
   {
     "role": "D",
@@ -4978,12 +5292,32 @@
     "quotation_prev": 12,
     "page": 4,
     "team_number": 5,
-    "ocr_confidence": 0.929,
+    "ocr_confidence": 0.922,
     "source_text": {
       "fvm": "31(31)",
       "quotation": "12(12)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:gila"
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Ds,E)",
+    "name": "Bartesaghi",
+    "club": "Milan",
+    "fvm": 25,
+    "fvm_prev": 25,
+    "quotation": 8,
+    "quotation_prev": 8,
+    "page": 4,
+    "team_number": 6,
+    "ocr_confidence": 0.967,
+    "source_text": {
+      "fvm": "25(25)",
+      "quotation": "8(8)"
+    },
+    "manually_verified": false,
+    "id": "player:bartesaghi"
   },
   {
     "role": "D",
@@ -4996,12 +5330,13 @@
     "quotation_prev": 7,
     "page": 4,
     "team_number": 7,
-    "ocr_confidence": 0.929,
+    "ocr_confidence": 0.878,
     "source_text": {
       "fvm": "23(23)",
       "quotation": "7(7)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:gabbia"
   },
   {
     "role": "D",
@@ -5014,12 +5349,13 @@
     "quotation_prev": 7,
     "page": 4,
     "team_number": 8,
-    "ocr_confidence": 0.961,
+    "ocr_confidence": 0.957,
     "source_text": {
       "fvm": "20(20)",
       "quotation": "7(7)"
     },
-    "manually_verified": true
+    "manually_verified": false,
+    "id": "player:tomori"
   },
   {
     "role": "D",
@@ -5032,12 +5368,13 @@
     "quotation_prev": 3,
     "page": 4,
     "team_number": 9,
-    "ocr_confidence": 0.957,
+    "ocr_confidence": 0.937,
     "source_text": {
       "fvm": "8(8)",
       "quotation": "3(3)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:athekame"
   },
   {
     "role": "D",
@@ -5050,12 +5387,13 @@
     "quotation_prev": 4,
     "page": 4,
     "team_number": 10,
-    "ocr_confidence": 0.914,
+    "ocr_confidence": 0.854,
     "source_text": {
       "fvm": "12(14)",
       "quotation": "3(4)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:dewinter"
   },
   {
     "role": "D",
@@ -5068,12 +5406,13 @@
     "quotation_prev": 3,
     "page": 4,
     "team_number": 11,
-    "ocr_confidence": 0.911,
+    "ocr_confidence": 0.951,
     "source_text": {
       "fvm": "(6)6",
       "quotation": "3(3)"
     },
-    "manually_verified": true
+    "manually_verified": true,
+    "id": "player:estupinan"
   },
   {
     "role": "D",
@@ -5086,12 +5425,13 @@
     "quotation_prev": 2,
     "page": 4,
     "team_number": 12,
-    "ocr_confidence": 0.95,
+    "ocr_confidence": 0.935,
     "source_text": {
       "fvm": "4(4)",
       "quotation": "2(2)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:diawaras"
   },
   {
     "role": "C",
@@ -5104,12 +5444,13 @@
     "quotation_prev": 23,
     "page": 4,
     "team_number": 13,
-    "ocr_confidence": 0.951,
+    "ocr_confidence": 0.958,
     "source_text": {
       "fvm": "180(174)",
       "quotation": "25(23)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:pulisic"
   },
   {
     "role": "C",
@@ -5122,12 +5463,13 @@
     "quotation_prev": 22,
     "page": 4,
     "team_number": 14,
-    "ocr_confidence": 0.931,
+    "ocr_confidence": 0.957,
     "source_text": {
       "fvm": "128(128)",
       "quotation": "22(22)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:rabiot"
   },
   {
     "role": "C",
@@ -5140,12 +5482,13 @@
     "quotation_prev": 13,
     "page": 4,
     "team_number": 15,
-    "ocr_confidence": 0.934,
+    "ocr_confidence": 0.956,
     "source_text": {
       "fvm": "50(60)",
       "quotation": "12(13)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:modric"
   },
   {
     "role": "C",
@@ -5158,12 +5501,13 @@
     "quotation_prev": 11,
     "page": 4,
     "team_number": 16,
-    "ocr_confidence": 0.93,
+    "ocr_confidence": 0.904,
     "source_text": {
       "fvm": "43(45)",
       "quotation": "10(11)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:saelemaekers"
   },
   {
     "role": "C",
@@ -5176,12 +5520,13 @@
     "quotation_prev": 5,
     "page": 4,
     "team_number": 17,
-    "ocr_confidence": 0.921,
+    "ocr_confidence": 0.946,
     "source_text": {
       "fvm": "11(9)",
       "quotation": "6(5)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:chukwueze"
   },
   {
     "role": "C",
@@ -5194,12 +5539,13 @@
     "quotation_prev": 6,
     "page": 4,
     "team_number": 18,
-    "ocr_confidence": 0.934,
+    "ocr_confidence": 0.904,
     "source_text": {
       "fvm": "23(26)",
       "quotation": "5(6)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:fofanay"
   },
   {
     "role": "C",
@@ -5212,12 +5558,13 @@
     "quotation_prev": 4,
     "page": 4,
     "team_number": 19,
-    "ocr_confidence": 0.862,
+    "ocr_confidence": 0.899,
     "source_text": {
       "fvm": "11(11)",
       "quotation": "4(4)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:jashari"
   },
   {
     "role": "C",
@@ -5230,12 +5577,13 @@
     "quotation_prev": 4,
     "page": 4,
     "team_number": 20,
-    "ocr_confidence": 0.849,
+    "ocr_confidence": 0.924,
     "source_text": {
       "fvm": "11(11)",
       "quotation": "4(4)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:loftuscheek"
   },
   {
     "role": "C",
@@ -5248,12 +5596,13 @@
     "quotation_prev": 4,
     "page": 4,
     "team_number": 21,
-    "ocr_confidence": 0.909,
+    "ocr_confidence": 0.841,
     "source_text": {
       "fvm": "11(13)",
       "quotation": "4(4)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:riccis"
   },
   {
     "role": "C",
@@ -5266,16 +5615,17 @@
     "quotation_prev": 2,
     "page": 4,
     "team_number": 22,
-    "ocr_confidence": 0.944,
+    "ocr_confidence": 0.941,
     "source_text": {
       "fvm": "6(6)",
       "quotation": "2(2)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:musah"
   },
   {
     "role": "A",
-    "role_detail": "A(PC)",
+    "role_detail": "A(Pc)",
     "name": "Ramos G.",
     "club": "Milan",
     "fvm": 240,
@@ -5284,12 +5634,13 @@
     "quotation_prev": 27,
     "page": 4,
     "team_number": 23,
-    "ocr_confidence": 0.907,
+    "ocr_confidence": 0.863,
     "source_text": {
       "fvm": "240(240)",
       "quotation": "27(27)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:ramosg"
   },
   {
     "role": "A",
@@ -5302,12 +5653,13 @@
     "quotation_prev": 19,
     "page": 4,
     "team_number": 24,
-    "ocr_confidence": 0.953,
+    "ocr_confidence": 0.95,
     "source_text": {
       "fvm": "120(123)",
       "quotation": "18(19)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:leao"
   },
   {
     "role": "A",
@@ -5320,16 +5672,17 @@
     "quotation_prev": 14,
     "page": 4,
     "team_number": 25,
-    "ocr_confidence": 0.904,
+    "ocr_confidence": 0.954,
     "source_text": {
       "fvm": "52(54)",
       "quotation": "13(14)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:nkunku"
   },
   {
     "role": "A",
-    "role_detail": "A(Pc)",
+    "role_detail": "A(PC)",
     "name": "Gimenez",
     "club": "Milan",
     "fvm": 14,
@@ -5338,12 +5691,13 @@
     "quotation_prev": 5,
     "page": 4,
     "team_number": 26,
-    "ocr_confidence": 0.873,
+    "ocr_confidence": 0.877,
     "source_text": {
       "fvm": "14(13)",
       "quotation": "6(5)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:gimenez"
   },
   {
     "role": "A",
@@ -5356,12 +5710,13 @@
     "quotation_prev": 4,
     "page": 4,
     "team_number": 27,
-    "ocr_confidence": 0.852,
+    "ocr_confidence": 0.883,
     "source_text": {
       "fvm": "18(17)",
       "quotation": "5(4)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:camarda"
   },
   {
     "role": "P",
@@ -5374,12 +5729,13 @@
     "quotation_prev": 5,
     "page": 4,
     "team_number": 1,
-    "ocr_confidence": 0.94,
+    "ocr_confidence": 0.877,
     "source_text": {
       "fvm": "12(12)",
       "quotation": "5(5)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:thiam"
   },
   {
     "role": "P",
@@ -5392,12 +5748,13 @@
     "quotation_prev": 1,
     "page": 4,
     "team_number": 2,
-    "ocr_confidence": 0.833,
+    "ocr_confidence": 0.875,
     "source_text": {
       "fvm": "1(1)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:pizzignacco"
   },
   {
     "role": "P",
@@ -5410,12 +5767,13 @@
     "quotation_prev": 1,
     "page": 4,
     "team_number": 3,
-    "ocr_confidence": 0.866,
+    "ocr_confidence": 0.91,
     "source_text": {
       "fvm": "1(1)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:strajnar"
   },
   {
     "role": "D",
@@ -5428,12 +5786,13 @@
     "quotation_prev": 6,
     "page": 4,
     "team_number": 4,
-    "ocr_confidence": 0.94,
+    "ocr_confidence": 0.923,
     "source_text": {
       "fvm": "15(15)",
       "quotation": "6(6)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:mangas"
   },
   {
     "role": "D",
@@ -5446,12 +5805,13 @@
     "quotation_prev": 5,
     "page": 4,
     "team_number": 5,
-    "ocr_confidence": 0.919,
+    "ocr_confidence": 0.942,
     "source_text": {
       "fvm": "12(14)",
       "quotation": "4(5)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:birindelli"
   },
   {
     "role": "D",
@@ -5464,12 +5824,13 @@
     "quotation_prev": 4,
     "page": 4,
     "team_number": 6,
-    "ocr_confidence": 0.795,
+    "ocr_confidence": 0.852,
     "source_text": {
       "fvm": "11(11)",
       "quotation": "4(4)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:dellicarri"
   },
   {
     "role": "D",
@@ -5482,12 +5843,13 @@
     "quotation_prev": 4,
     "page": 4,
     "team_number": 7,
-    "ocr_confidence": 0.841,
+    "ocr_confidence": 0.895,
     "source_text": {
       "fvm": "12(12)",
       "quotation": "4(4)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:lucchesi"
   },
   {
     "role": "D",
@@ -5500,12 +5862,13 @@
     "quotation_prev": 4,
     "page": 4,
     "team_number": 8,
-    "ocr_confidence": 0.847,
+    "ocr_confidence": 0.846,
     "source_text": {
       "fvm": "9(11)",
       "quotation": "3(4)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:carbonia"
   },
   {
     "role": "D",
@@ -5518,12 +5881,13 @@
     "quotation_prev": 3,
     "page": 4,
     "team_number": 9,
-    "ocr_confidence": 0.691,
+    "ocr_confidence": 0.947,
     "source_text": {
-      "fvm": "(01)6",
+      "fvm": "9(10)",
       "quotation": "3(3)"
     },
-    "manually_verified": true
+    "manually_verified": false,
+    "id": "player:kouadio"
   },
   {
     "role": "D",
@@ -5536,12 +5900,13 @@
     "quotation_prev": 1,
     "page": 4,
     "team_number": 10,
-    "ocr_confidence": 0.871,
+    "ocr_confidence": 0.872,
     "source_text": {
       "fvm": "2(2)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:antov"
   },
   {
     "role": "D",
@@ -5554,12 +5919,13 @@
     "quotation_prev": 1,
     "page": 4,
     "team_number": 11,
-    "ocr_confidence": 0.857,
+    "ocr_confidence": 0.942,
     "source_text": {
       "fvm": "4(4)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:bakoune"
   },
   {
     "role": "C",
@@ -5572,12 +5938,13 @@
     "quotation_prev": 7,
     "page": 4,
     "team_number": 12,
-    "ocr_confidence": 0.678,
+    "ocr_confidence": 0.929,
     "source_text": {
       "fvm": "25(22)",
       "quotation": "8(7)"
     },
-    "manually_verified": true
+    "manually_verified": false,
+    "id": "player:colpani"
   },
   {
     "role": "C",
@@ -5590,12 +5957,13 @@
     "quotation_prev": 8,
     "page": 4,
     "team_number": 13,
-    "ocr_confidence": 0.906,
+    "ocr_confidence": 0.969,
     "source_text": {
       "fvm": "20(22)",
       "quotation": "7(8)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:pessina"
   },
   {
     "role": "C",
@@ -5608,12 +5976,13 @@
     "quotation_prev": 6,
     "page": 4,
     "team_number": 14,
-    "ocr_confidence": 0.958,
+    "ocr_confidence": 0.956,
     "source_text": {
       "fvm": "16(16)",
       "quotation": "6(6)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:akinsanmiro"
   },
   {
     "role": "C",
@@ -5626,12 +5995,13 @@
     "quotation_prev": 3,
     "page": 4,
     "team_number": 15,
-    "ocr_confidence": 0.897,
+    "ocr_confidence": 0.948,
     "source_text": {
       "fvm": "7(8)",
       "quotation": "3(3)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:colombol"
   },
   {
     "role": "C",
@@ -5644,16 +6014,17 @@
     "quotation_prev": 2,
     "page": 4,
     "team_number": 16,
-    "ocr_confidence": 0.967,
+    "ocr_confidence": 0.946,
     "source_text": {
       "fvm": "6(6)",
       "quotation": "2(2)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:ciurria"
   },
   {
     "role": "A",
-    "role_detail": "A(PC)",
+    "role_detail": "A(Pc)",
     "name": "Cutrone",
     "club": "Monza",
     "fvm": 33,
@@ -5662,12 +6033,13 @@
     "quotation_prev": 8,
     "page": 4,
     "team_number": 17,
-    "ocr_confidence": 0.86,
+    "ocr_confidence": 0.943,
     "source_text": {
       "fvm": "33(30)",
       "quotation": "9(8)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:cutrone"
   },
   {
     "role": "A",
@@ -5680,12 +6052,32 @@
     "quotation_prev": 5,
     "page": 4,
     "team_number": 18,
-    "ocr_confidence": 0.949,
+    "ocr_confidence": 0.92,
     "source_text": {
       "fvm": "18(18)",
       "quotation": "5(5)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:mota"
+  },
+  {
+    "role": "A",
+    "role_detail": "A(A)",
+    "name": "Robinson J.",
+    "club": "Monza",
+    "fvm": 10,
+    "fvm_prev": 10,
+    "quotation": 4,
+    "quotation_prev": 4,
+    "page": 4,
+    "team_number": 19,
+    "ocr_confidence": 0.887,
+    "source_text": {
+      "fvm": "10(10)",
+      "quotation": "4(4)"
+    },
+    "manually_verified": false,
+    "id": "player:robinsonj"
   },
   {
     "role": "A",
@@ -5697,13 +6089,14 @@
     "quotation": 3,
     "quotation_prev": 3,
     "page": 4,
-    "team_number": 19,
-    "ocr_confidence": 0.868,
+    "team_number": 20,
+    "ocr_confidence": 0.873,
     "source_text": {
       "fvm": "7(6)",
       "quotation": "3(3)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:varelag"
   },
   {
     "role": "A",
@@ -5715,13 +6108,14 @@
     "quotation": 2,
     "quotation_prev": 2,
     "page": 4,
-    "team_number": 20,
-    "ocr_confidence": 0.889,
+    "team_number": 21,
+    "ocr_confidence": 0.933,
     "source_text": {
       "fvm": "5(5)",
       "quotation": "2(2)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:petagna"
   },
   {
     "role": "P",
@@ -5734,12 +6128,13 @@
     "quotation_prev": 11,
     "page": 4,
     "team_number": 1,
-    "ocr_confidence": 0.95,
+    "ocr_confidence": 0.964,
     "source_text": {
       "fvm": "45(45)",
       "quotation": "11(11)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:meret"
   },
   {
     "role": "P",
@@ -5752,12 +6147,13 @@
     "quotation_prev": 5,
     "page": 4,
     "team_number": 2,
-    "ocr_confidence": 0.924,
+    "ocr_confidence": 0.919,
     "source_text": {
       "fvm": "10(10)",
       "quotation": "5(5)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:milinkovicsavicv"
   },
   {
     "role": "P",
@@ -5770,12 +6166,13 @@
     "quotation_prev": 1,
     "page": 4,
     "team_number": 3,
-    "ocr_confidence": 0.906,
+    "ocr_confidence": 0.973,
     "source_text": {
       "fvm": "1(1)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:contini"
   },
   {
     "role": "D",
@@ -5788,12 +6185,13 @@
     "quotation_prev": 14,
     "page": 4,
     "team_number": 4,
-    "ocr_confidence": 0.948,
+    "ocr_confidence": 0.876,
     "source_text": {
       "fvm": "47(47)",
       "quotation": "14(14)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:rrahmani"
   },
   {
     "role": "D",
@@ -5806,12 +6204,13 @@
     "quotation_prev": 12,
     "page": 4,
     "team_number": 5,
-    "ocr_confidence": 0.945,
+    "ocr_confidence": 0.974,
     "source_text": {
       "fvm": "40(40)",
       "quotation": "12(12)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:dilorenzo"
   },
   {
     "role": "D",
@@ -5824,12 +6223,13 @@
     "quotation_prev": 8,
     "page": 4,
     "team_number": 6,
-    "ocr_confidence": 0.895,
+    "ocr_confidence": 0.932,
     "source_text": {
       "fvm": "24(24)",
       "quotation": "8(8)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:spinazzola"
   },
   {
     "role": "D",
@@ -5842,12 +6242,13 @@
     "quotation_prev": 7,
     "page": 4,
     "team_number": 7,
-    "ocr_confidence": 0.963,
+    "ocr_confidence": 0.913,
     "source_text": {
       "fvm": "18(18)",
       "quotation": "7(7)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:buongiorno"
   },
   {
     "role": "D",
@@ -5860,12 +6261,13 @@
     "quotation_prev": 6,
     "page": 4,
     "team_number": 8,
-    "ocr_confidence": 0.958,
+    "ocr_confidence": 0.921,
     "source_text": {
       "fvm": "16(16)",
       "quotation": "6(6)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:beukema"
   },
   {
     "role": "D",
@@ -5878,12 +6280,13 @@
     "quotation_prev": 6,
     "page": 4,
     "team_number": 9,
-    "ocr_confidence": 0.959,
+    "ocr_confidence": 0.931,
     "source_text": {
       "fvm": "13(15)",
       "quotation": "5(6)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:olivera"
   },
   {
     "role": "D",
@@ -5896,12 +6299,13 @@
     "quotation_prev": 2,
     "page": 4,
     "team_number": 10,
-    "ocr_confidence": 0.921,
+    "ocr_confidence": 0.91,
     "source_text": {
       "fvm": "6(6)",
       "quotation": "2(2)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:marinr"
   },
   {
     "role": "D",
@@ -5914,12 +6318,13 @@
     "quotation_prev": 1,
     "page": 4,
     "team_number": 11,
-    "ocr_confidence": 0.961,
+    "ocr_confidence": 0.897,
     "source_text": {
       "fvm": "5(5)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:marianucci"
   },
   {
     "role": "D",
@@ -5932,12 +6337,13 @@
     "quotation_prev": 1,
     "page": 4,
     "team_number": 12,
-    "ocr_confidence": 0.914,
+    "ocr_confidence": 0.886,
     "source_text": {
       "fvm": "3(3)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:mazzocchi"
   },
   {
     "role": "C",
@@ -5950,12 +6356,13 @@
     "quotation_prev": 28,
     "page": 4,
     "team_number": 13,
-    "ocr_confidence": 0.918,
+    "ocr_confidence": 0.927,
     "source_text": {
       "fvm": "240(240)",
       "quotation": "28(28)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:mctominay"
   },
   {
     "role": "C",
@@ -5968,12 +6375,13 @@
     "quotation_prev": 14,
     "page": 4,
     "team_number": 14,
-    "ocr_confidence": 0.899,
+    "ocr_confidence": 0.7,
     "source_text": {
       "fvm": "100(94)",
       "quotation": "15(14)"
     },
-    "manually_verified": true
+    "manually_verified": true,
+    "id": "player:debruyne"
   },
   {
     "role": "C",
@@ -5986,12 +6394,13 @@
     "quotation_prev": 11,
     "page": 4,
     "team_number": 15,
-    "ocr_confidence": 0.955,
+    "ocr_confidence": 0.952,
     "source_text": {
       "fvm": "55(55)",
       "quotation": "11(11)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:zamboanguissa"
   },
   {
     "role": "C",
@@ -6004,12 +6413,13 @@
     "quotation_prev": 9,
     "page": 4,
     "team_number": 16,
-    "ocr_confidence": 0.945,
+    "ocr_confidence": 0.923,
     "source_text": {
       "fvm": "47(43)",
       "quotation": "10(9)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:politano"
   },
   {
     "role": "C",
@@ -6022,12 +6432,13 @@
     "quotation_prev": 8,
     "page": 4,
     "team_number": 17,
-    "ocr_confidence": 0.975,
+    "ocr_confidence": 0.951,
     "source_text": {
       "fvm": "34(34)",
       "quotation": "8(8)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:vergara"
   },
   {
     "role": "C",
@@ -6040,12 +6451,13 @@
     "quotation_prev": 8,
     "page": 4,
     "team_number": 18,
-    "ocr_confidence": 0.962,
+    "ocr_confidence": 0.937,
     "source_text": {
       "fvm": "20(22)",
       "quotation": "7(8)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:lobotka"
   },
   {
     "role": "C",
@@ -6058,12 +6470,13 @@
     "quotation_prev": 4,
     "page": 4,
     "team_number": 19,
-    "ocr_confidence": 0.921,
+    "ocr_confidence": 0.927,
     "source_text": {
       "fvm": "10(10)",
       "quotation": "4(4)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:folorunsho"
   },
   {
     "role": "C",
@@ -6076,12 +6489,13 @@
     "quotation_prev": 3,
     "page": 4,
     "team_number": 20,
-    "ocr_confidence": 0.926,
+    "ocr_confidence": 0.888,
     "source_text": {
       "fvm": "(6)6",
       "quotation": "3(3)"
     },
-    "manually_verified": true
+    "manually_verified": true,
+    "id": "player:gilmour"
   },
   {
     "role": "A",
@@ -6094,12 +6508,13 @@
     "quotation_prev": 28,
     "page": 4,
     "team_number": 21,
-    "ocr_confidence": 0.884,
+    "ocr_confidence": 0.881,
     "source_text": {
       "fvm": "271(271)",
       "quotation": "28(28)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:hojlund"
   },
   {
     "role": "A",
@@ -6112,16 +6527,17 @@
     "quotation_prev": 15,
     "page": 4,
     "team_number": 22,
-    "ocr_confidence": 0.903,
+    "ocr_confidence": 0.887,
     "source_text": {
       "fvm": "60(63)",
       "quotation": "14(15)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:santosa"
   },
   {
     "role": "A",
-    "role_detail": "A(PC)",
+    "role_detail": "A(Pc)",
     "name": "Lukaku",
     "club": "Napoli",
     "fvm": 45,
@@ -6130,12 +6546,13 @@
     "quotation_prev": 9,
     "page": 4,
     "team_number": 23,
-    "ocr_confidence": 0.886,
+    "ocr_confidence": 0.867,
     "source_text": {
       "fvm": "45(41)",
       "quotation": "10(9)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:lukaku"
   },
   {
     "role": "A",
@@ -6148,12 +6565,13 @@
     "quotation_prev": 7,
     "page": 4,
     "team_number": 24,
-    "ocr_confidence": 0.893,
+    "ocr_confidence": 0.921,
     "source_text": {
       "fvm": "22(25)",
       "quotation": "6(7)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:neres"
   },
   {
     "role": "A",
@@ -6166,12 +6584,13 @@
     "quotation_prev": 4,
     "page": 4,
     "team_number": 25,
-    "ocr_confidence": 0.934,
+    "ocr_confidence": 0.88,
     "source_text": {
       "fvm": "10(10)",
       "quotation": "4(4)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:giovane"
   },
   {
     "role": "A",
@@ -6189,11 +6608,12 @@
       "fvm": "10(10)",
       "quotation": "3(3)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:lang"
   },
   {
     "role": "A",
-    "role_detail": "A(Pc)",
+    "role_detail": "A(PC)",
     "name": "Lucca",
     "club": "Napoli",
     "fvm": 10,
@@ -6202,12 +6622,13 @@
     "quotation_prev": 3,
     "page": 4,
     "team_number": 27,
-    "ocr_confidence": 0.883,
+    "ocr_confidence": 0.866,
     "source_text": {
       "fvm": "10(9)",
       "quotation": "3(3)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:lucca"
   },
   {
     "role": "P",
@@ -6220,12 +6641,13 @@
     "quotation_prev": 7,
     "page": 4,
     "team_number": 1,
-    "ocr_confidence": 0.928,
+    "ocr_confidence": 0.96,
     "source_text": {
       "fvm": "5(5)",
       "quotation": "7(7)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:daffara"
   },
   {
     "role": "P",
@@ -6238,12 +6660,13 @@
     "quotation_prev": 7,
     "page": 4,
     "team_number": 2,
-    "ocr_confidence": 0.923,
+    "ocr_confidence": 0.983,
     "source_text": {
       "fvm": "20(20)",
       "quotation": "7(7)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:suzuki"
   },
   {
     "role": "P",
@@ -6256,12 +6679,13 @@
     "quotation_prev": 1,
     "page": 4,
     "team_number": 3,
-    "ocr_confidence": 0.916,
+    "ocr_confidence": 0.906,
     "source_text": {
       "fvm": "1(1)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:corvi"
   },
   {
     "role": "D",
@@ -6274,12 +6698,13 @@
     "quotation_prev": 8,
     "page": 4,
     "team_number": 4,
-    "ocr_confidence": 0.94,
+    "ocr_confidence": 0.934,
     "source_text": {
       "fvm": "21(24)",
       "quotation": "8(8)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:delprato"
   },
   {
     "role": "D",
@@ -6292,12 +6717,13 @@
     "quotation_prev": 8,
     "page": 4,
     "team_number": 5,
-    "ocr_confidence": 0.923,
+    "ocr_confidence": 0.952,
     "source_text": {
       "fvm": "24(24)",
       "quotation": "8(8)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:valeri"
   },
   {
     "role": "D",
@@ -6310,12 +6736,13 @@
     "quotation_prev": 6,
     "page": 4,
     "team_number": 6,
-    "ocr_confidence": 0.927,
+    "ocr_confidence": 0.947,
     "source_text": {
       "fvm": "18(18)",
       "quotation": "6(6)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:circati"
   },
   {
     "role": "D",
@@ -6328,12 +6755,13 @@
     "quotation_prev": 4,
     "page": 4,
     "team_number": 7,
-    "ocr_confidence": 0.9,
+    "ocr_confidence": 0.875,
     "source_text": {
       "fvm": "10(10)",
       "quotation": "4(4)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:valenti"
   },
   {
     "role": "D",
@@ -6346,12 +6774,13 @@
     "quotation_prev": 4,
     "page": 4,
     "team_number": 8,
-    "ocr_confidence": 0.894,
+    "ocr_confidence": 0.874,
     "source_text": {
       "fvm": "10(12)",
       "quotation": "3(4)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:britschgi"
   },
   {
     "role": "D",
@@ -6362,14 +6791,15 @@
     "fvm_prev": 8,
     "quotation": 3,
     "quotation_prev": 3,
-    "page": 4,
+    "page": 5,
     "team_number": 9,
-    "ocr_confidence": 0.848,
+    "ocr_confidence": 0.923,
     "source_text": {
       "fvm": "8(8)",
       "quotation": "3(3)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:troilo"
   },
   {
     "role": "D",
@@ -6380,14 +6810,15 @@
     "fvm_prev": 3,
     "quotation": 1,
     "quotation_prev": 1,
-    "page": 4,
+    "page": 5,
     "team_number": 10,
-    "ocr_confidence": 0.877,
+    "ocr_confidence": 0.899,
     "source_text": {
       "fvm": "3(3)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:carbonif"
   },
   {
     "role": "D",
@@ -6400,12 +6831,13 @@
     "quotation_prev": 1,
     "page": 5,
     "team_number": 11,
-    "ocr_confidence": 0.948,
+    "ocr_confidence": 0.894,
     "source_text": {
       "fvm": "4(4)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:ndiaye"
   },
   {
     "role": "C",
@@ -6418,12 +6850,13 @@
     "quotation_prev": 7,
     "page": 5,
     "team_number": 12,
-    "ocr_confidence": 0.944,
+    "ocr_confidence": 0.949,
     "source_text": {
       "fvm": "36(36)",
       "quotation": "7(7)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:bernabe"
   },
   {
     "role": "C",
@@ -6436,12 +6869,13 @@
     "quotation_prev": 7,
     "page": 5,
     "team_number": 13,
-    "ocr_confidence": 0.915,
+    "ocr_confidence": 0.913,
     "source_text": {
       "fvm": "18(20)",
       "quotation": "6(7)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:nicolussicaviglia"
   },
   {
     "role": "C",
@@ -6454,12 +6888,13 @@
     "quotation_prev": 6,
     "page": 5,
     "team_number": 14,
-    "ocr_confidence": 0.901,
+    "ocr_confidence": 0.967,
     "source_text": {
       "fvm": "15(17)",
       "quotation": "5(6)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:keitam"
   },
   {
     "role": "C",
@@ -6472,12 +6907,13 @@
     "quotation_prev": 4,
     "page": 5,
     "team_number": 15,
-    "ocr_confidence": 0.964,
+    "ocr_confidence": 0.915,
     "source_text": {
       "fvm": "18(16)",
       "quotation": "5(4)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:ondrejka"
   },
   {
     "role": "C",
@@ -6490,12 +6926,13 @@
     "quotation_prev": 3,
     "page": 5,
     "team_number": 16,
-    "ocr_confidence": 0.932,
+    "ocr_confidence": 0.901,
     "source_text": {
       "fvm": "14(12)",
       "quotation": "4(3)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:almqvist"
   },
   {
     "role": "C",
@@ -6508,12 +6945,13 @@
     "quotation_prev": 2,
     "page": 5,
     "team_number": 17,
-    "ocr_confidence": 0.87,
+    "ocr_confidence": 0.943,
     "source_text": {
       "fvm": "12(10)",
       "quotation": "3(2)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:dialloo"
   },
   {
     "role": "C",
@@ -6526,12 +6964,13 @@
     "quotation_prev": 3,
     "page": 5,
     "team_number": 18,
-    "ocr_confidence": 0.949,
+    "ocr_confidence": 0.923,
     "source_text": {
       "fvm": "12(12)",
       "quotation": "3(3)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:sorenseno"
   },
   {
     "role": "C",
@@ -6544,12 +6983,13 @@
     "quotation_prev": 2,
     "page": 5,
     "team_number": 19,
-    "ocr_confidence": 0.891,
+    "ocr_confidence": 0.941,
     "source_text": {
       "fvm": "5(6)",
       "quotation": "2(2)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:ordonezc"
   },
   {
     "role": "C",
@@ -6562,16 +7002,17 @@
     "quotation_prev": 1,
     "page": 5,
     "team_number": 20,
-    "ocr_confidence": 0.823,
+    "ocr_confidence": 0.885,
     "source_text": {
       "fvm": "3(3)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:cremaschi"
   },
   {
     "role": "A",
-    "role_detail": "A(Pc)",
+    "role_detail": "A(PC)",
     "name": "Pellegrino M.",
     "club": "Parma",
     "fvm": 81,
@@ -6580,12 +7021,32 @@
     "quotation_prev": 15,
     "page": 5,
     "team_number": 21,
-    "ocr_confidence": 0.889,
+    "ocr_confidence": 0.88,
     "source_text": {
       "fvm": "81(79)",
       "quotation": "15(15)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:pellegrinom"
+  },
+  {
+    "role": "A",
+    "role_detail": "A(PC)",
+    "name": "Tourè E.",
+    "club": "Parma",
+    "fvm": 43,
+    "fvm_prev": 43,
+    "quotation": 11,
+    "quotation_prev": 11,
+    "page": 5,
+    "team_number": 22,
+    "ocr_confidence": 0.89,
+    "source_text": {
+      "fvm": "43(43)",
+      "quotation": "11(11)"
+    },
+    "manually_verified": true,
+    "id": "player:touree"
   },
   {
     "role": "A",
@@ -6597,13 +7058,14 @@
     "quotation": 5,
     "quotation_prev": 5,
     "page": 5,
-    "team_number": 22,
-    "ocr_confidence": 0.92,
+    "team_number": 23,
+    "ocr_confidence": 0.939,
     "source_text": {
       "fvm": "13(13)",
       "quotation": "5(5)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:frigan"
   },
   {
     "role": "A",
@@ -6615,13 +7077,14 @@
     "quotation": 3,
     "quotation_prev": 3,
     "page": 5,
-    "team_number": 23,
-    "ocr_confidence": 0.885,
+    "team_number": 24,
+    "ocr_confidence": 0.867,
     "source_text": {
       "fvm": "11(10)",
       "quotation": "3(3)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:elphege"
   },
   {
     "role": "P",
@@ -6634,12 +7097,13 @@
     "quotation_prev": 18,
     "page": 5,
     "team_number": 1,
-    "ocr_confidence": 0.954,
+    "ocr_confidence": 0.968,
     "source_text": {
       "fvm": "65(65)",
       "quotation": "18(18)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:svilar"
   },
   {
     "role": "P",
@@ -6652,12 +7116,13 @@
     "quotation_prev": 1,
     "page": 5,
     "team_number": 2,
-    "ocr_confidence": 0.905,
+    "ocr_confidence": 0.961,
     "source_text": {
       "fvm": "1(1)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:demarzi"
   },
   {
     "role": "P",
@@ -6670,30 +7135,32 @@
     "quotation_prev": 1,
     "page": 5,
     "team_number": 3,
-    "ocr_confidence": 0.878,
+    "ocr_confidence": 0.816,
     "source_text": {
       "fvm": "1(1)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:gollini"
   },
   {
     "role": "D",
     "role_detail": "D(E)",
     "name": "Wesley",
     "club": "Roma",
-    "fvm": 90,
-    "fvm_prev": 88,
+    "fvm": 84,
+    "fvm_prev": 84,
     "quotation": 17,
     "quotation_prev": 16,
     "page": 5,
     "team_number": 4,
-    "ocr_confidence": 0.952,
+    "ocr_confidence": 0.969,
     "source_text": {
-      "fvm": "90(88)",
+      "fvm": "84(84)",
       "quotation": "17(16)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:wesley"
   },
   {
     "role": "D",
@@ -6706,12 +7173,13 @@
     "quotation_prev": 15,
     "page": 5,
     "team_number": 5,
-    "ocr_confidence": 0.869,
+    "ocr_confidence": 0.901,
     "source_text": {
       "fvm": "49(49)",
       "quotation": "15(15)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:mancini"
   },
   {
     "role": "D",
@@ -6724,12 +7192,13 @@
     "quotation_prev": 13,
     "page": 5,
     "team_number": 6,
-    "ocr_confidence": 0.945,
+    "ocr_confidence": 0.96,
     "source_text": {
       "fvm": "44(44)",
       "quotation": "13(13)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:ndicka"
   },
   {
     "role": "D",
@@ -6742,12 +7211,13 @@
     "quotation_prev": 10,
     "page": 5,
     "team_number": 7,
-    "ocr_confidence": 0.909,
+    "ocr_confidence": 0.907,
     "source_text": {
       "fvm": "26(26)",
       "quotation": "10(10)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:hermoso"
   },
   {
     "role": "D",
@@ -6760,12 +7230,13 @@
     "quotation_prev": 8,
     "page": 5,
     "team_number": 8,
-    "ocr_confidence": 0.936,
+    "ocr_confidence": 0.975,
     "source_text": {
       "fvm": "20(20)",
       "quotation": "8(8)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:koulierakis"
   },
   {
     "role": "D",
@@ -6778,12 +7249,13 @@
     "quotation_prev": 6,
     "page": 5,
     "team_number": 9,
-    "ocr_confidence": 0.966,
+    "ocr_confidence": 0.906,
     "source_text": {
       "fvm": "16(18)",
       "quotation": "5(6)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:rensch"
   },
   {
     "role": "D",
@@ -6796,12 +7268,13 @@
     "quotation_prev": 4,
     "page": 5,
     "team_number": 10,
-    "ocr_confidence": 0.928,
+    "ocr_confidence": 0.841,
     "source_text": {
       "fvm": "10(10)",
       "quotation": "4(4)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:ghilardi"
   },
   {
     "role": "D",
@@ -6814,12 +7287,13 @@
     "quotation_prev": 1,
     "page": 5,
     "team_number": 11,
-    "ocr_confidence": 0.914,
+    "ocr_confidence": 0.885,
     "source_text": {
       "fvm": "2(2)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:ziolkowski"
   },
   {
     "role": "C",
@@ -6832,12 +7306,32 @@
     "quotation_prev": 11,
     "page": 5,
     "team_number": 12,
-    "ocr_confidence": 0.924,
+    "ocr_confidence": 0.903,
     "source_text": {
       "fvm": "42(45)",
       "quotation": "10(11)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:konem"
+  },
+  {
+    "role": "C",
+    "role_detail": "C(C,T)",
+    "name": "Pellegrini Lo.",
+    "club": "Roma",
+    "fvm": 28,
+    "fvm_prev": 28,
+    "quotation": 10,
+    "quotation_prev": 10,
+    "page": 5,
+    "team_number": 13,
+    "ocr_confidence": 0.932,
+    "source_text": {
+      "fvm": "28(28)",
+      "quotation": "10(10)"
+    },
+    "manually_verified": false,
+    "id": "player:pellegrinilo"
   },
   {
     "role": "C",
@@ -6849,13 +7343,14 @@
     "quotation": 8,
     "quotation_prev": 9,
     "page": 5,
-    "team_number": 13,
-    "ocr_confidence": 0.94,
+    "team_number": 14,
+    "ocr_confidence": 0.893,
     "source_text": {
       "fvm": "29(32)",
       "quotation": "8(9)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:cristante"
   },
   {
     "role": "C",
@@ -6867,13 +7362,14 @@
     "quotation": 5,
     "quotation_prev": 5,
     "page": 5,
-    "team_number": 14,
-    "ocr_confidence": 0.897,
+    "team_number": 15,
+    "ocr_confidence": 0.94,
     "source_text": {
       "fvm": "17(17)",
       "quotation": "5(5)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:pisilli"
   },
   {
     "role": "C",
@@ -6885,13 +7381,14 @@
     "quotation": 4,
     "quotation_prev": 5,
     "page": 5,
-    "team_number": 15,
-    "ocr_confidence": 0.935,
+    "team_number": 16,
+    "ocr_confidence": 0.955,
     "source_text": {
       "fvm": "18(20)",
       "quotation": "4(5)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:elaynaoui"
   },
   {
     "role": "A",
@@ -6903,13 +7400,14 @@
     "quotation": 34,
     "quotation_prev": 34,
     "page": 5,
-    "team_number": 16,
-    "ocr_confidence": 0.913,
+    "team_number": 17,
+    "ocr_confidence": 0.874,
     "source_text": {
       "fvm": "365(365)",
       "quotation": "34(34)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:malen"
   },
   {
     "role": "A",
@@ -6921,13 +7419,14 @@
     "quotation": 14,
     "quotation_prev": 13,
     "page": 5,
-    "team_number": 17,
-    "ocr_confidence": 0.908,
+    "team_number": 18,
+    "ocr_confidence": 0.87,
     "source_text": {
       "fvm": "83(80)",
       "quotation": "14(13)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:castros"
   },
   {
     "role": "A",
@@ -6939,13 +7438,14 @@
     "quotation": 14,
     "quotation_prev": 15,
     "page": 5,
-    "team_number": 18,
-    "ocr_confidence": 0.946,
+    "team_number": 19,
+    "ocr_confidence": 0.949,
     "source_text": {
       "fvm": "67(67)",
       "quotation": "14(15)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:dybala"
   },
   {
     "role": "A",
@@ -6957,17 +7457,18 @@
     "quotation": 12,
     "quotation_prev": 13,
     "page": 5,
-    "team_number": 19,
-    "ocr_confidence": 0.941,
+    "team_number": 20,
+    "ocr_confidence": 0.953,
     "source_text": {
       "fvm": "55(55)",
       "quotation": "12(13)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:soule"
   },
   {
     "role": "A",
-    "role_detail": "A(PC)",
+    "role_detail": "A(Pc)",
     "name": "Vaz",
     "club": "Roma",
     "fvm": 4,
@@ -6975,13 +7476,14 @@
     "quotation": 1,
     "quotation_prev": 1,
     "page": 5,
-    "team_number": 20,
-    "ocr_confidence": 0.889,
+    "team_number": 21,
+    "ocr_confidence": 0.861,
     "source_text": {
       "fvm": "4(3)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:vaz"
   },
   {
     "role": "P",
@@ -6994,12 +7496,13 @@
     "quotation_prev": 7,
     "page": 5,
     "team_number": 1,
-    "ocr_confidence": 0.941,
+    "ocr_confidence": 0.894,
     "source_text": {
       "fvm": "15(15)",
       "quotation": "7(7)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:muric"
   },
   {
     "role": "P",
@@ -7012,12 +7515,13 @@
     "quotation_prev": 1,
     "page": 5,
     "team_number": 2,
-    "ocr_confidence": 0.911,
+    "ocr_confidence": 0.952,
     "source_text": {
       "fvm": "1(1)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:russoa"
   },
   {
     "role": "P",
@@ -7030,12 +7534,13 @@
     "quotation_prev": 1,
     "page": 5,
     "team_number": 3,
-    "ocr_confidence": 0.895,
+    "ocr_confidence": 0.804,
     "source_text": {
       "fvm": "3(3)",
-      "quotation": "1(1)"
+      "quotation": "1（1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:turati"
   },
   {
     "role": "D",
@@ -7048,12 +7553,13 @@
     "quotation_prev": 7,
     "page": 5,
     "team_number": 4,
-    "ocr_confidence": 0.921,
+    "ocr_confidence": 0.887,
     "source_text": {
       "fvm": "19(19)",
       "quotation": "7(7)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:idzes"
   },
   {
     "role": "D",
@@ -7066,12 +7572,13 @@
     "quotation_prev": 4,
     "page": 5,
     "team_number": 5,
-    "ocr_confidence": 0.916,
+    "ocr_confidence": 0.83,
     "source_text": {
       "fvm": "13(13)",
       "quotation": "4(4)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:doig"
   },
   {
     "role": "D",
@@ -7084,12 +7591,13 @@
     "quotation_prev": 4,
     "page": 5,
     "team_number": 6,
-    "ocr_confidence": 0.768,
+    "ocr_confidence": 0.927,
     "source_text": {
       "fvm": "10(12)",
       "quotation": "4(4)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:walukiewicz"
   },
   {
     "role": "D",
@@ -7102,12 +7610,13 @@
     "quotation_prev": 3,
     "page": 5,
     "team_number": 7,
-    "ocr_confidence": 0.9,
+    "ocr_confidence": 0.914,
     "source_text": {
       "fvm": "12(14)",
       "quotation": "3(3)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:cande"
   },
   {
     "role": "D",
@@ -7120,12 +7629,13 @@
     "quotation_prev": 1,
     "page": 5,
     "team_number": 8,
-    "ocr_confidence": 0.882,
+    "ocr_confidence": 0.951,
     "source_text": {
       "fvm": "2(2)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:missori"
   },
   {
     "role": "D",
@@ -7138,12 +7648,13 @@
     "quotation_prev": 1,
     "page": 5,
     "team_number": 9,
-    "ocr_confidence": 0.814,
+    "ocr_confidence": 0.881,
     "source_text": {
       "fvm": "1(1)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:pieragnolo"
   },
   {
     "role": "C",
@@ -7156,12 +7667,13 @@
     "quotation_prev": 10,
     "page": 5,
     "team_number": 10,
-    "ocr_confidence": 0.937,
+    "ocr_confidence": 0.947,
     "source_text": {
       "fvm": "41(41)",
       "quotation": "10(10)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:thorstvedt"
   },
   {
     "role": "C",
@@ -7174,12 +7686,13 @@
     "quotation_prev": 9,
     "page": 5,
     "team_number": 11,
-    "ocr_confidence": 0.95,
+    "ocr_confidence": 0.943,
     "source_text": {
       "fvm": "20(20)",
       "quotation": "9(9)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:konei"
   },
   {
     "role": "C",
@@ -7192,12 +7705,13 @@
     "quotation_prev": 7,
     "page": 5,
     "team_number": 12,
-    "ocr_confidence": 0.984,
+    "ocr_confidence": 0.955,
     "source_text": {
       "fvm": "23(23)",
       "quotation": "7(7)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:volpato"
   },
   {
     "role": "C",
@@ -7210,12 +7724,13 @@
     "quotation_prev": 5,
     "page": 5,
     "team_number": 13,
-    "ocr_confidence": 0.928,
+    "ocr_confidence": 0.925,
     "source_text": {
       "fvm": "14(14)",
       "quotation": "5(5)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:adzic"
   },
   {
     "role": "C",
@@ -7228,12 +7743,13 @@
     "quotation_prev": 5,
     "page": 5,
     "team_number": 14,
-    "ocr_confidence": 0.936,
+    "ocr_confidence": 0.953,
     "source_text": {
       "fvm": "16(16)",
       "quotation": "5(5)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:bakola"
   },
   {
     "role": "C",
@@ -7246,12 +7762,13 @@
     "quotation_prev": 6,
     "page": 5,
     "team_number": 15,
-    "ocr_confidence": 0.892,
+    "ocr_confidence": 0.938,
     "source_text": {
       "fvm": "15(17)",
       "quotation": "5(6)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:matic"
   },
   {
     "role": "C",
@@ -7264,12 +7781,13 @@
     "quotation_prev": 2,
     "page": 5,
     "team_number": 16,
-    "ocr_confidence": 0.93,
+    "ocr_confidence": 0.94,
     "source_text": {
       "fvm": "5(5)",
       "quotation": "2(2)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:boloca"
   },
   {
     "role": "C",
@@ -7282,12 +7800,13 @@
     "quotation_prev": 2,
     "page": 5,
     "team_number": 17,
-    "ocr_confidence": 0.897,
+    "ocr_confidence": 0.911,
     "source_text": {
       "fvm": "5(5)",
       "quotation": "2(2)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:lipani"
   },
   {
     "role": "C",
@@ -7300,12 +7819,13 @@
     "quotation_prev": 1,
     "page": 5,
     "team_number": 18,
-    "ocr_confidence": 0.923,
+    "ocr_confidence": 0.909,
     "source_text": {
       "fvm": "1(1)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:lannoni"
   },
   {
     "role": "A",
@@ -7318,12 +7838,13 @@
     "quotation_prev": 19,
     "page": 5,
     "team_number": 19,
-    "ocr_confidence": 0.952,
+    "ocr_confidence": 0.943,
     "source_text": {
       "fvm": "115(118)",
       "quotation": "18(19)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:berardi"
   },
   {
     "role": "A",
@@ -7336,16 +7857,17 @@
     "quotation_prev": 16,
     "page": 5,
     "team_number": 20,
-    "ocr_confidence": 0.913,
+    "ocr_confidence": 0.959,
     "source_text": {
       "fvm": "88(91)",
       "quotation": "15(16)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:lauriente"
   },
   {
     "role": "A",
-    "role_detail": "A(Pc)",
+    "role_detail": "A(PC)",
     "name": "Pinamonti",
     "club": "Sassuolo",
     "fvm": 58,
@@ -7354,16 +7876,17 @@
     "quotation_prev": 12,
     "page": 5,
     "team_number": 21,
-    "ocr_confidence": 0.879,
+    "ocr_confidence": 0.881,
     "source_text": {
       "fvm": "58(55)",
       "quotation": "13(12)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:pinamonti"
   },
   {
     "role": "A",
-    "role_detail": "A(Pc)",
+    "role_detail": "A(PC)",
     "name": "Bowie",
     "club": "Sassuolo",
     "fvm": 39,
@@ -7372,16 +7895,17 @@
     "quotation_prev": 9,
     "page": 5,
     "team_number": 22,
-    "ocr_confidence": 0.925,
+    "ocr_confidence": 0.877,
     "source_text": {
       "fvm": "39(36)",
       "quotation": "10(9)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:bowie"
   },
   {
     "role": "A",
-    "role_detail": "A(Pc)",
+    "role_detail": "A(PC)",
     "name": "Moro L.",
     "club": "Sassuolo",
     "fvm": 1,
@@ -7390,12 +7914,13 @@
     "quotation_prev": 1,
     "page": 5,
     "team_number": 23,
-    "ocr_confidence": 0.865,
+    "ocr_confidence": 0.869,
     "source_text": {
       "fvm": "1(1)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:morol"
   },
   {
     "role": "P",
@@ -7408,12 +7933,13 @@
     "quotation_prev": 1,
     "page": 5,
     "team_number": 1,
-    "ocr_confidence": 0.846,
+    "ocr_confidence": 0.93,
     "source_text": {
       "fvm": "1(1)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:mascardi"
   },
   {
     "role": "P",
@@ -7426,12 +7952,13 @@
     "quotation_prev": 1,
     "page": 5,
     "team_number": 2,
-    "ocr_confidence": 0.969,
+    "ocr_confidence": 0.919,
     "source_text": {
       "fvm": "1(1)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:paleari"
   },
   {
     "role": "P",
@@ -7444,12 +7971,13 @@
     "quotation_prev": 1,
     "page": 5,
     "team_number": 3,
-    "ocr_confidence": 0.885,
+    "ocr_confidence": 0.892,
     "source_text": {
       "fvm": "1(1)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:siviero"
   },
   {
     "role": "D",
@@ -7462,12 +7990,13 @@
     "quotation_prev": 7,
     "page": 5,
     "team_number": 4,
-    "ocr_confidence": 0.92,
+    "ocr_confidence": 0.923,
     "source_text": {
       "fvm": "18(18)",
       "quotation": "7(7)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:coco"
   },
   {
     "role": "D",
@@ -7480,12 +8009,13 @@
     "quotation_prev": 7,
     "page": 5,
     "team_number": 5,
-    "ocr_confidence": 0.93,
+    "ocr_confidence": 0.922,
     "source_text": {
       "fvm": "18(18)",
       "quotation": "7(7)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:ismajli"
   },
   {
     "role": "D",
@@ -7498,12 +8028,32 @@
     "quotation_prev": 6,
     "page": 5,
     "team_number": 6,
-    "ocr_confidence": 0.936,
+    "ocr_confidence": 0.904,
     "source_text": {
       "fvm": "11(11)",
       "quotation": "6(6)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:comuzzo"
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dd,E)",
+    "name": "Pedersen",
+    "club": "Torino",
+    "fvm": 13,
+    "fvm_prev": 13,
+    "quotation": 5,
+    "quotation_prev": 5,
+    "page": 5,
+    "team_number": 7,
+    "ocr_confidence": 0.908,
+    "source_text": {
+      "fvm": "13(13)",
+      "quotation": "5(5)"
+    },
+    "manually_verified": false,
+    "id": "player:pedersen"
   },
   {
     "role": "D",
@@ -7516,12 +8066,13 @@
     "quotation_prev": 4,
     "page": 5,
     "team_number": 8,
-    "ocr_confidence": 0.895,
+    "ocr_confidence": 0.937,
     "source_text": {
       "fvm": "10(10)",
       "quotation": "4(4)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:comert"
   },
   {
     "role": "D",
@@ -7534,12 +8085,13 @@
     "quotation_prev": 2,
     "page": 5,
     "team_number": 9,
-    "ocr_confidence": 0.942,
+    "ocr_confidence": 0.947,
     "source_text": {
       "fvm": "5(6)",
       "quotation": "2(2)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:biraghi"
   },
   {
     "role": "C",
@@ -7552,12 +8104,13 @@
     "quotation_prev": 13,
     "page": 5,
     "team_number": 10,
-    "ocr_confidence": 0.572,
+    "ocr_confidence": 0.93,
     "source_text": {
       "fvm": "80(77)",
       "quotation": "14(13)"
     },
-    "manually_verified": true
+    "manually_verified": false,
+    "id": "player:vlasic"
   },
   {
     "role": "C",
@@ -7570,12 +8123,13 @@
     "quotation_prev": 10,
     "page": 5,
     "team_number": 11,
-    "ocr_confidence": 0.895,
+    "ocr_confidence": 0.891,
     "source_text": {
       "fvm": "37(37)",
       "quotation": "10(10)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:casadei"
   },
   {
     "role": "C",
@@ -7588,12 +8142,13 @@
     "quotation_prev": 7,
     "page": 5,
     "team_number": 12,
-    "ocr_confidence": 0.91,
+    "ocr_confidence": 0.921,
     "source_text": {
       "fvm": "27(27)",
       "quotation": "7(7)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:oristanio"
   },
   {
     "role": "C",
@@ -7606,12 +8161,13 @@
     "quotation_prev": 6,
     "page": 5,
     "team_number": 13,
-    "ocr_confidence": 0.92,
+    "ocr_confidence": 0.907,
     "source_text": {
       "fvm": "18(20)",
       "quotation": "5(6)"
     },
-    "manually_verified": true
+    "manually_verified": false,
+    "id": "player:cacciamani"
   },
   {
     "role": "C",
@@ -7624,12 +8180,13 @@
     "quotation_prev": 6,
     "page": 5,
     "team_number": 14,
-    "ocr_confidence": 0.93,
+    "ocr_confidence": 0.934,
     "source_text": {
       "fvm": "13(15)",
       "quotation": "5(6)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:gineitis"
   },
   {
     "role": "C",
@@ -7642,12 +8199,13 @@
     "quotation_prev": 5,
     "page": 5,
     "team_number": 15,
-    "ocr_confidence": 0.915,
+    "ocr_confidence": 0.888,
     "source_text": {
       "fvm": "13(15)",
       "quotation": "4(5)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:fitzjim"
   },
   {
     "role": "C",
@@ -7660,12 +8218,13 @@
     "quotation_prev": 5,
     "page": 5,
     "team_number": 16,
-    "ocr_confidence": 0.868,
+    "ocr_confidence": 0.858,
     "source_text": {
       "fvm": "10(12)",
       "quotation": "4(5)"
     },
-    "manually_verified": true
+    "manually_verified": true,
+    "id": "player:ilkhan"
   },
   {
     "role": "C",
@@ -7678,12 +8237,13 @@
     "quotation_prev": 3,
     "page": 5,
     "team_number": 17,
-    "ocr_confidence": 0.947,
+    "ocr_confidence": 0.889,
     "source_text": {
       "fvm": "12(19)",
       "quotation": "4(3)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:njie"
   },
   {
     "role": "C",
@@ -7696,12 +8256,13 @@
     "quotation_prev": 2,
     "page": 5,
     "team_number": 18,
-    "ocr_confidence": 0.873,
+    "ocr_confidence": 0.857,
     "source_text": {
       "fvm": "5(4)",
       "quotation": "3(2)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:aboukhlal"
   },
   {
     "role": "C",
@@ -7714,12 +8275,13 @@
     "quotation_prev": 1,
     "page": 5,
     "team_number": 19,
-    "ocr_confidence": 0.806,
+    "ocr_confidence": 0.883,
     "source_text": {
       "fvm": "4(4)",
-      "quotation": "1（1)"
+      "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:anjorin"
   },
   {
     "role": "C",
@@ -7732,16 +8294,17 @@
     "quotation_prev": 1,
     "page": 5,
     "team_number": 20,
-    "ocr_confidence": 0.854,
+    "ocr_confidence": 0.845,
     "source_text": {
       "fvm": "4(4)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:ilic"
   },
   {
     "role": "A",
-    "role_detail": "A(Pc)",
+    "role_detail": "A(PC)",
     "name": "Simeone",
     "club": "Torino",
     "fvm": 82,
@@ -7750,12 +8313,13 @@
     "quotation_prev": 15,
     "page": 5,
     "team_number": 21,
-    "ocr_confidence": 0.846,
+    "ocr_confidence": 0.922,
     "source_text": {
       "fvm": "82(79)",
       "quotation": "15(15)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:simeone"
   },
   {
     "role": "A",
@@ -7768,12 +8332,13 @@
     "quotation_prev": 10,
     "page": 5,
     "team_number": 22,
-    "ocr_confidence": 0.961,
+    "ocr_confidence": 0.929,
     "source_text": {
       "fvm": "32(34)",
       "quotation": "9(10)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:adamsc"
   },
   {
     "role": "A",
@@ -7786,12 +8351,13 @@
     "quotation_prev": 6,
     "page": 5,
     "team_number": 23,
-    "ocr_confidence": 0.904,
+    "ocr_confidence": 0.888,
     "source_text": {
       "fvm": "18(16)",
       "quotation": "7(6)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:zapatad"
   },
   {
     "role": "A",
@@ -7804,12 +8370,13 @@
     "quotation_prev": 3,
     "page": 5,
     "team_number": 24,
-    "ocr_confidence": 0.881,
+    "ocr_confidence": 0.862,
     "source_text": {
       "fvm": "9(7)",
       "quotation": "4(3)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:kulenovic"
   },
   {
     "role": "P",
@@ -7822,12 +8389,13 @@
     "quotation_prev": 9,
     "page": 5,
     "team_number": 1,
-    "ocr_confidence": 0.928,
+    "ocr_confidence": 0.951,
     "source_text": {
       "fvm": "29(29)",
-      "quotation": "(6)6"
+      "quotation": "9(9)"
     },
-    "manually_verified": true
+    "manually_verified": false,
+    "id": "player:okoye"
   },
   {
     "role": "P",
@@ -7840,12 +8408,13 @@
     "quotation_prev": 1,
     "page": 5,
     "team_number": 2,
-    "ocr_confidence": 0.836,
+    "ocr_confidence": 0.885,
     "source_text": {
-      "fvm": "1（1)",
+      "fvm": "1(1)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:padelli"
   },
   {
     "role": "P",
@@ -7858,12 +8427,13 @@
     "quotation_prev": 1,
     "page": 5,
     "team_number": 3,
-    "ocr_confidence": 0.909,
+    "ocr_confidence": 0.969,
     "source_text": {
       "fvm": "1(1)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:piana"
   },
   {
     "role": "D",
@@ -7876,12 +8446,13 @@
     "quotation_prev": 13,
     "page": 5,
     "team_number": 4,
-    "ocr_confidence": 0.884,
+    "ocr_confidence": 0.914,
     "source_text": {
       "fvm": "46(46)",
       "quotation": "13(13)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:solet"
   },
   {
     "role": "D",
@@ -7894,12 +8465,13 @@
     "quotation_prev": 8,
     "page": 5,
     "team_number": 5,
-    "ocr_confidence": 0.944,
+    "ocr_confidence": 0.947,
     "source_text": {
       "fvm": "19(19)",
       "quotation": "8(8)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:vojvoda"
   },
   {
     "role": "D",
@@ -7912,12 +8484,13 @@
     "quotation_prev": 8,
     "page": 5,
     "team_number": 6,
-    "ocr_confidence": 0.941,
+    "ocr_confidence": 0.952,
     "source_text": {
       "fvm": "15(17)",
       "quotation": "7(8)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:kristensent"
   },
   {
     "role": "D",
@@ -7928,14 +8501,15 @@
     "fvm_prev": 12,
     "quotation": 6,
     "quotation_prev": 6,
-    "page": 5,
+    "page": 6,
     "team_number": 7,
-    "ocr_confidence": 0.89,
+    "ocr_confidence": 1.0,
     "source_text": {
       "fvm": "12(12)",
       "quotation": "6(6)"
     },
-    "manually_verified": false
+    "manually_verified": true,
+    "id": "player:kamarah"
   },
   {
     "role": "D",
@@ -7946,14 +8520,15 @@
     "fvm_prev": 8,
     "quotation": 4,
     "quotation_prev": 4,
-    "page": 5,
+    "page": 6,
     "team_number": 8,
-    "ocr_confidence": 0.89,
+    "ocr_confidence": 0.879,
     "source_text": {
       "fvm": "8(8)",
       "quotation": "4(4)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:arizala"
   },
   {
     "role": "D",
@@ -7964,14 +8539,15 @@
     "fvm_prev": 14,
     "quotation": 4,
     "quotation_prev": 6,
-    "page": 5,
+    "page": 6,
     "team_number": 9,
-    "ocr_confidence": 0.919,
+    "ocr_confidence": 0.918,
     "source_text": {
       "fvm": "10(14)",
       "quotation": "4(6)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:bertola"
   },
   {
     "role": "D",
@@ -7982,14 +8558,15 @@
     "fvm_prev": 9,
     "quotation": 4,
     "quotation_prev": 4,
-    "page": 5,
+    "page": 6,
     "team_number": 10,
-    "ocr_confidence": 0.85,
+    "ocr_confidence": 0.94,
     "source_text": {
       "fvm": "(6)6",
       "quotation": "4(4)"
     },
-    "manually_verified": true
+    "manually_verified": true,
+    "id": "player:kabasele"
   },
   {
     "role": "D",
@@ -8002,12 +8579,13 @@
     "quotation_prev": 4,
     "page": 6,
     "team_number": 11,
-    "ocr_confidence": 0.887,
+    "ocr_confidence": 0.94,
     "source_text": {
       "fvm": "10(10)",
       "quotation": "4(4)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:zanoli"
   },
   {
     "role": "D",
@@ -8020,12 +8598,13 @@
     "quotation_prev": 2,
     "page": 6,
     "team_number": 12,
-    "ocr_confidence": 0.941,
+    "ocr_confidence": 0.943,
     "source_text": {
       "fvm": "4(4)",
       "quotation": "2(2)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:ebosse"
   },
   {
     "role": "D",
@@ -8038,12 +8617,13 @@
     "quotation_prev": 2,
     "page": 6,
     "team_number": 13,
-    "ocr_confidence": 0.915,
+    "ocr_confidence": 0.929,
     "source_text": {
       "fvm": "5(5)",
       "quotation": "2(2)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:palma"
   },
   {
     "role": "D",
@@ -8056,12 +8636,13 @@
     "quotation_prev": 1,
     "page": 6,
     "team_number": 14,
-    "ocr_confidence": 0.877,
+    "ocr_confidence": 0.889,
     "source_text": {
       "fvm": "3(3)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:abankwah"
   },
   {
     "role": "D",
@@ -8074,12 +8655,13 @@
     "quotation_prev": 1,
     "page": 6,
     "team_number": 15,
-    "ocr_confidence": 0.915,
+    "ocr_confidence": 0.906,
     "source_text": {
       "fvm": "3(3)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:mlacic"
   },
   {
     "role": "C",
@@ -8092,12 +8674,13 @@
     "quotation_prev": 17,
     "page": 6,
     "team_number": 16,
-    "ocr_confidence": 0.904,
+    "ocr_confidence": 0.897,
     "source_text": {
       "fvm": "90(88)",
       "quotation": "18(17)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:zaniolo"
   },
   {
     "role": "C",
@@ -8110,12 +8693,13 @@
     "quotation_prev": 10,
     "page": 6,
     "team_number": 17,
-    "ocr_confidence": 0.928,
+    "ocr_confidence": 0.903,
     "source_text": {
       "fvm": "41(41)",
       "quotation": "10(10)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:ekkelenkamp"
   },
   {
     "role": "C",
@@ -8128,12 +8712,13 @@
     "quotation_prev": 6,
     "page": 6,
     "team_number": 18,
-    "ocr_confidence": 0.952,
+    "ocr_confidence": 0.675,
     "source_text": {
       "fvm": "23(20)",
       "quotation": "7(6)"
     },
-    "manually_verified": false
+    "manually_verified": true,
+    "id": "player:unaigomez"
   },
   {
     "role": "C",
@@ -8146,12 +8731,13 @@
     "quotation_prev": 7,
     "page": 6,
     "team_number": 19,
-    "ocr_confidence": 0.922,
+    "ocr_confidence": 0.925,
     "source_text": {
       "fvm": "20(23)",
       "quotation": "6(7)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:karlstrom"
   },
   {
     "role": "C",
@@ -8164,12 +8750,13 @@
     "quotation_prev": 6,
     "page": 6,
     "team_number": 20,
-    "ocr_confidence": 0.904,
+    "ocr_confidence": 0.918,
     "source_text": {
       "fvm": "15(17)",
       "quotation": "5(6)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:piotrowski"
   },
   {
     "role": "C",
@@ -8182,12 +8769,13 @@
     "quotation_prev": 3,
     "page": 6,
     "team_number": 21,
-    "ocr_confidence": 0.899,
+    "ocr_confidence": 0.95,
     "source_text": {
       "fvm": "12(15)",
       "quotation": "3(3)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:millerl"
   },
   {
     "role": "C",
@@ -8200,12 +8788,13 @@
     "quotation_prev": 2,
     "page": 6,
     "team_number": 22,
-    "ocr_confidence": 0.91,
+    "ocr_confidence": 0.93,
     "source_text": {
       "fvm": "6(6)",
       "quotation": "2(2)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:chakvetadze"
   },
   {
     "role": "C",
@@ -8218,12 +8807,13 @@
     "quotation_prev": 1,
     "page": 6,
     "team_number": 23,
-    "ocr_confidence": 0.876,
+    "ocr_confidence": 0.89,
     "source_text": {
       "fvm": "3(3)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:camaraa"
   },
   {
     "role": "C",
@@ -8236,12 +8826,13 @@
     "quotation_prev": 1,
     "page": 6,
     "team_number": 24,
-    "ocr_confidence": 0.814,
+    "ocr_confidence": 0.827,
     "source_text": {
-      "fvm": "4(4)",
+      "fvm": "4（4)",
       "quotation": "1（1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:zarraga"
   },
   {
     "role": "A",
@@ -8254,12 +8845,13 @@
     "quotation_prev": 19,
     "page": 6,
     "team_number": 25,
-    "ocr_confidence": 0.937,
+    "ocr_confidence": 0.949,
     "source_text": {
       "fvm": "121(121)",
       "quotation": "19(19)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:davisk"
   },
   {
     "role": "A",
@@ -8272,12 +8864,13 @@
     "quotation_prev": 3,
     "page": 6,
     "team_number": 26,
-    "ocr_confidence": 0.858,
+    "ocr_confidence": 0.889,
     "source_text": {
       "fvm": "7(6)",
       "quotation": "4(3)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:gueye"
   },
   {
     "role": "A",
@@ -8290,16 +8883,17 @@
     "quotation_prev": 2,
     "page": 6,
     "team_number": 27,
-    "ocr_confidence": 0.936,
+    "ocr_confidence": 0.856,
     "source_text": {
       "fvm": "4(4)",
       "quotation": "2(2)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:buksa"
   },
   {
     "role": "A",
-    "role_detail": "A(Pc)",
+    "role_detail": "A(PC)",
     "name": "Bayo V.",
     "club": "Udinese",
     "fvm": 3,
@@ -8308,12 +8902,13 @@
     "quotation_prev": 1,
     "page": 6,
     "team_number": 28,
-    "ocr_confidence": 0.84,
+    "ocr_confidence": 0.868,
     "source_text": {
       "fvm": "3(3)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:bayov"
   },
   {
     "role": "P",
@@ -8326,12 +8921,13 @@
     "quotation_prev": 6,
     "page": 6,
     "team_number": 1,
-    "ocr_confidence": 0.952,
+    "ocr_confidence": 0.914,
     "source_text": {
       "fvm": "14(14)",
       "quotation": "6(6)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:stankovicf"
   },
   {
     "role": "P",
@@ -8344,12 +8940,13 @@
     "quotation_prev": 1,
     "page": 6,
     "team_number": 2,
-    "ocr_confidence": 0.894,
+    "ocr_confidence": 0.964,
     "source_text": {
       "fvm": "1(1)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:grandi"
   },
   {
     "role": "P",
@@ -8362,12 +8959,13 @@
     "quotation_prev": 1,
     "page": 6,
     "team_number": 3,
-    "ocr_confidence": 0.816,
+    "ocr_confidence": 0.81,
     "source_text": {
-      "fvm": "1(1)",
+      "fvm": "1（1)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:pozzi"
   },
   {
     "role": "D",
@@ -8380,12 +8978,13 @@
     "quotation_prev": 6,
     "page": 6,
     "team_number": 4,
-    "ocr_confidence": 0.931,
+    "ocr_confidence": 0.907,
     "source_text": {
       "fvm": "13(13)",
       "quotation": "6(6)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:bellakotchap"
   },
   {
     "role": "D",
@@ -8398,12 +8997,13 @@
     "quotation_prev": 5,
     "page": 6,
     "team_number": 5,
-    "ocr_confidence": 0.912,
+    "ocr_confidence": 0.904,
     "source_text": {
       "fvm": "11(11)",
       "quotation": "5(5)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:haps"
   },
   {
     "role": "D",
@@ -8416,12 +9016,32 @@
     "quotation_prev": 5,
     "page": 6,
     "team_number": 6,
-    "ocr_confidence": 0.93,
+    "ocr_confidence": 0.92,
     "source_text": {
       "fvm": "11(11)",
       "quotation": "5(5)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:morenom"
+  },
+  {
+    "role": "D",
+    "role_detail": "D(Dd,E)",
+    "name": "Correia T.",
+    "club": "Venezia",
+    "fvm": 12,
+    "fvm_prev": 12,
+    "quotation": 4,
+    "quotation_prev": 4,
+    "page": 6,
+    "team_number": 7,
+    "ocr_confidence": 0.852,
+    "source_text": {
+      "fvm": "12(12)",
+      "quotation": "4(4)"
+    },
+    "manually_verified": false,
+    "id": "player:correiat"
   },
   {
     "role": "D",
@@ -8434,12 +9054,13 @@
     "quotation_prev": 4,
     "page": 6,
     "team_number": 8,
-    "ocr_confidence": 0.912,
+    "ocr_confidence": 0.936,
     "source_text": {
       "fvm": "10(10)",
       "quotation": "4(4)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:halhal"
   },
   {
     "role": "D",
@@ -8452,12 +9073,13 @@
     "quotation_prev": 3,
     "page": 6,
     "team_number": 9,
-    "ocr_confidence": 0.885,
+    "ocr_confidence": 0.919,
     "source_text": {
       "fvm": "7(7)",
       "quotation": "3(3)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:hainaut"
   },
   {
     "role": "D",
@@ -8470,12 +9092,13 @@
     "quotation_prev": 3,
     "page": 6,
     "team_number": 10,
-    "ocr_confidence": 0.945,
+    "ocr_confidence": 0.934,
     "source_text": {
       "fvm": "7(7)",
       "quotation": "3(3)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:schingtienne"
   },
   {
     "role": "D",
@@ -8488,12 +9111,13 @@
     "quotation_prev": 3,
     "page": 6,
     "team_number": 11,
-    "ocr_confidence": 0.911,
+    "ocr_confidence": 0.898,
     "source_text": {
       "fvm": "7(7)",
       "quotation": "3(3)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:sverko"
   },
   {
     "role": "D",
@@ -8506,12 +9130,13 @@
     "quotation_prev": 2,
     "page": 6,
     "team_number": 12,
-    "ocr_confidence": 0.941,
+    "ocr_confidence": 0.877,
     "source_text": {
       "fvm": "4(4)",
       "quotation": "2(2)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:franjic"
   },
   {
     "role": "D",
@@ -8524,12 +9149,13 @@
     "quotation_prev": 2,
     "page": 6,
     "team_number": 13,
-    "ocr_confidence": 0.951,
+    "ocr_confidence": 0.828,
     "source_text": {
       "fvm": "4(4)",
       "quotation": "2(2)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:sagrado"
   },
   {
     "role": "D",
@@ -8542,12 +9168,13 @@
     "quotation_prev": 1,
     "page": 6,
     "team_number": 14,
-    "ocr_confidence": 0.9,
+    "ocr_confidence": 0.921,
     "source_text": {
       "fvm": "1(1)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:gomes"
   },
   {
     "role": "C",
@@ -8560,12 +9187,13 @@
     "quotation_prev": 7,
     "page": 6,
     "team_number": 15,
-    "ocr_confidence": 0.933,
+    "ocr_confidence": 0.939,
     "source_text": {
       "fvm": "19(20)",
       "quotation": "6(7)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:basic"
   },
   {
     "role": "C",
@@ -8578,12 +9206,13 @@
     "quotation_prev": 6,
     "page": 6,
     "team_number": 16,
-    "ocr_confidence": 0.898,
+    "ocr_confidence": 0.905,
     "source_text": {
       "fvm": "14(17)",
       "quotation": "5(6)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:busio"
   },
   {
     "role": "C",
@@ -8596,12 +9225,13 @@
     "quotation_prev": 5,
     "page": 6,
     "team_number": 17,
-    "ocr_confidence": 0.935,
+    "ocr_confidence": 0.923,
     "source_text": {
       "fvm": "14(14)",
       "quotation": "5(5)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:perezk"
   },
   {
     "role": "C",
@@ -8614,12 +9244,13 @@
     "quotation_prev": 5,
     "page": 6,
     "team_number": 18,
-    "ocr_confidence": 0.934,
+    "ocr_confidence": 0.936,
     "source_text": {
       "fvm": "14(14)",
       "quotation": "5(5)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:sohm"
   },
   {
     "role": "C",
@@ -8632,12 +9263,13 @@
     "quotation_prev": 3,
     "page": 6,
     "team_number": 19,
-    "ocr_confidence": 0.916,
+    "ocr_confidence": 0.855,
     "source_text": {
       "fvm": "7(7)",
       "quotation": "3(3)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:helgason"
   },
   {
     "role": "C",
@@ -8650,12 +9282,13 @@
     "quotation_prev": 2,
     "page": 6,
     "team_number": 20,
-    "ocr_confidence": 0.961,
+    "ocr_confidence": 0.855,
     "source_text": {
       "fvm": "4(4)",
       "quotation": "2(2)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:duncan"
   },
   {
     "role": "C",
@@ -8668,12 +9301,13 @@
     "quotation_prev": 1,
     "page": 6,
     "team_number": 21,
-    "ocr_confidence": 0.817,
+    "ocr_confidence": 0.834,
     "source_text": {
       "fvm": "1(1)",
-      "quotation": "1（1)"
+      "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:dagasso"
   },
   {
     "role": "A",
@@ -8686,16 +9320,17 @@
     "quotation_prev": 11,
     "page": 6,
     "team_number": 22,
-    "ocr_confidence": 0.911,
+    "ocr_confidence": 0.893,
     "source_text": {
       "fvm": "52(50)",
       "quotation": "12(11)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:adamsa"
   },
   {
     "role": "A",
-    "role_detail": "A(Pc)",
+    "role_detail": "A(PC)",
     "name": "Rrahmani Al.",
     "club": "Venezia",
     "fvm": 20,
@@ -8704,12 +9339,13 @@
     "quotation_prev": 7,
     "page": 6,
     "team_number": 23,
-    "ocr_confidence": 0.887,
+    "ocr_confidence": 0.854,
     "source_text": {
       "fvm": "20(17)",
       "quotation": "8(7)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:rrahmanial"
   },
   {
     "role": "A",
@@ -8722,12 +9358,13 @@
     "quotation_prev": 8,
     "page": 6,
     "team_number": 24,
-    "ocr_confidence": 0.937,
+    "ocr_confidence": 0.948,
     "source_text": {
       "fvm": "28(29)",
       "quotation": "8(8)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:yeboahj"
   },
   {
     "role": "A",
@@ -8740,12 +9377,13 @@
     "quotation_prev": 4,
     "page": 6,
     "team_number": 25,
-    "ocr_confidence": 0.857,
+    "ocr_confidence": 0.907,
     "source_text": {
       "fvm": "14(12)",
       "quotation": "5(4)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:adorante"
   },
   {
     "role": "A",
@@ -8758,12 +9396,13 @@
     "quotation_prev": 1,
     "page": 6,
     "team_number": 26,
-    "ocr_confidence": 0.9,
+    "ocr_confidence": 0.884,
     "source_text": {
       "fvm": "1(1)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:lauberbach"
   },
   {
     "role": "A",
@@ -8776,11 +9415,12 @@
     "quotation_prev": 1,
     "page": 6,
     "team_number": 27,
-    "ocr_confidence": 0.898,
+    "ocr_confidence": 0.922,
     "source_text": {
       "fvm": "1(1)",
       "quotation": "1(1)"
     },
-    "manually_verified": false
+    "manually_verified": false,
+    "id": "player:lisman"
   }
 ]

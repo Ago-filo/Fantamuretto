@@ -50,7 +50,9 @@ git commit -m "Aggiorna listone"
 git push
 ```
 
-Il workflow GitHub Pages pubblica automaticamente la nuova versione. Le Fasce già salvate nel browser non vengono sovrascritte; durante una successiva importazione l'app ignora e segnala gli elementi non compatibili con il listone corrente.
+Il workflow GitHub Pages pubblica automaticamente la nuova versione. Ogni giocatore usa un identificatore stabile indipendente dalla squadra: nuovi acquisti di Serie A compaiono nel listone da valutare, mentre i trasferimenti interni aggiornano il club senza perdere Fasce, prezzi, acquisti o cronologia. Al primo avvio della versione aggiornata l'app conserva anche una copia locale dello stato precedente alla migrazione.
+
+I vecchi file Fasce basati sulla coppia `Nome|Squadra` restano importabili. Gli elementi relativi a giocatori non più presenti nel listone vengono ignorati e segnalati durante l'importazione.
 
 ## Dati e privacy
 
