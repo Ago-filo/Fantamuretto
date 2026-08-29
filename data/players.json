@@ -5755,7 +5755,7 @@
     }
   },
   {
-    "role": "D",
+    "role": "A",
     "role_detail": "A(A)",
     "name": "Esposito Se.",
     "club": "Lecce",
@@ -6860,7 +6860,7 @@
     "id": "player:pellini"
   },
   {
-    "role": "C",
+    "role": "A",
     "role_detail": "A(A)",
     "name": "Yildiz",
     "club": "Juventus",
@@ -6985,7 +6985,7 @@
     }
   },
   {
-    "role": "C",
+    "role": "A",
     "role_detail": "A(A)",
     "name": "De Ketelaere",
     "club": "Atalanta",
@@ -7035,7 +7035,7 @@
     }
   },
   {
-    "role": "C",
+    "role": "A",
     "role_detail": "A(W,A)",
     "name": "Neres",
     "club": "Napoli",
@@ -7260,7 +7260,7 @@
     }
   },
   {
-    "role": "C",
+    "role": "A",
     "role_detail": "A(W,A)",
     "name": "Santos",
     "club": "Napoli",
@@ -7553,7 +7553,7 @@
     }
   },
   {
-    "role": "C",
+    "role": "A",
     "role_detail": "A(W,A)",
     "name": "Boga",
     "club": "Juventus",
@@ -7653,7 +7653,7 @@
     }
   },
   {
-    "role": "C",
+    "role": "A",
     "role_detail": "A(A)",
     "name": "Lang",
     "club": "Napoli",
@@ -8632,7 +8632,7 @@
     }
   },
   {
-    "role": "C",
+    "role": "A",
     "role_detail": "A(T,A)",
     "name": "Maldini",
     "club": "Cagliari",
@@ -9700,7 +9700,7 @@
     }
   },
   {
-    "role": "C",
+    "role": "A",
     "role_detail": "A(W,A)",
     "name": "Kuhn",
     "club": "Como",
@@ -10036,7 +10036,7 @@
     }
   },
   {
-    "role": "C",
+    "role": "A",
     "role_detail": "A(W,A)",
     "name": "Kvernadze",
     "club": "Frosinone",
@@ -10361,7 +10361,7 @@
     }
   },
   {
-    "role": "C",
+    "role": "A",
     "role_detail": "A(A)",
     "name": "Robinson J.",
     "club": "Monza",
@@ -11037,7 +11037,7 @@
     }
   },
   {
-    "role": "C",
+    "role": "A",
     "role_detail": "A(W,A)",
     "name": "Lisman",
     "club": "Venezia",
@@ -12683,7 +12683,7 @@
     }
   },
   {
-    "role": "A",
+    "role": "C",
     "role_detail": "C(W,A)",
     "name": "Orsolini",
     "club": "Bologna",
@@ -13176,7 +13176,7 @@
     }
   },
   {
-    "role": "A",
+    "role": "C",
     "role_detail": "C(T,A)",
     "name": "Gudmundsson",
     "club": "Fiorentina",
@@ -13805,7 +13805,7 @@
     }
   },
   {
-    "role": "A",
+    "role": "C",
     "role_detail": "C(W,A)",
     "name": "Njie",
     "club": "Torino",
@@ -13984,7 +13984,7 @@
     "id": "player:osmajic"
   },
   {
-    "role": "A",
+    "role": "C",
     "role_detail": "C(W,A)",
     "name": "Almqvist",
     "club": "Parma",
@@ -14134,7 +14134,7 @@
     }
   },
   {
-    "role": "A",
+    "role": "C",
     "role_detail": "C(W,A)",
     "name": "Diallo O.",
     "club": "Parma",
@@ -14195,7 +14195,7 @@
     "id": "player:keitab"
   },
   {
-    "role": "A",
+    "role": "C",
     "role_detail": "C(W)",
     "name": "Fini",
     "club": "Frosinone",

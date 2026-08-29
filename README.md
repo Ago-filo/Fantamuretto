@@ -62,7 +62,7 @@ Un CSV Fantapazz con colonne `Ruolo;Calciatore;Squadra;Quotazione` può essere i
 node scripts/import-fantapazz-list.mjs "percorso/al/Listone_Fantapazz.csv"
 ```
 
-Le righe senza squadra vengono considerate uscite dalla Serie A e non entrano nel listone. L'importatore riconcilia abbreviazioni, iniziali e piccoli refusi per conservare gli identificatori già usati da Fasce e cronologia. Il FVM resta soltanto come dato tecnico di compatibilità e non viene mostrato né utilizzato nelle analisi.
+Le righe senza squadra vengono considerate uscite dalla Serie A e non entrano nel listone. L'importatore riconcilia abbreviazioni, iniziali e piccoli refusi per conservare gli identificatori già usati da Fasce e cronologia. Per i giocatori già presenti conserva anche il ruolo esistente: squadra e quotazione vengono aggiornate dal CSV, mentre il ruolo del CSV viene usato soltanto per i nuovi giocatori. Il ruolo resta comunque modificabile manualmente dall'app. Il FVM resta soltanto come dato tecnico di compatibilità e non viene mostrato né utilizzato nelle analisi.
 
 Il workflow GitHub Pages pubblica automaticamente la nuova versione. Ogni giocatore usa un identificatore stabile indipendente dalla squadra: nuovi acquisti di Serie A compaiono nel listone da valutare, mentre i trasferimenti interni aggiornano il club senza perdere Fasce, prezzi, acquisti o cronologia. Al primo avvio della versione aggiornata l'app conserva anche una copia locale dello stato precedente alla migrazione.
 
