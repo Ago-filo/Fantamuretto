@@ -1,0 +1,7 @@
+.players-head,.player-row{grid-template-columns:minmax(185px,1.45fr) minmax(80px,.8fr) 58px 105px 25px}
+.player-metrics{grid-template-columns:1fr}
+.player-metrics div{border-right:0}
+.player-editor-grid{grid-template-columns:1fr 2fr 1.35fr}
+.quick-prices [data-personal-price]{flex:1.6;color:#315e40;border-color:#78937e;background:#f1f7ef}
+body[data-theme="dark"] .quick-prices [data-personal-price]{color:#b9dabd;border-color:#526c58;background:#243229}
+@media(max-width:600px){.players-head,.player-row{grid-template-columns:1fr 60px 42px 23px}}
