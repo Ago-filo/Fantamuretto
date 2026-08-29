@@ -54,6 +54,14 @@ Il workflow GitHub Pages pubblica automaticamente la nuova versione. Ogni giocat
 
 I vecchi file Fasce basati sulla coppia `Nome|Squadra` restano importabili. Gli elementi relativi a giocatori non più presenti nel listone vengono ignorati e segnalati durante l'importazione.
 
+### Correzioni e giocatori manuali
+
+Dalla schermata **Asta live** il pulsante **+ Giocatore** permette di inserire immediatamente un nuovo calciatore con nome, ruolo, squadra, quotazione e FVM. Dalla scheda di qualsiasi giocatore si possono inoltre correggere squadra e valori tramite **Modifica dati giocatore**.
+
+Queste modifiche restano nel browser e non alterano `data/players.json`. I giocatori aggiunti manualmente mantengono lo stesso identificatore stabile usato dal listone: se un aggiornamento ufficiale introduce in seguito lo stesso giocatore, la voce ufficiale prende automaticamente il suo posto senza scollegare Fasce o risultati d'asta. Le correzioni applicate a un giocatore ufficiale possono essere annullate con **Ripristina dati ufficiali**.
+
+Se il nome ufficiale non coincide esattamente ma è molto simile a quello inserito manualmente, il controllo anti-doppione mostra entrambe le voci e richiede di scegliere **Unisci con quello ufficiale** oppure **Sono giocatori diversi**. L'unione trasferisce alla nuova chiave ufficiale Fasce, acquisti, chiamate, formazioni e cronologia; prima dell'operazione viene conservata nel browser una copia dello stato precedente.
+
 ## Dati e privacy
 
 L'app non usa un database e non sincronizza dati personali tra dispositivi. Acquisti, prezzi, nomi delle squadre e configurazioni sono memorizzati nel `localStorage` del browser. I file Fasce esportati sono esclusi da Git tramite `.gitignore`.
