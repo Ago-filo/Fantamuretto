@@ -1,0 +1,5 @@
+.tier-role-tabs .add-tier{margin-left:auto;border-style:dashed;color:var(--green)}
+.tier-board{grid-template-columns:repeat(auto-fit,minmax(210px,1fr))}
+body[data-theme="dark"] .tier-role-tabs .add-tier{color:#c8f36a;border-style:dashed}
+@media(max-width:800px){.tier-role-tabs .add-tier{margin-left:0}}
+@media(max-width:600px){.tier-board{grid-template-columns:1fr}}

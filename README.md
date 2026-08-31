@@ -2,6 +2,8 @@
 
 Regia locale per l'asta del fantacalcio: listone, fasce personali, budget, rose avversarie e probabili XI.
 
+Nella sezione **Situazione avversari** della home si può passare dalle schede alla **Tabella live**: una vista compatta con giocatori acquistati, crediti spesi e residui, massimo rilancio e posti ancora liberi per P, D, C e A. Se è aperto un giocatore, la colonna del suo ruolo viene evidenziata; cliccando una riga si apre la rosa completa della squadra.
+
 ## Utilizzo online
 
 La versione pubblicata con GitHub Pages non richiede installazione. Tutti i dati personali dell'asta restano nel browser del dispositivo utilizzato.
@@ -21,6 +23,8 @@ Il comando **Fasce CSV** permette di esportare un modello apribile con Excel. Il
 Dopo le modifiche, salvare da Excel come **CSV UTF-8** e usare **Importa Fasce CSV**. Sono accettati file separati da punto e virgola, virgola o tabulazione. Le colonne minime sono `Giocatore` e `Fascia`; `Prezzo` vale 1 se lasciato vuoto. `Squadra` è consigliata perché permette di distinguere eventuali omonimi, mentre `Ruolo` è informativa. Le righe senza Fascia restano fuori dalle valutazioni. L'importazione CSV sostituisce soltanto Fasce, prezzi e ordine, senza modificare listone locale, impostazioni o andamento dell'asta.
 
 ## Primo accesso e Fasce neutre
+
+Le Fasce iniziali sono S, A, B, C e D. Dalla schermata **Fasce** il comando **Nuova fascia** permette di aggiungerne altre (per esempio E, F o G); le nuove fasce vengono salvate nel browser, aggiunte ai menu e considerate nel loro ordine dalla Bussola d'asta.
 
 Chi apre il sito per la prima volta può scegliere se usare una base neutrale, importare un proprio file oppure partire da zero. La base neutrale non usa quotazioni ufficiali: inserisce tutti i giocatori in Tier D a 1 credito, lasciando all'utente ogni valutazione.
 

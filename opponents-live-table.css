@@ -1,0 +1,43 @@
+.opponent-view-switch{margin-left:auto;padding:3px;display:flex;gap:2px;border:1px solid var(--line);border-radius:5px;background:#f1f4ef}
+.opponent-view-switch button{height:31px;padding:0 11px;border:0;border-radius:3px;background:transparent;color:var(--muted);font-size:8px;font-weight:700;white-space:nowrap;cursor:pointer}
+.opponent-view-switch button.active{background:#fff;color:var(--green);box-shadow:0 1px 4px #172b1814}
+.opponents-grid.opponents-table-mode{display:block;padding:0;background:#fff;overflow:hidden}
+.opponents-table-wrap{width:100%;max-height:510px;overflow:auto;overscroll-behavior:contain}
+.opponents-table-wrap table{width:100%;min-width:820px;border-spacing:0;border-collapse:separate;font-variant-numeric:tabular-nums}
+.opponents-table-wrap th,.opponents-table-wrap td{height:48px;padding:0 11px;border-right:1px solid #e7ebe5;border-bottom:1px solid #e2e7df;text-align:center;font:700 10px "Space Mono",monospace;white-space:nowrap}
+.opponents-table-wrap thead th{position:sticky;top:0;z-index:3;height:42px;background:#edf1eb;color:#657067;font-size:7px;letter-spacing:.06em;text-transform:uppercase}
+.opponents-table-wrap tbody tr{background:#fff;cursor:pointer;outline:0}
+.opponents-table-wrap tbody tr:nth-child(even){background:#fafbf8}
+.opponents-table-wrap tbody tr:hover,.opponents-table-wrap tbody tr:focus-visible{background:#f0f7ec}
+.opponents-table-wrap .team-index{width:42px;padding:0 7px;color:#829083;font-size:8px}
+.opponents-table-wrap .team-name{position:sticky;left:0;z-index:1;width:210px;max-width:210px;text-align:left;background:inherit;box-shadow:1px 0 0 #dfe5dc}
+.opponents-table-wrap thead .team-name{z-index:4;background:#edf1eb}
+.opponents-table-wrap .team-name button{width:100%;min-width:0;padding:0;border:0;background:transparent;color:var(--ink);display:flex;align-items:center;justify-content:space-between;gap:8px;text-align:left;cursor:pointer}
+.opponents-table-wrap .team-name button span{overflow:hidden;text-overflow:ellipsis}
+.opponents-table-wrap .team-name button i{color:#719078;font-size:9px;font-style:normal;opacity:.35}
+.opponents-table-wrap .team-name button:hover i{opacity:1}
+.opponents-table-wrap td small{margin-left:2px;color:var(--muted);font-size:7px}
+.opponents-table-wrap .budget-left b{color:var(--green);font-size:14px}
+.opponents-table-wrap .max-bid b{font-size:13px}
+.opponents-table-wrap tr.low-budget .budget-left b{color:#a74e48}
+.opponents-table-wrap .role-column{min-width:70px;padding:0 7px}
+.opponents-table-wrap .role-column .role{width:20px;height:20px;margin-right:5px;font-size:7px;vertical-align:middle}
+.opponents-table-wrap .role-column span{vertical-align:middle}
+.opponents-table-wrap .role-free b{display:block;font-size:14px;line-height:14px}
+.opponents-table-wrap .role-free small{display:block;margin:3px 0 0;font-size:6px;line-height:7px}
+.opponents-table-wrap .role-free.complete{color:#a0a7a0;background:#f2f3f0}
+.opponents-table-wrap .active-role{background:#edf8de!important;box-shadow:inset 2px 0 #9acb56,inset -2px 0 #9acb56}
+.opponents-table-wrap thead .active-role{color:#3d6c24}
+body[data-theme="dark"] .opponent-view-switch{background:#141916;border-color:#39423b}
+body[data-theme="dark"] .opponent-view-switch button.active{background:#2a332c;color:#c8f36a;box-shadow:none}
+body[data-theme="dark"] .opponents-grid.opponents-table-mode{background:#191f1b}
+body[data-theme="dark"] .opponents-table-wrap th,body[data-theme="dark"] .opponents-table-wrap td{border-color:#303832}
+body[data-theme="dark"] .opponents-table-wrap thead th,body[data-theme="dark"] .opponents-table-wrap thead .team-name{background:#252d27;color:#aeb8b0}
+body[data-theme="dark"] .opponents-table-wrap tbody tr{background:#1d241f}
+body[data-theme="dark"] .opponents-table-wrap tbody tr:nth-child(even){background:#202821}
+body[data-theme="dark"] .opponents-table-wrap tbody tr:hover,body[data-theme="dark"] .opponents-table-wrap tbody tr:focus-visible{background:#29352b}
+body[data-theme="dark"] .opponents-table-wrap .team-name button{color:#edf2eb}
+body[data-theme="dark"] .opponents-table-wrap .role-free.complete{background:#171c19;color:#788079}
+body[data-theme="dark"] .opponents-table-wrap .active-role{background:#293a24!important;box-shadow:inset 2px 0 #91c852,inset -2px 0 #91c852}
+@media(max-width:900px){.opponents-dashboard>header{flex-wrap:wrap}.opponent-view-switch{order:3;margin-left:0}.opponents-table-wrap{max-height:440px}}
+@media(max-width:600px){.opponent-view-switch{width:100%}.opponent-view-switch button{flex:1}.opponents-grid.opponents-table-mode{display:block}.opponents-table-wrap .team-name{width:155px;max-width:155px}.opponents-table-wrap th,.opponents-table-wrap td{padding:0 8px}}
