@@ -2,7 +2,7 @@
 
 Regia locale per l'asta del fantacalcio: listone, fasce personali, budget, rose avversarie e probabili XI.
 
-Nella sezione **Situazione avversari** della home si può passare dalle schede alla **Tabella live**: una vista compatta con giocatori acquistati, crediti spesi e residui, massimo rilancio e posti ancora liberi per P, D, C e A. Se è aperto un giocatore, la colonna del suo ruolo viene evidenziata; cliccando una riga si apre la rosa completa della squadra.
+Nella sezione **Situazione avversari** della home si può passare dalle schede alla **Tabella live**: una vista compatta con i nomi e i prezzi dei giocatori acquistati, crediti spesi e residui, massimo rilancio e posti ancora liberi per P, D, C e A. Gli acquisti di ogni squadra sono consultabili direttamente nella riga tramite una striscia orizzontale. Se è aperto un giocatore, la colonna del suo ruolo viene evidenziata; cliccando una riga si apre la rosa completa della squadra.
 
 ## Utilizzo online
 
