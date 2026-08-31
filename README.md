@@ -6,6 +6,8 @@ Nella sezione **Situazione avversari** della home si può passare dalle schede a
 
 Nelle pagine diverse dalla Regia d'asta, il pannello live resta ancorato in alto a destra. Si espande automaticamente quando è selezionato un giocatore ancora all'asta e torna compatto quando la chiamata viene chiusa o non c'è alcun giocatore selezionato; può comunque essere aperto o ridotto manualmente.
 
+La probabile formazione di una squadra avversaria parte dal **4-3-3**; ogni modulo scelto manualmente per quella squadra viene salvato e mantiene la precedenza.
+
 ## Utilizzo online
 
 La versione pubblicata con GitHub Pages non richiede installazione. Tutti i dati personali dell'asta restano nel browser del dispositivo utilizzato.
