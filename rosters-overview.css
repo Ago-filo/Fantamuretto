@@ -1,0 +1,35 @@
+#rostersView{padding-bottom:20px}
+#rostersView .page-head{padding:30px 24px 20px;min-height:150px;padding-right:380px}
+.rosters-toolbar{display:flex;align-items:center;gap:20px;padding:0 24px 16px;font-size:12px;color:var(--muted)}
+.rosters-toolbar label{display:flex;align-items:center;gap:10px;color:var(--ink);font-weight:600}
+.rosters-toolbar select,.rosters-toolbar button{padding:8px 10px;border:1px solid var(--line);border-radius:4px;background:var(--paper);color:var(--ink);font-size:12px}
+.rosters-toolbar button{cursor:pointer;margin-left:auto}
+#rostersScroll{margin:0 24px;max-height:calc(100dvh - 292px);overflow:auto;border:1px solid var(--line);overscroll-behavior:contain;scrollbar-width:thin;background:var(--paper)}
+#rostersTable{width:100%;min-width:calc(var(--team-count)*122px);table-layout:fixed;border-spacing:0;font-variant-numeric:tabular-nums}
+#rostersTable th,#rostersTable td{border-right:1px solid var(--line);border-bottom:1px solid var(--line);text-align:left;padding:0 8px}
+#rostersTable th:last-child,#rostersTable td:last-child{border-right:0}
+#rostersHead th{position:sticky;top:0;z-index:2;background:var(--paper);height:94px;vertical-align:middle;box-shadow:0 1px 0 var(--line)}
+#rostersHead strong{display:block;font-size:13px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;margin-bottom:9px}
+#rostersHead b{display:block;font-size:16px;color:var(--green)}
+#rostersHead small{font-size:9px;font-weight:400;color:var(--muted)}
+#rostersHead span{display:block;font-size:10px;font-weight:400;color:var(--muted);margin-top:4px}
+#rostersTable td{height:34px;font-size:11px}
+#rostersTable .my-team{background:#edf5e7}
+#rostersHead .my-team{box-shadow:inset 0 3px #79a850,0 1px 0 var(--line)}
+#rostersTable .rosters-role td{background:var(--line);height:30px;font-size:10px}
+.rosters-role span{float:right;color:var(--muted)}
+#rostersTable .rosters-role.current-role td{background:#173d2a;color:#fff}
+.rosters-role.current-role span{color:#c8f36a}
+.rosters-player{display:flex;align-items:center;gap:4px;min-width:0}
+.rosters-player>span{min-width:0;flex:1}
+.rosters-player b{display:block;font-size:11px;font-weight:600;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.rosters-player small{display:block;font-size:9px;color:var(--muted)}
+.rosters-player em{font-size:11px;font-style:normal;font-weight:700;flex:none;padding-left:4px}
+.rosters-empty{color:var(--muted);opacity:.45}
+.rosters-sr-only{position:absolute;width:1px;height:1px;padding:0;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
+#rostersView :focus-visible{outline:2px solid #80b644;outline-offset:-2px}
+.toast{pointer-events:none}
+@media(max-width:700px){.bid-panel.floating{bottom:70px}}
+body[data-theme="dark"] #rostersTable .my-team{background:#223322}
+@media(max-width:1150px) and (min-width:901px){.main-nav{gap:0}.main-nav button{padding:0 10px}.live-status{display:none}}
+@media(max-width:900px){#rostersView .page-head{padding:24px 16px;min-height:0}.rosters-toolbar{padding:0 16px 12px;gap:12px;flex-wrap:wrap}#rostersScroll{margin:0 12px;max-height:calc(100dvh - 330px)}#rostersTable{min-width:calc(var(--team-count)*150px)}#rostersView{padding-bottom:80px}.toast{bottom:75px}}
