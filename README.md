@@ -2,6 +2,8 @@
 
 Regia locale per l'asta del fantacalcio: listone, fasce personali, budget, rose avversarie e probabili XI.
 
+Il pannello **Rose avversarie** resta disponibile in tutte le schermate: ogni squadra ha una colonna con giocatori e prezzi in verticale, suddivisi per ruolo, crediti residui, massimo rilancio e posti liberi. Le colonne scorrono insieme per confrontare le rose; i menu permettono di raggiungere una squadra o filtrare un reparto senza cambiare la chiamata attiva. Su desktop il pannello occupa uno spazio dedicato a destra; sugli schermi più piccoli parte ridotto in basso, sopra la navigazione. **Riduci / Apri** salva la preferenza nel browser. Gli acquisti si aggiornano automaticamente anche dopo assegnazioni, annullamenti e reset.
+
 Nella sezione **Situazione avversari** della home si può passare dalle schede alla **Tabella live**: una vista compatta con i nomi e i prezzi dei giocatori acquistati, crediti spesi e residui, massimo rilancio e posti ancora liberi per P, D, C e A. Gli acquisti di ogni squadra sono consultabili direttamente nella riga tramite una striscia orizzontale. Se è aperto un giocatore, la colonna del suo ruolo viene evidenziata; cliccando una riga si apre la rosa completa della squadra.
 
 Nelle pagine diverse dalla Regia d'asta, il pannello live resta ancorato in alto a destra. Si espande automaticamente quando è selezionato un giocatore ancora all'asta e torna compatto quando la chiamata viene chiusa o non c'è alcun giocatore selezionato; può comunque essere aperto o ridotto manualmente.
