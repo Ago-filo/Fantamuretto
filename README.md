@@ -2,6 +2,16 @@
 
 Regia locale per l'asta del fantacalcio: listone, fasce personali, budget, rose avversarie e probabili XI.
 
+[Prova la demo online](https://ago-filo.github.io/Fantamuretto/)
+
+## Anteprima
+
+Schermate della demo con base neutrale e nessun piano d'asta personale.
+
+![Regia d'asta di Fantamuretto con budget, consigli e rose avversarie](https://ago-filo.github.io/images/fantamuretto-dashboard.png)
+
+![Pagina Fasce di Fantamuretto con classificazione e prezzi obiettivo](https://ago-filo.github.io/images/fantamuretto-fasce.png)
+
 La pagina **Rose** mostra tutte le squadre insieme, inclusa la propria: una colonna per squadra e giocatori in verticale, con prezzi, crediti residui, massimo rilancio e copertura della rosa. Le righe dei reparti sono allineate per confrontare gli acquisti. Su desktop le dieci colonne sfruttano tutta la larghezza; sugli schermi piccoli il tabellone scorre in orizzontale. I nomi delle squadre restano visibili durante lo scorrimento verticale. Un filtro permette di consultare un solo reparto e gli acquisti non assegnati possono essere sistemati direttamente dalla pagina. La regia flottante entra ridotta e può essere aperta per continuare le chiamate. Questa pagina sostituisce il pannello laterale delle rose.
 
 Nella sezione **Situazione avversari** della home si può passare dalle schede alla **Tabella live**: una vista compatta con i nomi e i prezzi dei giocatori acquistati, crediti spesi e residui, massimo rilancio e posti ancora liberi per P, D, C e A. Gli acquisti di ogni squadra sono consultabili direttamente nella riga tramite una striscia orizzontale. Se è aperto un giocatore, la colonna del suo ruolo viene evidenziata; cliccando una riga si apre la rosa completa della squadra.
